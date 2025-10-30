@@ -1,0 +1,46 @@
+{
+  "question": "Siapa yang menggunakan lab fisika UNSIQ?",
+  "answer": "Mahasiswa jurusan Pendidikan Fisika dan program studi lain yang memerlukan praktikum dasar fisika dapat menggunakan fasilitas ini.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Siapa sajakah yang memiliki akses untuk menggunakan Laboratorium Fisika UNSIQ?"
+    },
+    {
+      "style": "formal",
+      "question": "Untuk mahasiswa program studi apa sajakah Laboratorium Fisika UNSIQ diperuntukkan?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon jelaskan siapa saja yang dapat memanfaatkan fasilitas Laboratorium Fisika di UNSIQ."
+    },
+    {
+      "style": "non-formal",
+      "question": "Siapa aja yang boleh masuk lab fisika UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Lab fisika UNSIQ buat jurusan apa aja?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Selain anak fisika, boleh gak ke lab fisika UNSIQ?"
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, yang bisa ke lab fisika UNSIQ siapa aja?"
+    },
+    {
+      "style": "gaul",
+      "question": "Lab fisika UNSIQ cuma buat anak fisika doang?"
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, kita dari prodi lain boleh gak ke lab fisika?"
+    },
+    {
+      "style": "gaul",
+      "question": "Lab fisika UNSIQ, siapa aja yang boleh masuk?"
+    }
+  ]
+}

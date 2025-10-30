@@ -1,0 +1,46 @@
+{
+  "question": "Apa saja biaya matrikulasi mahasiswa baru UNSIQ?",
+  "answer": "Mahasiswa baru dikenakan biaya matrikulasi untuk BTQ, Bahasa Inggris, Komputer, dan Bahasa Arab masing-masing sebesar Rp150.000, total Rp600.000. Jika lulus pretest, biaya berkurang menjadi Rp50.000 per mata pelajaran hanya untuk sertifikat.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Mohon rincian mengenai komponen biaya matrikulasi bagi mahasiswa baru di UNSIQ."
+    },
+    {
+      "style": "formal",
+      "question": "Apa sajakah yang termasuk dalam biaya matrikulasi untuk mahasiswa baru?"
+    },
+    {
+      "style": "formal",
+      "question": "Bagaimanakah struktur biaya matrikulasi yang dibebankan kepada mahasiswa baru?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Biaya matrikulasi untuk mahasiswa baru apa saja ya?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Apa saja yang perlu dibayar untuk matrikulasi mahasiswa baru?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Rincian biaya matrikulasi maba UNSIQ apa aja?"
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, biaya matrikulasi buat maba apa aja sih?"
+    },
+    {
+      "style": "gaul",
+      "question": "Spill rincian biaya matrikulasi dong, buat maba nih."
+    },
+    {
+      "style": "gaul",
+      "question": "Woy, ada yang tau gak biaya matrikulasi maba UNSIQ apa aja?"
+    },
+    {
+      "style": "gaul",
+      "question": "Biaya matrikulasi maba UNSIQ tuh apa aja ya?"
+    }
+  ]
+}

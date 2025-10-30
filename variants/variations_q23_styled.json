@@ -1,0 +1,46 @@
+{
+  "question": "Apakah perpustakaan UNSIQ bisa digunakan semua mahasiswa?",
+  "answer": "Ya, perpustakaan UNSIQ terbuka untuk seluruh mahasiswa dari semua fakultas guna menunjang kegiatan akademik dan penelitian.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Apakah akses perpustakaan UNSIQ terbuka untuk seluruh mahasiswa?"
+    },
+    {
+      "style": "formal",
+      "question": "Siapa sajakah yang berhak menggunakan fasilitas perpustakaan UNSIQ?"
+    },
+    {
+      "style": "formal",
+      "question": "Apakah mahasiswa dari semua fakultas dapat memanfaatkan perpustakaan UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Perpus UNSIQ buat semua mahasiswa bukan?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Semua mahasiswa boleh ke perpus UNSIQ kan?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Anak fakultas lain bisa masuk perpus UNSIQ gak?"
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, perpus UNSIQ open for all kan?"
+    },
+    {
+      "style": "gaul",
+      "question": "Selain anak perpus, boleh gak ke perpus UNSIQ?"
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, kita semua bisa kan ke perpus UNSIQ?"
+    },
+    {
+      "style": "gaul",
+      "question": "Perpus UNSIQ, bebas buat siapa aja?"
+    }
+  ]
+}

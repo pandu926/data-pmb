@@ -1,0 +1,46 @@
+{
+  "question": "Apakah mahasiswa bisa akses wifi dari semua fakultas?",
+  "answer": "Bisa. Semua mahasiswa UNSIQ mendapatkan akses wifi untuk kegiatan akademik dan administrasi.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Apakah akses WiFi UNSIQ dapat digunakan oleh mahasiswa dari seluruh fakultas?"
+    },
+    {
+      "style": "formal",
+      "question": "Siapa sajakah yang berhak mendapatkan akses ke jaringan WiFi UNSIQ?"
+    },
+    {
+      "style": "formal",
+      "question": "Apakah terdapat pembatasan akses WiFi berdasarkan fakultas di UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Wifi UNSIQ buat semua mahasiswa kan?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Semua mahasiswa bisa pake wifi UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Anak fakultas lain bisa konek wifi UNSIQ gak?"
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, wifi UNSIQ bisa dipake semua fakultas kan?"
+    },
+    {
+      "style": "gaul",
+      "question": "Anak prodi lain bisa dapet password wifi UNSIQ gak?"
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, wifinya UNSIQ buat umum se-UNSIQ kan?"
+    },
+    {
+      "style": "gaul",
+      "question": "Wifi UNSIQ, siapa aja yang boleh pake?"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "question": "Berapa biaya kuliah Pendidikan Guru Madrasah Ibtidaiyah (PGMI)?",
+  "answer": "Biaya total Rp5.995.000 dengan rincian: Angsuran 1 Rp745.000, Angsuran 2 Rp3.000.000, Angsuran 3 Rp2.250.000.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Berapakah total biaya perkuliahan untuk program studi Pendidikan Guru Madrasah Ibtidaiyah (PGMI)?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon informasi mengenai rincian biaya pendidikan untuk program Sarjana PGMI."
+    },
+    {
+      "style": "formal",
+      "question": "Bagaimanakah struktur biaya untuk semester pertama pada program studi PGMI?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Berapa biaya kuliah S1 PGMI di UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Total biaya kuliah S1 PGMI berapa ya?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Rincian biaya kuliah S1 PGMI di UNSIQ gimana?"
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, S1 PGMI di UNSIQ berapaan sih biayanya?"
+    },
+    {
+      "style": "gaul",
+      "question": "Spill biaya S1 PGMI di UNSIQ dong."
+    },
+    {
+      "style": "gaul",
+      "question": "Ada yang tau gak, biaya kuliah S1 PGMI di UNSIQ berapa?"
+    },
+    {
+      "style": "gaul",
+      "question": "Kuliah S1 PGMI di UNSIQ habis berapa duit?"
+    }
+  ]
+}

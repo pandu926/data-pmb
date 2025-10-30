@@ -1,0 +1,46 @@
+{
+  "question": "Apa saja sekolah mitra UNSIQ yang mendapat beasiswa kerjasama?",
+  "answer": "SMA Takhassus Al-Qur’an Wonosobo, SMK Takhassus Al-Qur’an Wonosobo, MA Takhassus Al-Qur’an Wonosobo, MA Takhassus Al-Qur’an 1 Mojotengah, MAN 1 dan MAN 2 Wonosobo, serta SMA Takhassus Al-Qur’an Ngabang (Kalimantan Barat).",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Sekolah-sekolah mana sajakah yang menjadi mitra UNSIQ dalam program beasiswa kerjasama?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon sebutkan daftar sekolah mitra yang alumninya berhak mendapatkan beasiswa kerjasama UNSIQ."
+    },
+    {
+      "style": "formal",
+      "question": "Dapatkah Anda memberikan informasi mengenai institusi pendidikan menengah atas yang memiliki kerjasama beasiswa dengan UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Sekolah mana aja yang kerjasama beasiswa sama UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Beasiswa kerjasama UNSIQ itu buat lulusan sekolah mana aja?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Daftar sekolah mitra beasiswa UNSIQ apa aja?"
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, sekolah mana aja yang ada beasiswa kerjasama sama UNSIQ?"
+    },
+    {
+      "style": "gaul",
+      "question": "Spill daftar sekolah mitra UNSIQ dong."
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, lulusan sekolah mana yang bisa dapet beasiswa kerjasama UNSIQ?"
+    },
+    {
+      "style": "gaul",
+      "question": "Beasiswa kerjasama UNSIQ, buat sekolah mana aja?"
+    }
+  ]
+}

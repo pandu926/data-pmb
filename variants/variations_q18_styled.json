@@ -1,0 +1,46 @@
+{
+  "question": "Berapa biaya kuliah Keperawatan S1?",
+  "answer": "Total Rp15.595.000 (Rp745.000 + Rp7.100.000 + Rp7.750.000).",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Berapakah total biaya yang diperlukan untuk menempuh pendidikan pada program studi Keperawatan S1?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon informasikan rincian biaya perkuliahan untuk jurusan Keperawatan S1."
+    },
+    {
+      "style": "formal",
+      "question": "Bagaimanakah struktur pembiayaan untuk program studi Keperawatan S1 di UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Berapa sih biaya kuliah di jurusan Keperawatan S1?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Kuliah Keperawatan S1 di UNSIQ bayarnya berapa ya?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Info biaya untuk prodi Keperawatan S1 dong."
+    },
+    {
+      "style": "gaul",
+      "question": "Spill biaya kuliah Keperawatan S1 UNSIQ dong, guys!"
+    },
+    {
+      "style": "gaul",
+      "question": "Kuliah di Keperawatan S1 UNSIQ abis berapa duit ya?"
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, ada yang tau biaya kuliah Keperawatan S1 di UNSIQ?"
+    },
+    {
+      "style": "gaul",
+      "question": "Keperawatan S1 UNSIQ, UKT-nya berapaan?"
+    }
+  ]
+}

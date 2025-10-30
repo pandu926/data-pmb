@@ -1,0 +1,46 @@
+{
+  "question": "Apa keuntungan Beasiswa Tahfidzul Qur'an?",
+  "answer": "Mahasiswa penghafal 30 Juz hanya membayar Rp250.000 + Rp95.000 (kemahasiswaan & muawanah) per semester, 20 Juz bebas SPP 6 semester, 10 Juz bebas SPP 4 semester, dan 5 Juz bebas SPP 3 semester sejak tahun masuk.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Apa sajakah keuntungan yang diperoleh dari Beasiswa Tahfidzul Qur'an?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon jelaskan manfaat finansial dari program Beasiswa Tahfidzul Qur'an."
+    },
+    {
+      "style": "formal",
+      "question": "Bagaimana skema pembiayaan bagi penerima Beasiswa Tahfidzul Qur'an?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Untungnya dapet Beasiswa Tahfidz apa aja?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Kalau lolos Beasiswa Tahfidz, dapet apa aja?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Enaknya Beasiswa Tahfidz itu gimana?"
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, benefit Beasiswa Tahfidz apa aja?"
+    },
+    {
+      "style": "gaul",
+      "question": "Spill keuntungan Beasiswa Tahfidz dong."
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, kalo dapet Beasiswa Tahfidz, bayar kuliahnya gimana?"
+    },
+    {
+      "style": "gaul",
+      "question": "Beasiswa Tahfidz, dapet potongan berapa?"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "question": "Untuk apa Laboratorium Keperawatan di UNSIQ digunakan?",
+  "answer": "Lab Keperawatan digunakan untuk menunjang pembelajaran keperawatan kritis. Ruangan didesain seperti ICU/ICCU dengan peralatan seperti ventilator, monitor jantung, DC shock, emergency kit, mesin EKG, mesin suction, dan pasien simulator.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Apakah fungsi dari Laboratorium Keperawatan di UNSIQ?"
+    },
+    {
+      "style": "formal",
+      "question": "Untuk tujuan pembelajaran apa Laboratorium Keperawatan di UNSIQ dimanfaatkan?"
+    },
+    {
+      "style": "formal",
+      "question": "Bagaimana Laboratorium Keperawatan menunjang proses belajar-mengajar di UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Lab keperawatan UNSIQ buat apa sih?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Gunanya lab keperawatan di UNSIQ apa ya?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Di lab keperawatan UNSIQ ngapain aja?"
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, lab keperawatan UNSIQ buat praktikum apa?"
+    },
+    {
+      "style": "gaul",
+      "question": "Lab keperawatan UNSIQ tuh isinya apa aja?"
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, ada yang tau fungsi lab keperawatan UNSIQ?"
+    },
+    {
+      "style": "gaul",
+      "question": "Lab keperawatan UNSIQ, buat apa aja?"
+    }
+  ]
+}

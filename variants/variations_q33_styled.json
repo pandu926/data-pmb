@@ -1,0 +1,46 @@
+{
+  "question": "Siapa yang menggunakan Lab Kebidanan?",
+  "answer": "Mahasiswa D3 Kebidanan dan Keperawatan memanfaatkan lab ini untuk latihan praktik langsung.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Siapa sajakah yang memiliki akses untuk menggunakan Laboratorium Kebidanan?"
+    },
+    {
+      "style": "formal",
+      "question": "Untuk mahasiswa program studi apa sajakah Laboratorium Kebidanan diperuntukkan?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon jelaskan siapa saja yang dapat memanfaatkan fasilitas Laboratorium Kebidanan di UNSIQ."
+    },
+    {
+      "style": "non-formal",
+      "question": "Siapa aja yang boleh masuk lab kebidanan?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Lab kebidanan buat jurusan apa aja?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Selain anak kebidanan, boleh gak ke lab kebidanan?"
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, yang bisa ke lab kebidanan siapa aja?"
+    },
+    {
+      "style": "gaul",
+      "question": "Lab kebidanan cuma buat anak kebidanan doang?"
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, kita dari prodi lain boleh gak ke lab kebidanan?"
+    },
+    {
+      "style": "gaul",
+      "question": "Lab kebidanan, siapa aja yang boleh masuk?"
+    }
+  ]
+}

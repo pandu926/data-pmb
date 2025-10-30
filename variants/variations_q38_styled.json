@@ -1,0 +1,46 @@
+{
+  "question": "Apa itu Ruang Sidang Semu di UNSIQ?",
+  "answer": "Ruang Sidang Semu merupakan tempat praktik simulasi persidangan untuk mahasiswa hukum.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Apakah yang dimaksud dengan Ruang Sidang Semu di UNSIQ?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon jelaskan fungsi dan tujuan dari Ruang Sidang Semu di UNSIQ."
+    },
+    {
+      "style": "formal",
+      "question": "Untuk kegiatan apa Ruang Sidang Semu di UNSIQ dipergunakan?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Ruang Sidang Semu UNSIQ itu apa sih?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Gunanya Ruang Sidang Semu di UNSIQ buat apa?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Di Ruang Sidang Semu UNSIQ ngapain aja?"
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, Ruang Sidang Semu UNSIQ itu tempat apa?"
+    },
+    {
+      "style": "gaul",
+      "question": "Spill info Ruang Sidang Semu UNSIQ dong."
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, ada yang tau Ruang Sidang Semu UNSIQ buat apa?"
+    },
+    {
+      "style": "gaul",
+      "question": "Ruang Sidang Semu UNSIQ, itu buat apa?"
+    }
+  ]
+}

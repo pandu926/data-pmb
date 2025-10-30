@@ -1,0 +1,46 @@
+{
+  "question": "Apakah biaya kuliah bisa diangsur?",
+  "answer": "Ya, untuk kelas Reguler dan Karyawan (Ekstensi) biaya kuliah dapat diangsur tiga kali pada semester pertama sesuai jadwal yang ditentukan.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Apakah tersedia opsi pembayaran secara angsuran untuk biaya perkuliahan?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon informasi mengenai kebijakan angsuran biaya pendidikan di UNSIQ."
+    },
+    {
+      "style": "formal",
+      "question": "Bagaimanakah mekanisme pembayaran biaya kuliah secara bertahap?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Apakah biaya kuliahnya bisa dicicil?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Bisa nggak bayar kuliahnya diangsur?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Kalau mau bayar kuliah dengan cara diangsur, bagaimana ketentuannya?"
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, bayar kuliah di UNSIQ bisa nyicil gak sih?"
+    },
+    {
+      "style": "gaul",
+      "question": "Boleh nggak sih bayar kuliahnya dicicil? Info dong."
+    },
+    {
+      "style": "gaul",
+      "question": "Spill info angsuran UKT dong, bisa gak?"
+    },
+    {
+      "style": "gaul",
+      "question": "Kuliah di UNSIQ bayarnya bisa dicicil nggak?"
+    }
+  ]
+}

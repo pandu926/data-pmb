@@ -1,0 +1,46 @@
+{
+  "question": "Apakah UNSIQ punya radio kampus?",
+  "answer": "Ya, UNSIQ memiliki RED Q Radio Inspirasi Mahasiswa UNSIQ. Radio ini menjadi laboratorium praktik mahasiswa Komunikasi dan Penyiaran Islam (KPI) sekaligus media penyebaran informasi, kajian, dan hiburan.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Apakah UNSIQ memiliki stasiun radio kampus?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon informasikan mengenai keberadaan radio kampus di UNSIQ."
+    },
+    {
+      "style": "formal",
+      "question": "Fasilitas media penyiaran apa yang dimiliki UNSIQ untuk mahasiswa?"
+    },
+    {
+      "style": "non-formal",
+      "question": "UNSIQ punya radio sendiri gak?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Di UNSIQ ada radio kampus?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Nama radio kampusnya UNSIQ apa?"
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, UNSIQ ada radionya gak?"
+    },
+    {
+      "style": "gaul",
+      "question": "Spill info radio kampus UNSIQ dong."
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, UNSIQ punya stasiun radio sendiri?"
+    },
+    {
+      "style": "gaul",
+      "question": "Radio UNSIQ, namanya apa?"
+    }
+  ]
+}

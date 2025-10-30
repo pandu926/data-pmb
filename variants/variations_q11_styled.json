@@ -1,0 +1,46 @@
+{
+  "question": "Berapa biaya kuliah Pendidikan Islam Anak Usia Dini (PIAUD)?",
+  "answer": "Total Rp5.245.000 (Rp745.000 + Rp2.500.000 + Rp2.000.000).",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Berapakah total biaya perkuliahan untuk program studi Pendidikan Islam Anak Usia Dini (PIAUD)?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon informasi mengenai rincian biaya pendidikan untuk program Sarjana PIAUD."
+    },
+    {
+      "style": "formal",
+      "question": "Bagaimanakah struktur biaya untuk semester pertama pada program studi PIAUD?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Berapa biaya kuliah S1 PIAUD di UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Total biaya kuliah S1 PIAUD berapa ya?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Rincian biaya kuliah S1 PIAUD di UNSIQ gimana?"
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, S1 PIAUD di UNSIQ berapaan sih biayanya?"
+    },
+    {
+      "style": "gaul",
+      "question": "Spill biaya S1 PIAUD di UNSIQ dong."
+    },
+    {
+      "style": "gaul",
+      "question": "Ada yang tau gak, biaya kuliah S1 PIAUD di UNSIQ berapa?"
+    },
+    {
+      "style": "gaul",
+      "question": "Berapa duit buat kuliah S1 PIAUD di UNSIQ?"
+    }
+  ]
+}

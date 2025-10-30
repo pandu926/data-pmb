@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "question": "Apa itu PMB di Universitas Sains Al-Qur'an?",
+    "expected": "PMB adalah Penerimaan Mahasiswa Baru di Universitas Sains Al-Qur'an (UNSIQ) Wonosobo."
+  },
+  {
+    "id": 2,
+    "question": "Bagaimana cara melakukan pendaftaran mahasiswa baru di UNSIQ?",
+    "expected": "Pendaftaran dilakukan secara online melalui laman pmb.unsiq.ac.id dengan mengisi formulir dan mengunggah berkas yang diminta."
+  },
+  {
+    "id": 3,
+    "question": "Kapan jadwal pendaftaran mahasiswa baru UNSIQ dibuka?",
+    "expected": "Pendaftaran biasanya dibuka pada awal tahun dan berlangsung beberapa gelombang hingga menjelang tahun ajaran baru."
+  },
+  {
+    "id": 4,
+    "question": "Berapa biaya kuliah di UNSIQ untuk program S1?",
+    "expected": "Biaya kuliah bervariasi tergantung program studi, namun rata-rata sekitar lima hingga enam juta rupiah untuk semester pertama."
+  },
+  {
+    "id": 5,
+    "question": "Bagaimana cara membayar biaya kuliah di UNSIQ?",
+    "expected": "Pembayaran bisa dilakukan melalui Bank Jateng atau Finpay, termasuk gerai Alfamart dan bank seperti BRI, BNI, Mandiri, BTN, Mega, dan Permata."
+  },
+  {
+    "id": 6,
+    "question": "Apakah bisa membayar biaya kuliah lewat Alfamart?",
+    "expected": "Ya, pembayaran bisa dilakukan melalui gerai Alfamart menggunakan kode pembayaran dari sistem UNSIQ."
+  },
+  {
+    "id": 7,
+    "question": "Kapan batas waktu pembayaran biaya kuliah?",
+    "expected": "Biasanya pembayaran dilakukan setelah dinyatakan diterima dan sebelum perkuliahan dimulai."
+  },
+  {
+    "id": 8,
+    "question": "Apa saja program studi yang tersedia di UNSIQ?",
+    "expected": "UNSIQ memiliki berbagai program studi dari bidang agama, sains, pendidikan, ekonomi, teknik, dan kesehatan."
+  },
+  {
+    "id": 9,
+    "question": "Apakah ada program pascasarjana di UNSIQ?",
+    "expected": "Ya, UNSIQ memiliki beberapa program magister seperti Magister Pendidikan Islam dan Magister Manajemen Pendidikan."
+  },
+  {
+    "id": 10,
+    "question": "Di mana lokasi kampus UNSIQ?",
+    "expected": "UNSIQ berlokasi di Wonosobo, Jawa Tengah."
+  },
+  {
+    "id": 11,
+    "question": "Apakah UNSIQ kampus negeri atau swasta?",
+    "expected": "UNSIQ adalah perguruan tinggi swasta berbasis Islam yang terakreditasi nasional."
+  },
+  {
+    "id": 12,
+    "question": "Apakah ada beasiswa di UNSIQ?",
+    "expected": "Ya, tersedia berbagai jenis beasiswa seperti KIP Kuliah, beasiswa prestasi, dan beasiswa yayasan."
+  },
+  {
+    "id": 13,
+    "question": "Bagaimana cara mengajukan beasiswa di UNSIQ?",
+    "expected": "Mahasiswa dapat mengajukan beasiswa melalui bagian kemahasiswaan dengan melampirkan syarat sesuai ketentuan."
+  },
+  {
+    "id": 14,
+    "question": "Apakah ada jalur tanpa tes di UNSIQ?",
+    "expected": "Ya, tersedia jalur prestasi tanpa tes bagi siswa dengan nilai akademik atau non-akademik tertentu."
+  },
+  {
+    "id": 15,
+    "question": "Apa saja syarat pendaftaran mahasiswa baru di UNSIQ?",
+    "expected": "Syarat umumnya meliputi ijazah SMA/SMK/MA, kartu identitas, dan pas foto."
+  },
+  {
+    "id": 16,
+    "question": "Apakah pendaftaran bisa dilakukan offline?",
+    "expected": "Ya, pendaftaran juga bisa dilakukan langsung di kampus UNSIQ dengan membawa berkas yang diperlukan."
+  },
+  {
+    "id": 17,
+    "question": "Bagaimana cara menghubungi panitia PMB UNSIQ?",
+    "expected": "Bisa melalui WhatsApp resmi, email PMB, atau kontak yang tertera di laman pmb.unsiq.ac.id."
+  },
+  {
+    "id": 18,
+    "question": "Apakah ada asrama mahasiswa di UNSIQ?",
+    "expected": "Ya, UNSIQ menyediakan asrama bagi mahasiswa baru dengan fasilitas dasar yang memadai."
+  },
+  {
+    "id": 19,
+    "question": "Apakah UNSIQ menerima mahasiswa transfer?",
+    "expected": "Ya, UNSIQ membuka jalur mahasiswa pindahan dengan proses konversi mata kuliah."
+  },
+  {
+    "id": 20,
+    "question": "Apakah ada jalur khusus untuk hafidz Qur'an?",
+    "expected": "Ya, UNSIQ memiliki jalur khusus penerimaan bagi hafidz Qur'an dengan beasiswa tertentu."
+  },
+  {
+    "id": 21,
+    "question": "Berapa lama masa studi S1 di UNSIQ?",
+    "expected": "Masa studi S1 umumnya 8 semester atau sekitar 4 tahun."
+  },
+  {
+    "id": 22,
+    "question": "Apakah UNSIQ memiliki kelas karyawan?",
+    "expected": "Ya, tersedia program kelas karyawan dengan jadwal fleksibel bagi pekerja."
+  },
+  {
+    "id": 23,
+    "question": "Apakah pendaftaran bisa dilakukan melalui HP?",
+    "expected": "Ya, calon mahasiswa bisa mendaftar melalui smartphone lewat website resmi PMB UNSIQ."
+  },
+  {
+    "id": 24,
+    "question": "Apakah ada ujian seleksi masuk UNSIQ?",
+    "expected": "Ya, untuk jalur reguler biasanya ada tes tertulis dan wawancara."
+  },
+  {
+    "id": 25,
+    "question": "Apakah UNSIQ terakreditasi BAN-PT?",
+    "expected": "Ya, UNSIQ terakreditasi oleh BAN-PT dan beberapa program studi juga memiliki akreditasi baik atau sangat baik."
+  },
+  {
+    "id": 26,
+    "question": "Kapan tahun ajaran baru dimulai di UNSIQ?",
+    "expected": "Tahun ajaran baru biasanya dimulai pada bulan Agustus atau September."
+  },
+  {
+    "id": 27,
+    "question": "Apakah UNSIQ memiliki program pertukaran pelajar?",
+    "expected": "Beberapa fakultas di UNSIQ menjalin kerja sama pertukaran mahasiswa dengan universitas lain di dalam dan luar negeri."
+  },
+  {
+    "id": 28,
+    "question": "Apakah ada program vokasi di UNSIQ?",
+    "expected": "Ya, tersedia beberapa program diploma di bidang teknik dan kesehatan."
+  },
+  {
+    "id": 29,
+    "question": "Bagaimana cara melihat hasil seleksi PMB UNSIQ?",
+    "expected": "Hasil seleksi bisa dilihat melalui laman pmb.unsiq.ac.id pada menu pengumuman dengan memasukkan nomor pendaftaran."
+  },
+  {
+    "id": 30,
+    "question": "Apakah mahasiswa baru wajib mengikuti orientasi?",
+    "expected": "Ya, mahasiswa baru diwajibkan mengikuti kegiatan orientasi atau PBAK sebelum perkuliahan dimulai."
+  }
+]

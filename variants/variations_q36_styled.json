@@ -1,0 +1,46 @@
+{
+  "question": "Apakah kampus UNSIQ menyediakan internet gratis?",
+  "answer": "Ya, UNSIQ memiliki titik wifi hotspot yang tersebar di seluruh area kampus dengan kecepatan tinggi untuk mendukung kegiatan belajar dan pencarian literatur.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Apakah tersedia akses internet nirkabel gratis di area kampus UNSIQ?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon informasikan mengenai ketersediaan layanan WiFi gratis di UNSIQ."
+    },
+    {
+      "style": "formal",
+      "question": "Bagaimana kebijakan UNSIQ terkait penyediaan akses internet bagi mahasiswa?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Di UNSIQ ada wifi gratis gak?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Kampus UNSIQ wifinya gratis kan?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Mahasiswa bisa dapet internet gratis di UNSIQ?"
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, di UNSIQ ada wifi gratisan gak?"
+    },
+    {
+      "style": "gaul",
+      "question": "Spill info wifi gratis di UNSIQ dong."
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, UNSIQ wifinya kenceng gak?"
+    },
+    {
+      "style": "gaul",
+      "question": "UNSIQ, wifinya bayar gak?"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "question": "Berapa biaya kuliah Ilmu Al-Qur’an dan Tafsir (S2)?",
+  "answer": "Total biaya semester pertama untuk Ilmu Al-Qur’an dan Tafsir (S2) sama yaitu Rp8.195.000, dengan rincian angsuran yang sama seperti Magister Pendidikan Islam.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Berapakah total biaya perkuliahan untuk program studi Ilmu Al-Qur’an dan Tafsir (S2)?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon informasi mengenai rincian biaya pendidikan untuk program Magister Ilmu Al-Qur’an dan Tafsir (S2)."
+    },
+    {
+      "style": "formal",
+      "question": "Bagaimanakah struktur biaya untuk semester pertama pada program studi Ilmu Al-Qur’an dan Tafsir (S2)?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Berapa biaya kuliah S2 Ilmu Al-Qur’an dan Tafsir di UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Total biaya kuliah S2 IAT berapa ya?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Rincian biaya kuliah S2 Ilmu Al-Qur’an dan Tafsir di UNSIQ gimana?"
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, S2 IAT di UNSIQ berapaan sih biayanya?"
+    },
+    {
+      "style": "gaul",
+      "question": "Spill biaya S2 Ilmu Al-Qur’an dan Tafsir di UNSIQ dong."
+    },
+    {
+      "style": "gaul",
+      "question": "Ada yang tau gak, biaya kuliah S2 IAT di UNSIQ berapa?"
+    },
+    {
+      "style": "gaul",
+      "question": "Kuliah S2 IAT di UNSIQ abis berapa ya?"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "question": "Apa saja fasilitas perpustakaan di UNSIQ?",
+  "answer": "UNSIQ memiliki perpustakaan dengan pustaka lengkap, baik buku dalam negeri maupun luar negeri. Mahasiswa dapat menemukan berbagai literatur, diktat kuliah, majalah, dan referensi mengenai sosial, agama, ekonomi, manajemen, pemrograman, jaringan, hingga multimedia untuk menunjang proses pembelajaran.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Fasilitas apa sajakah yang tersedia di perpustakaan UNSIQ?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon informasikan mengenai fasilitas yang disediakan oleh perpustakaan UNSIQ."
+    },
+    {
+      "style": "formal",
+      "question": "Dapatkah Anda menjelaskan fasilitas yang dapat diakses di perpustakaan UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Di perpus UNSIQ ada apa aja sih?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Perpustakaan UNSIQ fasilitasnya apa aja ya?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Info fasilitas perpus UNSIQ dong."
+    },
+    {
+      "style": "gaul",
+      "question": "Spill fasilitas perpus UNSIQ dong, guys!"
+    },
+    {
+      "style": "gaul",
+      "question": "Di perpus UNSIQ bisa ngapain aja?"
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, ada yang tau di perpus UNSIQ ada apa aja?"
+    },
+    {
+      "style": "gaul",
+      "question": "Perpus UNSIQ, isinya apa aja?"
+    }
+  ]
+}

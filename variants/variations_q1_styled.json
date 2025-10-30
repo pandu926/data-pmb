@@ -1,0 +1,46 @@
+{
+  "question": "Bagaimana cara melakukan pembayaran biaya kuliah di UNSIQ?",
+  "answer": "Pembayaran biaya kuliah di UNSIQ bisa dilakukan melalui Bank Jateng atau melalui Finpay, termasuk gerai Alfamart dan bank seperti BJB, BRI, BNI, Mandiri, BTN, Mega, dan Permata.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Bagaimanakah prosedur untuk melakukan pembayaran biaya perkuliahan di Universitas Sains Al-Qur'an?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon informasi mengenai tata cara pembayaran biaya pendidikan di UNSIQ."
+    },
+    {
+      "style": "formal",
+      "question": "Melalui saluran apa sajakah pembayaran biaya kuliah di UNSIQ dapat dilakukan?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Bagaimana cara bayar biaya kuliah di UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Lewat mana saja saya bisa melunasi biaya kuliah di UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Apa saja pilihan untuk membayar biaya kuliah di UNSIQ?"
+    },
+    {
+      "style": "gaul",
+      "question": "Gimana sih cara bayar kuliah di UNSIQ, guys?"
+    },
+    {
+      "style": "gaul",
+      "question": "Bro/Sis, bayar kuliah UNSIQ lewat mana aja ya?"
+    },
+    {
+      "style": "gaul",
+      "question": "Spill dong cara bayar UKT di UNSIQ."
+    },
+    {
+      "style": "gaul",
+      "question": "UNSIQ, bayar kuliahnya gimana caranya?"
+    }
+  ]
+}

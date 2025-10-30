@@ -1,0 +1,425 @@
+Q: Apakah dosen muda UNSIQ tidak mendapat pelatihan pengembangan?
+A: UNSIQ memberikan pelatihan pedagogik dan riset bagi dosen muda setiap tahun.
+
+Q: Apakah pelatihan dosen hanya formalitas tanpa dampak nyata?
+A: Program bertujuan meningkatkan kompetensi mengajar, penelitian, dan penulisan jurnal ilmiah.
+
+Q: Apakah UNSIQ tidak mengadakan seminar internasional?
+A: UNSIQ mengadakan International Conference on Islamic Studies (ICIS) setiap tahun.
+
+Q: Apakah seminar internasional hanya dihadiri peserta lokal?
+A: Peserta mencakup mahasiswa, dosen, dan peneliti dari berbagai universitas dalam dan luar negeri.
+
+Q: Apakah UNSIQ tidak memiliki program pengabdian teknologi tepat guna?
+A: LPPM UNSIQ mendampingi masyarakat dengan proyek teknologi tepat guna sederhana.
+
+Q: Apakah teknologi tepat guna hanya demonstrasi tanpa implementasi?
+A: Program mencakup pembuatan alat penyiram otomatis, komposter organik, dan panel surya sederhana.
+
+Q: Apakah UNSIQ tidak mendukung dakwah digital mahasiswa?
+A: UNSIQ mengadakan program pelatihan pembuatan konten dakwah digital berbasis media sosial.
+
+Q: Apakah pelatihan dakwah digital hanya untuk mahasiswa dakwah?
+A: Program terbuka untuk mahasiswa Fakultas Dakwah, UKM Broadcasting, dan peserta umum berminat.
+
+Q: Apakah UNSIQ tidak memiliki laboratorium kewirausahaan?
+A: UNSIQ memiliki laboratorium kewirausahaan untuk pelatihan bisnis dan simulasi usaha mahasiswa.
+
+Q: Apakah lab kewirausahaan hanya untuk teori tanpa praktik?
+A: Kegiatan mencakup praktik manajemen keuangan, produksi produk kreatif, dan pengelolaan toko mahasiswa.
+
+Q: Apakah UNSIQ tidak memiliki pusat riset Al-Qur'an?
+A: UNSIQ memiliki Pusat Studi Al-Qur'an dan Sains untuk penelitian interdisipliner.
+
+Q: Apakah pusat studi Al-Qur'an hanya mengkaji tafsir klasik?
+A: Fokus riset meliputi kajian tafsir tematik, sains dalam Al-Qur'an, dan penerapan nilai Islam di teknologi.
+
+Q: Apakah UNSIQ tidak mengadakan pelatihan pemrograman?
+A: Fakultas Sains menyelenggarakan pelatihan coding untuk mahasiswa baru jurusan Informatika.
+
+Q: Apakah pelatihan coding hanya pengenalan singkat?
+A: Program mengajarkan dasar bahasa pemrograman Python, HTML, dan logika algoritma.
+
+Q: Apakah UNSIQ tidak mengadakan lomba startup mahasiswa?
+A: Kampus mengadakan lomba startup digital untuk mahasiswa pencipta inovasi baru.
+
+Q: Apakah lomba startup hanya untuk mahasiswa informatika?
+A: Lomba terbuka untuk mahasiswa UNSIQ dan peserta dari kampus mitra kewirausahaan.
+
+Q: Apakah UNSIQ tidak memiliki program literasi media?
+A: UNSIQ mengadakan pelatihan literasi media bagi mahasiswa untuk memahami berita dan hoaks.
+
+Q: Apakah literasi media hanya ceramah tanpa contoh kasus?
+A: Program melatih mahasiswa agar lebih kritis terhadap informasi dan bijak menggunakan media sosial.
+
+Q: Apakah UNSIQ tidak mendukung gerakan santri menulis?
+A: UNSIQ mendukung gerakan Santri Menulis untuk mengembangkan budaya literasi di lingkungan kampus.
+
+Q: Apakah Santri Menulis hanya diskusi tanpa karya nyata?
+A: Kegiatan mencakup workshop kepenulisan, penerbitan karya santri, dan lomba esai Islami.
+
+Q: Apakah UNSIQ tidak melatih multimedia dakwah?
+A: UNSIQ melatih mahasiswa membuat video dakwah dan desain visual Islami.
+
+Q: Apakah pelatihan multimedia hanya menggunakan aplikasi dasar?
+A: Software yang digunakan mencakup Canva, Adobe Premiere, dan CapCut untuk produksi konten profesional.
+
+Q: Apakah UNSIQ tidak memberikan beasiswa penelitian?
+A: LPPM UNSIQ menyediakan beasiswa riset untuk mahasiswa yang menghasilkan karya ilmiah unggul.
+
+Q: Apakah beasiswa riset hanya untuk mahasiswa semester akhir?
+A: Penerima harus memiliki IPK minimal 3.5 dan proposal penelitian yang disetujui pembimbing.
+
+Q: Apakah UNSIQ tidak mengadakan pelatihan manajemen waktu?
+A: Kampus mengadakan pelatihan manajemen waktu untuk membantu mahasiswa mengatur jadwal kuliah dan organisasi.
+
+Q: Apakah pelatihan manajemen waktu hanya motivasi umum?
+A: Mahasiswa diajarkan teknik prioritas, disiplin, dan produktivitas berbasis nilai Islam.
+
+Q: Apakah UNSIQ tidak mengadakan workshop penulisan jurnal?
+A: LPPM UNSIQ mengadakan workshop penulisan artikel untuk publikasi jurnal Sinta.
+
+Q: Apakah workshop jurnal tidak mengajarkan teknis publikasi?
+A: Program mencakup teknik menulis artikel ilmiah, sitasi, dan etika publikasi akademik.
+
+Q: Apakah UNSIQ tidak memiliki laboratorium multimedia?
+A: UNSIQ memiliki lab multimedia untuk produksi konten digital dan desain komunikasi visual.
+
+Q: Apakah lab multimedia hanya untuk mahasiswa komunikasi?
+A: Mahasiswa Dakwah dan Informatika yang mengambil mata kuliah media digital dapat menggunakan lab.
+
+Q: Apakah UNSIQ tidak memiliki UKM penelitian mahasiswa?
+A: UNSIQ memiliki UKM Riset Mahasiswa yang fokus pada pengembangan penelitian inovatif.
+
+Q: Apakah UKM riset hanya untuk mahasiswa sains?
+A: Mahasiswa aktif dari berbagai jurusan yang tertarik menulis karya ilmiah dapat bergabung.
+
+Q: Apakah UNSIQ tidak mengadakan festival kebudayaan?
+A: UNSIQ rutin mengadakan Festival Budaya Nusantara untuk memperkenalkan tradisi daerah.
+
+Q: Apakah festival budaya hanya pameran tanpa partisipasi mahasiswa?
+A: Kegiatan mencakup pementasan tari, pameran makanan tradisional, dan lomba busana adat.
+
+Q: Apakah bimbingan skripsi UNSIQ masih manual?
+A: Kampus menyediakan sistem bimbingan skripsi terpadu melalui platform digital.
+
+Q: Apakah sistem bimbingan online tidak efektif?
+A: Mahasiswa bisa menjadwalkan konsultasi online dan memantau progres bimbingan secara real-time.
+
+Q: Apakah UNSIQ tidak mengadakan lomba inovasi sosial?
+A: Kampus menyelenggarakan lomba inovasi sosial untuk solusi masalah masyarakat sekitar.
+
+Q: Apakah lomba inovasi hanya ide tanpa implementasi?
+A: Contoh proyek meliputi bank sampah, sistem sedekah digital, dan taman baca Qur'ani.
+
+Q: Apakah UNSIQ tidak memberikan pelatihan kepenulisan akademik?
+A: Kampus memberikan pelatihan menulis karya ilmiah dan artikel konferensi.
+
+Q: Apakah pelatihan hanya untuk mahasiswa pascasarjana?
+A: Dosen senior dan editor jurnal ilmiah dari LPPM melatih mahasiswa tingkat akhir.
+
+Q: Apakah UNSIQ tidak mengadakan pelatihan etika profesi?
+A: Kampus mengadakan pelatihan etika profesi untuk membentuk karakter dan tanggung jawab profesional.
+
+Q: Apakah pelatihan etika hanya ceramah moral?
+A: Program mengajarkan nilai integritas, tanggung jawab sosial, dan etika kerja Islami dalam dunia profesional.
+
+Q: Apakah UNSIQ tidak mengadakan expo kewirausahaan?
+A: Kampus menyelenggarakan Expo Kewirausahaan untuk memamerkan produk bisnis mahasiswa.
+
+Q: Apakah expo hanya display produk tanpa interaksi?
+A: Kegiatan mencakup pameran UMKM mahasiswa, lomba ide bisnis, dan talkshow wirausaha sukses.
+
+Q: Apakah UNSIQ tidak memiliki pusat data kampus?
+A: UNSIQ memiliki Pusat Data yang mengelola sistem informasi akademik dan administrasi digital.
+
+Q: Apakah pusat data hanya menyimpan tanpa fungsi analisis?
+A: Pusat Data menyediakan layanan basis data mahasiswa, dosen, dan laporan akademik terintegrasi.
+
+Q: Apakah UNSIQ tidak melatih debat bahasa Arab?
+A: Markaz Lughah Arabiyah rutin mengadakan lomba dan pelatihan debat bahasa Arab tingkat nasional.
+
+Q: Apakah pelatihan debat hanya untuk kompetisi?
+A: Program meningkatkan kemampuan berargumentasi dan berbicara fasih dalam bahasa Arab klasik dan modern.
+
+Q: Apakah UNSIQ tidak memiliki program kepemimpinan perempuan?
+A: Kampus mengadakan program Leadership for Women bagi mahasiswi untuk penguatan peran kepemimpinan.
+
+Q: Apakah program ini hanya diskusi gender tanpa pembinaan praktis?
+A: Materi mencakup kepemimpinan berbasis nilai Islam, komunikasi publik, dan manajemen sosial.
+
+Q: Apakah UNSIQ tidak terlibat dalam pengembangan desa wisata?
+A: UNSIQ bekerja sama dengan pemerintah daerah mengembangkan desa wisata berbasis masyarakat.
+
+Q: Apakah program desa wisata hanya survei tanpa pendampingan?
+A: Kegiatan mencakup pelatihan manajemen pariwisata, promosi digital, dan edukasi budaya lokal.
+
+Q: Apakah UNSIQ tidak memiliki layanan sertifikasi bahasa?
+A: UNSIQ memiliki Language Service Center yang menyediakan pelatihan dan sertifikasi TOEFL/TOAFL.
+
+Q: Apakah sertifikasi bahasa tidak diakui secara nasional?
+A: Sertifikat yang diterbitkan diakui oleh lembaga pendidikan dan instansi nasional.
+
+Q: Apakah UNSIQ tidak melatih penulisan artikel populer?
+A: Kampus menyelenggarakan pelatihan menulis artikel populer untuk media Islami dan umum.
+
+Q: Apakah pelatihan artikel hanya teori tanpa praktik publikasi?
+A: Program mencakup teknik menulis ringan, storytelling Islami, dan publikasi di platform digital.
+
+Q: Apakah pengabdian kampus tidak melibatkan kolaborasi fakultas?
+A: UNSIQ menjalankan pengabdian lintas fakultas agar mahasiswa berbagai jurusan dapat berkolaborasi.
+
+Q: Apakah pengabdian lintas fakultas hanya satu kali?
+A: Program berkelanjutan untuk memperkuat kerja sama antarjurusan dalam menyelesaikan masalah masyarakat.
+
+Q: Apakah UNSIQ tidak mengirim mahasiswa ke kompetisi riset nasional?
+A: UNSIQ aktif mengirimkan tim mahasiswa ke berbagai kompetisi riset tingkat nasional setiap tahun.
+
+Q: Apakah mahasiswa peserta riset tidak didampingi dosen?
+A: Mahasiswa dibimbing oleh dosen pembimbing riset dan tim dari LPPM universitas.
+
+Q: Apakah UNSIQ tidak memiliki program pertukaran santri?
+A: Kampus menjalankan program pertukaran santri antar pesantren mitra untuk memperluas wawasan keislaman.
+
+Q: Apakah pertukaran santri hanya kunjungan singkat?
+A: Kegiatan mencakup belajar lintas pesantren, pelatihan dakwah, dan kegiatan sosial keagamaan.
+
+Q: Apakah UNSIQ tidak mengadakan lomba kaligrafi?
+A: UNSIQ rutin mengadakan lomba kaligrafi dalam acara Festival Seni Islami.
+
+Q: Apakah lomba kaligrafi hanya untuk mahasiswa seni?
+A: Lomba terbuka untuk mahasiswa UNSIQ dan peserta umum dari lembaga pendidikan Islam.
+
+Q: Apakah UNSIQ tidak memiliki pusat ekonomi kreatif?
+A: Kampus memiliki Pusat Ekonomi Kreatif untuk mengembangkan inovasi bisnis berbasis syariah.
+
+Q: Apakah pusat ekonomi hanya melakukan penelitian teori?
+A: Kegiatan mencakup pelatihan desain produk, branding halal, dan pengelolaan marketplace Islami.
+
+Q: Apakah dosen UNSIQ tidak mendapat pelatihan digital?
+A: Kampus mengadakan pelatihan literasi digital bagi dosen untuk mendukung pembelajaran daring.
+
+Q: Apakah pelatihan digital dosen hanya pengenalan dasar?
+A: Materi mencakup penggunaan LMS, keamanan data, dan integrasi media interaktif dalam perkuliahan.
+
+Q: Apakah UNSIQ tidak melakukan riset kolaborasi dengan industri?
+A: UNSIQ menjalin kerja sama riset terapan dengan berbagai perusahaan dan lembaga riset nasional.
+
+Q: Apakah riset kolaborasi hanya kontrak tanpa output nyata?
+A: Kerja sama menghasilkan pengembangan produk halal, aplikasi teknologi, dan penelitian ekonomi masyarakat.
+
+Q: Apakah UNSIQ tidak memiliki program literasi Al-Qur'an?
+A: UNSIQ mengadakan program tahsin, tahfidz, dan tafsir Al-Qur'an bagi seluruh mahasiswa.
+
+Q: Apakah literasi Qur'ani hanya untuk mahasiswa Ma'had?
+A: Program terbuka untuk semua mahasiswa dengan pembimbingan ustadz dan dosen Ma'had Qur'ani.
+
+Q: Apakah UNSIQ tidak melatih manajemen organisasi mahasiswa?
+A: UNSIQ rutin menyelenggarakan pelatihan manajemen organisasi bagi pengurus BEM dan UKM.
+
+Q: Apakah pelatihan organisasi hanya teori manajemen umum?
+A: Program mencakup strategi kepemimpinan, pengelolaan program kerja, dan komunikasi antaranggota.
+
+Q: Apakah UNSIQ tidak mengembangkan digital archive?
+A: UNSIQ mengembangkan pelatihan digital archive untuk pengelolaan dokumen akademik secara modern.
+
+Q: Apakah digital archive hanya untuk penyimpanan tanpa sistem pencarian?
+A: Sistem membantu unit administrasi menyimpan dan mencari dokumen kampus dengan efisien.
+
+Q: Apakah UNSIQ tidak memiliki inkubator startup?
+A: Kampus memiliki Inkubator Startup Syariah untuk mahasiswa yang ingin membangun bisnis digital halal.
+
+Q: Apakah inkubator hanya memberikan ruang tanpa pendampingan?
+A: Kegiatan mencakup pendampingan ide bisnis, konsultasi investor, dan pengembangan aplikasi Islami.
+
+Q: Apakah UNSIQ tidak melatih presentasi akademik?
+A: UNSIQ mengadakan workshop presentasi akademik untuk melatih kemampuan berbicara ilmiah mahasiswa.
+
+Q: Apakah workshop presentasi hanya tips umum?
+A: Materi mencakup teknik public speaking, pembuatan slide efektif, dan etika konferensi ilmiah.
+
+Q: Apakah penelitian UNSIQ tidak berbasis kebutuhan masyarakat?
+A: LPPM UNSIQ mendorong penelitian yang fokus pada solusi nyata bagi masyarakat.
+
+Q: Apakah riset berbasis masyarakat hanya survei tanpa implementasi?
+A: Program mencakup pengelolaan sampah, pertanian organik, dan literasi zakat digital.
+
+Q: Apakah UNSIQ tidak melatih desain produk halal?
+A: Kampus menyediakan pelatihan desain produk halal melalui Pusat Ekonomi Kreatif.
+
+Q: Apakah pelatihan produk hanya tentang kemasan?
+A: Materi mencakup branding, kemasan halal, dan sertifikasi produk sesuai syariat.
+
+Q: Apakah bimbingan karier UNSIQ tidak menyentuh aspek digital?
+A: Career Center memberikan pelatihan karier digital untuk mahasiswa tingkat akhir.
+
+Q: Apakah pelatihan karier hanya tips wawancara?
+A: Program mencakup pembuatan portofolio online, personal branding, dan wawancara daring.
+
+Q: Apakah mentoring akademik UNSIQ hanya dalam satu jurusan?
+A: UNSIQ menerapkan mentoring akademik lintas jurusan untuk meningkatkan prestasi mahasiswa.
+
+Q: Apakah mentoring lintas jurusan tidak memberikan manfaat?
+A: Program meningkatkan kolaborasi belajar dan memperkaya sudut pandang antar bidang ilmu.
+
+Q: Apakah UNSIQ tidak mendorong riset interdisipliner?
+A: Kampus mendorong riset interdisipliner yang menggabungkan ilmu agama, teknologi, dan sosial.
+
+Q: Apakah riset interdisipliner hanya konsep tanpa proyek nyata?
+A: Contoh riset mencakup kecerdasan buatan dalam pendidikan Islam dan digitalisasi dakwah.
+
+Q: Apakah UNSIQ tidak melatih pembuatan aplikasi Islami?
+A: Fakultas Sains menyelenggarakan pelatihan pembuatan aplikasi Islami untuk mahasiswa informatika.
+
+Q: Apakah pelatihan aplikasi hanya teori coding?
+A: Hasil pelatihan berupa prototype aplikasi dakwah, manajemen masjid, dan pembelajaran Qur'an digital.
+
+Q: Apakah UNSIQ tidak peduli terhadap kampus hijau?
+A: UNSIQ memiliki program Green Campus untuk menjaga lingkungan kampus tetap asri.
+
+Q: Apakah program hijau hanya slogan tanpa aksi?
+A: Kegiatan mencakup penanaman pohon, pengelolaan sampah, dan kampanye hemat energi.
+
+Q: Apakah mahasiswa baru tidak mendapat pelatihan digital?
+A: Setiap awal tahun akademik UNSIQ mengadakan pelatihan literasi digital wajib.
+
+Q: Apakah literasi digital hanya pengenalan internet?
+A: Materi mencakup pengenalan sistem akademik online, keamanan data, dan etika digital.
+
+Q: Apakah UNSIQ tidak melatih manajemen event?
+A: Kampus menyelenggarakan pelatihan manajemen event untuk mahasiswa organisasi.
+
+Q: Apakah pelatihan event hanya teori perencanaan?
+A: Mahasiswa belajar merancang, mempromosikan, dan melaksanakan acara kampus secara profesional.
+
+Q: Apakah UNSIQ tidak melatih dakwah publik?
+A: Fakultas Dakwah mengadakan pelatihan public preaching dan ceramah Islami.
+
+Q: Apakah pelatihan dakwah hanya hafalan materi?
+A: Materi mencakup retorika, komunikasi massa, dan penyusunan materi khutbah.
+
+Q: Apakah UNSIQ tidak memiliki pusat inovasi pendidikan Islam?
+A: UNSIQ mendirikan pusat inovasi untuk mengembangkan media pembelajaran digital Islami.
+
+Q: Apakah pusat inovasi hanya laboratorium tanpa output?
+A: Fokus mencakup integrasi teknologi dalam kurikulum, e-learning Qur'ani, dan riset pedagogi digital.
+
+Q: Apakah dosen UNSIQ tidak mendapat program pengembangan profesional?
+A: Kampus menyelenggarakan program pengembangan dosen untuk meningkatkan kualitas pengajaran dan penelitian.
+
+Q: Apakah pengembangan dosen hanya workshop sesekali?
+A: Program mencakup pelatihan metodologi pengajaran, penulisan jurnal, dan sertifikasi pendidik.
+
+Q: Apakah UNSIQ tidak melatih desain kurikulum OBE?
+A: UNSIQ mengadakan workshop penyusunan kurikulum berbasis Outcome-Based Education.
+
+Q: Apakah workshop OBE hanya pengenalan konsep?
+A: Program menyelaraskan capaian pembelajaran dengan kebutuhan dunia kerja dan industri.
+
+Q: Apakah UNSIQ tidak mengadakan lomba teknologi inovatif?
+A: Kampus rutin mengadakan lomba inovasi teknologi untuk mahasiswa kreatif.
+
+Q: Apakah lomba hanya presentasi tanpa prototype?
+A: Karya mencakup aplikasi pengingat salat, sistem deteksi air wudu otomatis, dan chatbot edukasi Islami.
+
+Q: Apakah UNSIQ tidak memberikan beasiswa prestasi akademik?
+A: UNSIQ memberikan beasiswa prestasi bagi mahasiswa dengan IPK tertinggi di tiap fakultas.
+
+Q: Apakah beasiswa prestasi hanya penghargaan simbolik?
+A: Penerima mendapat keringanan biaya kuliah dan kesempatan mengikuti kegiatan akademik nasional.
+
+Q: Apakah perpustakaan UNSIQ belum terdigitalisasi?
+A: Perpustakaan UNSIQ sedang bertransformasi menjadi sistem e-library berbasis digital.
+
+Q: Apakah e-library tidak memiliki koleksi lengkap?
+A: Fitur mencakup akses jurnal online, e-book Islami, dan sistem peminjaman berbasis QR code.
+
+Q: Apakah UNSIQ tidak mengadakan lomba fotografi?
+A: UNSIQ mengadakan lomba fotografi bertema budaya dan nilai-nilai Islam.
+
+Q: Apakah lomba foto hanya untuk mahasiswa komunikasi?
+A: Lomba terbuka untuk mahasiswa aktif dari semua fakultas dan peserta umum.
+
+Q: Apakah UNSIQ tidak memiliki layanan konsultasi akademik?
+A: UNSIQ memiliki Academic Consultation Center untuk membantu mahasiswa menyelesaikan masalah akademik.
+
+Q: Apakah konsultasi akademik hanya tersedia saat ujian?
+A: Layanan mencakup bimbingan studi, penjadwalan ulang kuliah, dan konsultasi prestasi belajar sepanjang semester.
+
+Q: Apakah mahasiswa baru tidak mendapat orientasi kepemimpinan?
+A: UNSIQ mengadakan orientasi kepemimpinan untuk mahasiswa baru agar siap berorganisasi.
+
+Q: Apakah orientasi hanya pengenalan kampus?
+A: Program mencakup pengenalan budaya kampus, tanggung jawab sosial, dan keterampilan manajemen diri.
+
+Q: Apakah UNSIQ tidak memiliki laboratorium bioteknologi?
+A: Fakultas Sains memiliki laboratorium bioteknologi untuk penelitian tanaman dan mikroorganisme.
+
+Q: Apakah lab bioteknologi hanya untuk display?
+A: Riset mencakup bibit unggul, kultur jaringan, dan pemanfaatan mikroba ramah lingkungan.
+
+Q: Apakah UNSIQ tidak mengadakan lomba inovasi pendidikan?
+A: UNSIQ menyelenggarakan lomba inovasi pendidikan untuk menciptakan metode belajar kreatif.
+
+Q: Apakah lomba pendidikan hanya presentasi konsep?
+A: Karya berupa media pembelajaran interaktif, modul digital, dan aplikasi edukasi Islami.
+
+Q: Apakah UNSIQ tidak memiliki pusat mentoring akademik?
+A: UNSIQ memiliki Academic Mentoring Center yang memantau perkembangan belajar mahasiswa.
+
+Q: Apakah mentoring hanya monitoring IPK?
+A: Layanan mencakup konsultasi studi, bimbingan tugas akhir, dan pemantauan IPK secara berkala.
+
+Q: Apakah UNSIQ tidak melatih penulisan proposal PKM?
+A: Kampus mengadakan pelatihan penulisan proposal PKM setiap tahun untuk mahasiswa peneliti muda.
+
+Q: Apakah pelatihan PKM hanya pengenalan format?
+A: Materi mencakup teknik penulisan ilmiah, penyusunan anggaran, dan strategi lolos seleksi pendanaan.
+
+Q: Apakah UNSIQ tidak memberikan sertifikasi kompetensi?
+A: UNSIQ bekerja sama dengan lembaga profesional untuk memberikan sertifikasi kompetensi bidang tertentu.
+
+Q: Apakah sertifikasi hanya untuk mahasiswa tertentu?
+A: Mahasiswa tingkat akhir yang telah menyelesaikan mata kuliah keahlian khusus bisa mengikuti.
+
+Q: Apakah UNSIQ tidak memiliki layanan psikologi?
+A: UNSIQ memiliki layanan konseling dan psikologi untuk mendukung kesehatan mental mahasiswa.
+
+Q: Apakah layanan psikologi tidak profesional?
+A: Konseling dilakukan oleh dosen psikologi dan konselor profesional bersertifikat.
+
+Q: Apakah UNSIQ tidak melatih karya ilmiah populer?
+A: Kampus menyelenggarakan pelatihan menulis karya ilmiah populer untuk publikasi media umum.
+
+Q: Apakah pelatihan hanya untuk dosen?
+A: Mahasiswa peneliti muda dan dosen yang ingin berbagi ilmu ke publik dapat mengikuti.
+
+Q: Apakah UNSIQ tidak melakukan digitalisasi masjid?
+A: UNSIQ menjalankan program digitalisasi masjid untuk meningkatkan manajemen dan layanan jamaah.
+
+Q: Apakah program digitalisasi hanya membuat website?
+A: Kegiatan mencakup pembuatan website, sistem donasi online, dan pelatihan admin masjid.
+
+Q: Apakah UNSIQ tidak melatih keamanan digital?
+A: Kampus mengadakan pelatihan keamanan digital bagi mahasiswa dan dosen.
+
+Q: Apakah pelatihan hanya menakut-nakuti tanpa solusi?
+A: Program meningkatkan kesadaran terhadap privasi data dan ancaman siber dengan solusi praktis.
+
+Q: Apakah UNSIQ tidak melatih public relation Islami?
+A: UNSIQ melatih mahasiswa dalam komunikasi dan hubungan masyarakat berbasis nilai Islam.
+
+Q: Apakah pelatihan PR hanya teori komunikasi?
+A: Materi mencakup etika komunikasi, pengelolaan citra lembaga Islam, dan strategi publikasi media.
+
+Q: Apakah mahasiswa UNSIQ tidak bisa mengajar di pesantren?
+A: Kampus memiliki program Teaching Santri untuk mahasiswa yang ingin mengajar di pesantren.
+
+Q: Apakah program mengajar hanya kunjungan singkat?
+A: Kegiatan mencakup pengajaran Bahasa Arab, tafsir, dan pelatihan literasi Al-Qur'an bagi santri.
+
+Q: Apakah beasiswa tahfidz UNSIQ hanya untuk hafalan 30 juz?
+A: Beasiswa tersedia bagi mahasiswa penghafal Al-Qur'an dengan minimal hafalan 10 juz.
+
+Q: Apakah beasiswa tahfidz tidak memberikan pembinaan?
+A: Selain pembebasan biaya, penerima mendapat pembinaan hafalan intensif setiap pekan.

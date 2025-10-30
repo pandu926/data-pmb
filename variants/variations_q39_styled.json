@@ -1,0 +1,46 @@
+{
+  "question": "Praktik apa saja yang dilakukan di Ruang Sidang Semu?",
+  "answer": "Mahasiswa melakukan simulasi sidang perdata, pidana, dan pengadilan agama agar siap menghadapi dunia kerja hukum nyata.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Praktik simulasi peradilan apa sajakah yang dilaksanakan di Ruang Sidang Semu?"
+    },
+    {
+      "style": "formal",
+      "question": "Jenis-jenis simulasi persidangan apa yang dapat dilakukan oleh mahasiswa di Ruang Sidang Semu?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon jelaskan mengenai kegiatan praktik yang berlangsung di dalam Ruang Sidang Semu."
+    },
+    {
+      "style": "non-formal",
+      "question": "Di Ruang Sidang Semu, praktik apa aja?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Mahasiswa ngapain aja di Ruang Sidang Semu?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Simulasi sidang apa aja yang ada di Ruang Sidang Semu?"
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, di Ruang Sidang Semu itu latihan sidang apa aja?"
+    },
+    {
+      "style": "gaul",
+      "question": "Spill kegiatan di Ruang Sidang Semu dong."
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, di Ruang Sidang Semu itu kayak beneran di pengadilan gak?"
+    },
+    {
+      "style": "gaul",
+      "question": "Ruang Sidang Semu, praktiknya ngapain aja?"
+    }
+  ]
+}

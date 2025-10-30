@@ -1,0 +1,46 @@
+{
+  "question": "Berapa biaya kuliah Teknik Informatika?",
+  "answer": "Total Rp6.545.000 (Rp745.000 + Rp3.300.000 + Rp2.500.000).",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Berapakah total biaya yang diperlukan untuk menempuh pendidikan pada program studi Teknik Informatika?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon informasikan rincian biaya perkuliahan untuk jurusan Teknik Informatika."
+    },
+    {
+      "style": "formal",
+      "question": "Bagaimanakah struktur pembiayaan untuk program studi Teknik Informatika di UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Berapa sih biaya kuliah di jurusan Teknik Informatika?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Kuliah Teknik Informatika di UNSIQ bayarnya berapa ya?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Info biaya untuk prodi Teknik Informatika dong."
+    },
+    {
+      "style": "gaul",
+      "question": "Spill biaya kuliah TI UNSIQ dong, guys!"
+    },
+    {
+      "style": "gaul",
+      "question": "Kuliah di TI UNSIQ abis berapa duit ya?"
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, ada yang tau biaya kuliah Teknik Informatika di UNSIQ?"
+    },
+    {
+      "style": "gaul",
+      "question": "TI UNSIQ, UKT-nya berapaan?"
+    }
+  ]
+}

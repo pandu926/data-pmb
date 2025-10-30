@@ -1,0 +1,101 @@
+[
+  {
+    "text": "<start_of_turn>system\nAnda adalah asisten virtual untuk Penerimaan Mahasiswa Baru (PMB) di Universitas Sains Al-Qur'an (UNSIQ) Wonosobo.\nTugas Anda adalah memberikan informasi yang akurat, jelas, dan membantu calon mahasiswa dalam proses pendaftaran.\nJawab pertanyaan dengan ramah, informatif, dan profesional.<end_of_turn>\n<start_of_turn>user\nBagaimana cara melakukan pembayaran biaya kuliah di UNSIQ?<end_of_turn>\n<start_of_turn>model\nPembayaran biaya kuliah di UNSIQ bisa dilakukan melalui Bank Jateng atau melalui Finpay, termasuk gerai Alfamart dan bank seperti BJB, BRI, BNI, Mandiri, BTN, Mega, dan Permata.<end_of_turn>",
+    "question": "Bagaimana cara melakukan pembayaran biaya kuliah di UNSIQ?",
+    "answer": "Pembayaran biaya kuliah di UNSIQ bisa dilakukan melalui Bank Jateng atau melalui Finpay, termasuk gerai Alfamart dan bank seperti BJB, BRI, BNI, Mandiri, BTN, Mega, dan Permata.",
+    "metadata": {
+      "topic": "PMB UNSIQ",
+      "subtopic": "Informasi Umum"
+    }
+  },
+  {
+    "text": "<start_of_turn>system\nAnda adalah asisten virtual untuk Penerimaan Mahasiswa Baru (PMB) di Universitas Sains Al-Qur'an (UNSIQ) Wonosobo.\nTugas Anda adalah memberikan informasi yang akurat, jelas, dan membantu calon mahasiswa dalam proses pendaftaran.\nJawab pertanyaan dengan ramah, informatif, dan profesional.<end_of_turn>\n<start_of_turn>user\nBagaimanakah prosedur untuk melakukan pembayaran biaya perkuliahan di Universitas Sains Al-Qur'an?<end_of_turn>\n<start_of_turn>model\nPembayaran biaya kuliah di UNSIQ bisa dilakukan melalui Bank Jateng atau melalui Finpay, termasuk gerai Alfamart dan bank seperti BJB, BRI, BNI, Mandiri, BTN, Mega, dan Permata.<end_of_turn>",
+    "question": "Bagaimanakah prosedur untuk melakukan pembayaran biaya perkuliahan di Universitas Sains Al-Qur'an?",
+    "answer": "Pembayaran biaya kuliah di UNSIQ bisa dilakukan melalui Bank Jateng atau melalui Finpay, termasuk gerai Alfamart dan bank seperti BJB, BRI, BNI, Mandiri, BTN, Mega, dan Permata.",
+    "metadata": {
+      "topic": "PMB UNSIQ",
+      "subtopic": "Informasi Umum"
+    }
+  },
+  {
+    "text": "<start_of_turn>system\nAnda adalah asisten virtual untuk Penerimaan Mahasiswa Baru (PMB) di Universitas Sains Al-Qur'an (UNSIQ) Wonosobo.\nTugas Anda adalah memberikan informasi yang akurat, jelas, dan membantu calon mahasiswa dalam proses pendaftaran.\nJawab pertanyaan dengan ramah, informatif, dan profesional.<end_of_turn>\n<start_of_turn>user\nMohon informasi mengenai tata cara pembayaran biaya pendidikan di UNSIQ.<end_of_turn>\n<start_of_turn>model\nPembayaran biaya kuliah di UNSIQ bisa dilakukan melalui Bank Jateng atau melalui Finpay, termasuk gerai Alfamart dan bank seperti BJB, BRI, BNI, Mandiri, BTN, Mega, dan Permata.<end_of_turn>",
+    "question": "Mohon informasi mengenai tata cara pembayaran biaya pendidikan di UNSIQ.",
+    "answer": "Pembayaran biaya kuliah di UNSIQ bisa dilakukan melalui Bank Jateng atau melalui Finpay, termasuk gerai Alfamart dan bank seperti BJB, BRI, BNI, Mandiri, BTN, Mega, dan Permata.",
+    "metadata": {
+      "topic": "PMB UNSIQ",
+      "subtopic": "Informasi Umum"
+    }
+  },
+  {
+    "text": "<start_of_turn>system\nAnda adalah asisten virtual untuk Penerimaan Mahasiswa Baru (PMB) di Universitas Sains Al-Qur'an (UNSIQ) Wonosobo.\nTugas Anda adalah memberikan informasi yang akurat, jelas, dan membantu calon mahasiswa dalam proses pendaftaran.\nJawab pertanyaan dengan ramah, informatif, dan profesional.<end_of_turn>\n<start_of_turn>user\nMelalui saluran apa sajakah pembayaran biaya kuliah di UNSIQ dapat dilakukan?<end_of_turn>\n<start_of_turn>model\nPembayaran biaya kuliah di UNSIQ bisa dilakukan melalui Bank Jateng atau melalui Finpay, termasuk gerai Alfamart dan bank seperti BJB, BRI, BNI, Mandiri, BTN, Mega, dan Permata.<end_of_turn>",
+    "question": "Melalui saluran apa sajakah pembayaran biaya kuliah di UNSIQ dapat dilakukan?",
+    "answer": "Pembayaran biaya kuliah di UNSIQ bisa dilakukan melalui Bank Jateng atau melalui Finpay, termasuk gerai Alfamart dan bank seperti BJB, BRI, BNI, Mandiri, BTN, Mega, dan Permata.",
+    "metadata": {
+      "topic": "PMB UNSIQ",
+      "subtopic": "Informasi Umum"
+    }
+  },
+  {
+    "text": "<start_of_turn>system\nAnda adalah asisten virtual untuk Penerimaan Mahasiswa Baru (PMB) di Universitas Sains Al-Qur'an (UNSIQ) Wonosobo.\nTugas Anda adalah memberikan informasi yang akurat, jelas, dan membantu calon mahasiswa dalam proses pendaftaran.\nJawab pertanyaan dengan ramah, informatif, dan profesional.<end_of_turn>\n<start_of_turn>user\nBagaimana cara bayar biaya kuliah di UNSIQ?<end_of_turn>\n<start_of_turn>model\nPembayaran biaya kuliah di UNSIQ bisa dilakukan melalui Bank Jateng atau melalui Finpay, termasuk gerai Alfamart dan bank seperti BJB, BRI, BNI, Mandiri, BTN, Mega, dan Permata.<end_of_turn>",
+    "question": "Bagaimana cara bayar biaya kuliah di UNSIQ?",
+    "answer": "Pembayaran biaya kuliah di UNSIQ bisa dilakukan melalui Bank Jateng atau melalui Finpay, termasuk gerai Alfamart dan bank seperti BJB, BRI, BNI, Mandiri, BTN, Mega, dan Permata.",
+    "metadata": {
+      "topic": "PMB UNSIQ",
+      "subtopic": "Informasi Umum"
+    }
+  },
+  {
+    "text": "<start_of_turn>system\nAnda adalah asisten virtual untuk Penerimaan Mahasiswa Baru (PMB) di Universitas Sains Al-Qur'an (UNSIQ) Wonosobo.\nTugas Anda adalah memberikan informasi yang akurat, jelas, dan membantu calon mahasiswa dalam proses pendaftaran.\nJawab pertanyaan dengan ramah, informatif, dan profesional.<end_of_turn>\n<start_of_turn>user\nLewat mana saja saya bisa melunasi biaya kuliah di UNSIQ?<end_of_turn>\n<start_of_turn>model\nPembayaran biaya kuliah di UNSIQ bisa dilakukan melalui Bank Jateng atau melalui Finpay, termasuk gerai Alfamart dan bank seperti BJB, BRI, BNI, Mandiri, BTN, Mega, dan Permata.<end_of_turn>",
+    "question": "Lewat mana saja saya bisa melunasi biaya kuliah di UNSIQ?",
+    "answer": "Pembayaran biaya kuliah di UNSIQ bisa dilakukan melalui Bank Jateng atau melalui Finpay, termasuk gerai Alfamart dan bank seperti BJB, BRI, BNI, Mandiri, BTN, Mega, dan Permata.",
+    "metadata": {
+      "topic": "PMB UNSIQ",
+      "subtopic": "Informasi Umum"
+    }
+  },
+  {
+    "text": "<start_of_turn>system\nAnda adalah asisten virtual untuk Penerimaan Mahasiswa Baru (PMB) di Universitas Sains Al-Qur'an (UNSIQ) Wonosobo.\nTugas Anda adalah memberikan informasi yang akurat, jelas, dan membantu calon mahasiswa dalam proses pendaftaran.\nJawab pertanyaan dengan ramah, informatif, dan profesional.<end_of_turn>\n<start_of_turn>user\nApa saja pilihan untuk membayar biaya kuliah di UNSIQ?<end_of_turn>\n<start_of_turn>model\nPembayaran biaya kuliah di UNSIQ bisa dilakukan melalui Bank Jateng atau melalui Finpay, termasuk gerai Alfamart dan bank seperti BJB, BRI, BNI, Mandiri, BTN, Mega, dan Permata.<end_of_turn>",
+    "question": "Apa saja pilihan untuk membayar biaya kuliah di UNSIQ?",
+    "answer": "Pembayaran biaya kuliah di UNSIQ bisa dilakukan melalui Bank Jateng atau melalui Finpay, termasuk gerai Alfamart dan bank seperti BJB, BRI, BNI, Mandiri, BTN, Mega, dan Permata.",
+    "metadata": {
+      "topic": "PMB UNSIQ",
+      "subtopic": "Informasi Umum"
+    }
+  },
+  {
+    "text": "<start_of_turn>system\nAnda adalah asisten virtual untuk Penerimaan Mahasiswa Baru (PMB) di Universitas Sains Al-Qur'an (UNSIQ) Wonosobo.\nTugas Anda adalah memberikan informasi yang akurat, jelas, dan membantu calon mahasiswa dalam proses pendaftaran.\nJawab pertanyaan dengan ramah, informatif, dan profesional.<end_of_turn>\n<start_of_turn>user\nGimana sih cara bayar kuliah di UNSIQ, guys?<end_of_turn>\n<start_of_turn>model\nPembayaran biaya kuliah di UNSIQ bisa dilakukan melalui Bank Jateng atau melalui Finpay, termasuk gerai Alfamart dan bank seperti BJB, BRI, BNI, Mandiri, BTN, Mega, dan Permata.<end_of_turn>",
+    "question": "Gimana sih cara bayar kuliah di UNSIQ, guys?",
+    "answer": "Pembayaran biaya kuliah di UNSIQ bisa dilakukan melalui Bank Jateng atau melalui Finpay, termasuk gerai Alfamart dan bank seperti BJB, BRI, BNI, Mandiri, BTN, Mega, dan Permata.",
+    "metadata": {
+      "topic": "PMB UNSIQ",
+      "subtopic": "Informasi Umum"
+    }
+  },
+  {
+    "text": "<start_of_turn>system\nAnda adalah asisten virtual untuk Penerimaan Mahasiswa Baru (PMB) di Universitas Sains Al-Qur'an (UNSIQ) Wonosobo.\nTugas Anda adalah memberikan informasi yang akurat, jelas, dan membantu calon mahasiswa dalam proses pendaftaran.\nJawab pertanyaan dengan ramah, informatif, dan profesional.<end_of_turn>\n<start_of_turn>user\nBro/Sis, bayar kuliah UNSIQ lewat mana aja ya?<end_of_turn>\n<start_of_turn>model\nPembayaran biaya kuliah di UNSIQ bisa dilakukan melalui Bank Jateng atau melalui Finpay, termasuk gerai Alfamart dan bank seperti BJB, BRI, BNI, Mandiri, BTN, Mega, dan Permata.<end_of_turn>",
+    "question": "Bro/Sis, bayar kuliah UNSIQ lewat mana aja ya?",
+    "answer": "Pembayaran biaya kuliah di UNSIQ bisa dilakukan melalui Bank Jateng atau melalui Finpay, termasuk gerai Alfamart dan bank seperti BJB, BRI, BNI, Mandiri, BTN, Mega, dan Permata.",
+    "metadata": {
+      "topic": "PMB UNSIQ",
+      "subtopic": "Informasi Umum"
+    }
+  },
+  {
+    "text": "<start_of_turn>system\nAnda adalah asisten virtual untuk Penerimaan Mahasiswa Baru (PMB) di Universitas Sains Al-Qur'an (UNSIQ) Wonosobo.\nTugas Anda adalah memberikan informasi yang akurat, jelas, dan membantu calon mahasiswa dalam proses pendaftaran.\nJawab pertanyaan dengan ramah, informatif, dan profesional.<end_of_turn>\n<start_of_turn>user\nSpill dong cara bayar UKT di UNSIQ.<end_of_turn>\n<start_of_turn>model\nPembayaran biaya kuliah di UNSIQ bisa dilakukan melalui Bank Jateng atau melalui Finpay, termasuk gerai Alfamart dan bank seperti BJB, BRI, BNI, Mandiri, BTN, Mega, dan Permata.<end_of_turn>",
+    "question": "Spill dong cara bayar UKT di UNSIQ.",
+    "answer": "Pembayaran biaya kuliah di UNSIQ bisa dilakukan melalui Bank Jateng atau melalui Finpay, termasuk gerai Alfamart dan bank seperti BJB, BRI, BNI, Mandiri, BTN, Mega, dan Permata.",
+    "metadata": {
+      "topic": "PMB UNSIQ",
+      "subtopic": "Informasi Umum"
+    }
+  },
+  {
+    "text": "<start_of_turn>system\nAnda adalah asisten virtual untuk Penerimaan Mahasiswa Baru (PMB) di Universitas Sains Al-Qur'an (UNSIQ) Wonosobo.\nTugas Anda adalah memberikan informasi yang akurat, jelas, dan membantu calon mahasiswa dalam proses pendaftaran.\nJawab pertanyaan dengan ramah, informatif, dan profesional.<end_of_turn>\n<start_of_turn>user\nUNSIQ, bayar kuliahnya gimana caranya?<end_of_turn>\n<start_of_turn>model\nPembayaran biaya kuliah di UNSIQ bisa dilakukan melalui Bank Jateng atau melalui Finpay, termasuk gerai Alfamart dan bank seperti BJB, BRI, BNI, Mandiri, BTN, Mega, dan Permata.<end_of_turn>",
+    "question": "UNSIQ, bayar kuliahnya gimana caranya?",
+    "answer": "Pembayaran biaya kuliah di UNSIQ bisa dilakukan melalui Bank Jateng atau melalui Finpay, termasuk gerai Alfamart dan bank seperti BJB, BRI, BNI, Mandiri, BTN, Mega, dan Permata.",
+    "metadata": {
+      "topic": "PMB UNSIQ",
+      "subtopic": "Informasi Umum"
+    }
+  }
+]

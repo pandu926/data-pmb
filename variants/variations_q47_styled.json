@@ -1,0 +1,46 @@
+{
+  "question": "Apa manfaat Beasiswa Kerjasama UNSIQ?",
+  "answer": "Peserta hanya membayar Rp1.595.000 per semester selama 8 semester (S1) atau 6 semester (D3). Program ini berlaku untuk S1 PIAUD, Pendidikan Fisika, Perbankan Syariah, Hukum Ekonomi Syariah, Ilmu Politik, Teknik Mesin, dan D3 Manajemen Informatika.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Apa sajakah manfaat yang diperoleh dari program Beasiswa Kerjasama UNSIQ?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon jelaskan keuntungan finansial yang didapatkan melalui Beasiswa Kerjasama UNSIQ."
+    },
+    {
+      "style": "formal",
+      "question": "Bagaimana skema pembiayaan bagi mahasiswa yang menerima Beasiswa Kerjasama UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Untungnya dapet Beasiswa Kerjasama UNSIQ apa aja?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Kalau lolos Beasiswa Kerjasama UNSIQ, dapet apa aja?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Enaknya Beasiswa Kerjasama UNSIQ itu gimana?"
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, benefit Beasiswa Kerjasama UNSIQ apa aja?"
+    },
+    {
+      "style": "gaul",
+      "question": "Spill keuntungan Beasiswa Kerjasama UNSIQ dong."
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, kalo dapet Beasiswa Kerjasama UNSIQ, bayar kuliahnya gimana?"
+    },
+    {
+      "style": "gaul",
+      "question": "Beasiswa Kerjasama UNSIQ, dapet potongan berapa?"
+    }
+  ]
+}

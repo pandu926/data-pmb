@@ -1,0 +1,46 @@
+{
+  "question": "Berapa biaya kuliah Pendidikan Profesi Ners?",
+  "answer": "Total Rp11.345.000 (Rp845.000 + Rp1.500.000 + Rp9.000.000).",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Berapakah total biaya yang diperlukan untuk menempuh pendidikan pada program studi Pendidikan Profesi Ners?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon informasikan rincian biaya perkuliahan untuk jurusan Pendidikan Profesi Ners."
+    },
+    {
+      "style": "formal",
+      "question": "Bagaimanakah struktur pembiayaan untuk program studi Pendidikan Profesi Ners di UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Berapa sih biaya kuliah di jurusan Pendidikan Profesi Ners?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Kuliah Pendidikan Profesi Ners di UNSIQ bayarnya berapa ya?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Info biaya untuk prodi Pendidikan Profesi Ners dong."
+    },
+    {
+      "style": "gaul",
+      "question": "Spill biaya kuliah Profesi Ners UNSIQ dong, guys!"
+    },
+    {
+      "style": "gaul",
+      "question": "Kuliah di Profesi Ners UNSIQ abis berapa duit ya?"
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, ada yang tau biaya kuliah Pendidikan Profesi Ners di UNSIQ?"
+    },
+    {
+      "style": "gaul",
+      "question": "Profesi Ners UNSIQ, UKT-nya berapaan?"
+    }
+  ]
+}

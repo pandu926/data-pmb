@@ -1,0 +1,46 @@
+{
+  "question": "Apa saja jenis beasiswa yang tersedia di UNSIQ untuk program D3 dan S1?",
+  "answer": "UNSIQ menyediakan beberapa jenis beasiswa, yaitu: Beasiswa Tahfidzul Qur'an, Beasiswa Prestasi Olahraga dan Seni, Beasiswa Nilai Rata-rata UASBN 85, Beasiswa Kerjasama Sekolah Mitra, Beasiswa Kerjasama UNSIQ (Santri, Ustadz, PKH, Kader Desa/Ormas/Parpol), Beasiswa PBSB dari Kemenag, Beasiswa KIP Kuliah Merdeka, Beasiswa BAZNAS RI, Beasiswa BSI, Beasiswa Prestasi Non-Akademik, dan Beasiswa Ketua Ormawa.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Jenis-jenis beasiswa apa sajakah yang ditawarkan oleh UNSIQ untuk mahasiswa program Diploma 3 dan Sarjana?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon informasikan mengenai program beasiswa yang tersedia bagi mahasiswa D3 dan S1 di UNSIQ."
+    },
+    {
+      "style": "formal",
+      "question": "Dapatkah Anda menyebutkan berbagai kategori beasiswa yang dapat diajukan oleh mahasiswa program D3 dan S1 di UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Di UNSIQ ada beasiswa apa aja buat D3 sama S1?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Beasiswa di UNSIQ apa aja sih pilihannya?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Info beasiswa D3 & S1 di UNSIQ dong."
+    },
+    {
+      "style": "gaul",
+      "question": "Spill beasiswa di UNSIQ dong, guys!"
+    },
+    {
+      "style": "gaul",
+      "question": "Di UNSIQ ada beasiswa apa aja nih?"
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, beasiswa di UNSIQ ada apa aja selain KIP?"
+    },
+    {
+      "style": "gaul",
+      "question": "UNSIQ, beasiswanya apa aja?"
+    }
+  ]
+}

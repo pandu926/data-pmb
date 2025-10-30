@@ -1,0 +1,46 @@
+{
+  "question": "Apa itu Beasiswa PBSB dari Kemenag?",
+  "answer": "Program pemerintah untuk prodi berakreditasi A/Unggul, seperti Hukum Keluarga (S1), PAI (S1), PGMI (S1), dan Arsitektur (S1). Ketentuan resmi diumumkan melalui situs Kemenag RI https://pendaftaran-beasiswa.kemenag.go.id/pbsb/.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Apakah yang dimaksud dengan Beasiswa PBSB dari Kementerian Agama?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon jelaskan mengenai program Beasiswa PBSB yang diselenggarakan oleh Kemenag."
+    },
+    {
+      "style": "formal",
+      "question": "Bagaimana mekanisme dan cakupan dari Beasiswa PBSB Kemenag?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Beasiswa PBSB dari Kemenag itu apa sih?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Maksudnya Beasiswa PBSB Kemenag itu gimana?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Info dong tentang Beasiswa PBSB Kemenag."
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, Beasiswa PBSB Kemenag itu apaan?"
+    },
+    {
+      "style": "gaul",
+      "question": "Spill info Beasiswa PBSB Kemenag dong."
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, ada yang tau Beasiswa PBSB Kemenag?"
+    },
+    {
+      "style": "gaul",
+      "question": "Beasiswa PBSB Kemenag, itu beasiswa apaan?"
+    }
+  ]
+}

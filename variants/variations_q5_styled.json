@@ -1,0 +1,46 @@
+{
+  "question": "Berapa biaya kuliah Magister Pendidikan Islam (S2) di UNSIQ?",
+  "answer": "Total biaya semester pertama Magister Pendidikan Islam adalah: Angsuran 1 sebesar Rp1.195.000, Angsuran 2 sebesar Rp4.500.000, dan Angsuran 3 sebesar Rp2.500.000. Total Rp8.195.000.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Berapakah total biaya perkuliahan untuk program studi Magister Pendidikan Islam (S2) di UNSIQ?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon informasi mengenai rincian biaya pendidikan untuk program Magister Pendidikan Islam (S2)."
+    },
+    {
+      "style": "formal",
+      "question": "Bagaimanakah struktur biaya untuk semester pertama pada program studi Magister Pendidikan Islam (S2)?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Berapa biaya kuliah S2 Pendidikan Islam di UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Total biaya kuliah S2 Magister Pendidikan Islam berapa ya?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Rincian biaya kuliah S2 Pendidikan Islam di UNSIQ gimana?"
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, S2 Pendidikan Islam di UNSIQ berapaan sih biayanya?"
+    },
+    {
+      "style": "gaul",
+      "question": "Spill biaya S2 Pendidikan Islam di UNSIQ dong."
+    },
+    {
+      "style": "gaul",
+      "question": "Ada yang tau gak, biaya kuliah S2 MPI di UNSIQ berapa?"
+    },
+    {
+      "style": "gaul",
+      "question": "Berapa duit buat kuliah S2 Pendidikan Islam di UNSIQ?"
+    }
+  ]
+}

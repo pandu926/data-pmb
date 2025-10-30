@@ -1,0 +1,46 @@
+{
+  "question": "Apakah lab ini hanya untuk mahasiswa keperawatan?",
+  "answer": "Ya, lab ini dikhususkan untuk mahasiswa Fakultas Ilmu Kesehatan, khususnya program studi Keperawatan.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Apakah Laboratorium Keperawatan hanya dapat diakses oleh mahasiswa program studi Keperawatan?"
+    },
+    {
+      "style": "formal",
+      "question": "Siapa sajakah yang diizinkan untuk menggunakan fasilitas Laboratorium Keperawatan?"
+    },
+    {
+      "style": "formal",
+      "question": "Apakah mahasiswa dari program studi lain dapat memanfaatkan Laboratorium Keperawatan?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Lab keperawatan cuma buat anak keperawatan aja?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Selain anak keperawatan, boleh gak masuk lab itu?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Jurusan lain bisa pakai lab keperawatan gak?"
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, lab keperawatan cuma buat anak FIKES doang?"
+    },
+    {
+      "style": "gaul",
+      "question": "Anak prodi lain boleh join lab keperawatan gak?"
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, lab keperawatan eksklusif buat anak perawat ya?"
+    },
+    {
+      "style": "gaul",
+      "question": "Lab keperawatan, siapa aja yang boleh masuk?"
+    }
+  ]
+}

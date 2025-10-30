@@ -1,0 +1,46 @@
+{
+  "question": "Apakah UNSIQ memiliki fasilitas kesehatan?",
+  "answer": "Ya, UNSIQ memiliki klinik kampus yang didukung dokter dan perawat berpengalaman. Klinik menyediakan layanan pemeriksaan kesehatan, pengobatan, konsultasi, pemeriksaan laboratorium sederhana (kolesterol, glukosa, darah, asam urat, urinalisa, tes kehamilan, golongan darah), pelayanan KB, dan pemeriksaan ibu hamil.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Apakah tersedia fasilitas kesehatan di lingkungan kampus UNSIQ?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon informasikan mengenai keberadaan fasilitas kesehatan di UNSIQ."
+    },
+    {
+      "style": "formal",
+      "question": "Fasilitas kesehatan apa sajakah yang disediakan oleh UNSIQ untuk mahasiswanya?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Di UNSIQ ada klinik gak?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Kalau sakit, di UNSIQ ada tempat berobat?"
+    },
+    {
+      "style": "non-formal",
+      "question": "UNSIQ punya fasilitas kesehatan ga sih?"
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, di UNSIQ ada UKS-nya gak?"
+    },
+    {
+      "style": "gaul",
+      "question": "Kalo lagi sakit di kampus, bisa kemana ya di UNSIQ?"
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, ada yang tau info faskes di UNSIQ?"
+    },
+    {
+      "style": "gaul",
+      "question": "UNSIQ, ada tempat buat berobat gak?"
+    }
+  ]
+}

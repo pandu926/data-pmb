@@ -1,0 +1,46 @@
+{
+  "question": "Apa saja yang tersedia di Lab Kebidanan UNSIQ?",
+  "answer": "Lab Kebidanan digunakan untuk praktik melahirkan dan pertolongan bayi. Fasilitasnya lengkap, termasuk perlengkapan persalinan dan alat penanganan darurat bagi ibu hamil atau melahirkan.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Fasilitas apa sajakah yang tersedia di Laboratorium Kebidanan UNSIQ?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon informasikan mengenai kelengkapan fasilitas di Laboratorium Kebidanan UNSIQ."
+    },
+    {
+      "style": "formal",
+      "question": "Dapatkah Anda menjelaskan tentang isi dan kelengkapan Laboratorium Kebidanan UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Di lab kebidanan UNSIQ ada apa aja sih?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Lab kebidanan UNSIQ isinya apa aja ya?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Info dong, di lab kebidanan UNSIQ ada apa aja?"
+    },
+    {
+      "style": "gaul",
+      "question": "Spill isi lab kebidanan UNSIQ dong, guys!"
+    },
+    {
+      "style": "gaul",
+      "question": "Di lab kebidanan UNSIQ bisa ngapain aja?"
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, ada yang tau di lab kebidanan UNSIQ ada alat apa aja?"
+    },
+    {
+      "style": "gaul",
+      "question": "Lab kebidanan UNSIQ, lengkap gak alatnya?"
+    }
+  ]
+}

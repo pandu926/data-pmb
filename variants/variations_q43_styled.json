@@ -1,0 +1,46 @@
+{
+  "question": "Apa syarat mendaftar Beasiswa Tahfidz?",
+  "answer": "Harus mengunggah syahadah asli, mengikuti tes ulang dan memperoleh rekomendasi LTPQ, menyertakan surat keterangan pengasuh ponpes bermaterai Rp10.000 (bagi selain 30 Juz), serta mengisi surat pernyataan kesanggupan.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Apa sajakah persyaratan untuk mendaftar program Beasiswa Tahfidz?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon informasikan mengenai dokumen dan prosedur pendaftaran Beasiswa Tahfidz."
+    },
+    {
+      "style": "formal",
+      "question": "Bagaimana alur dan ketentuan untuk mengajukan Beasiswa Tahfidz di UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Syaratnya daftar Beasiswa Tahfidz apa aja?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Kalau mau daftar Beasiswa Tahfidz, harus gimana?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Gimana cara daftar Beasiswa Tahfidz?"
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, syarat Beasiswa Tahfidz apa aja?"
+    },
+    {
+      "style": "gaul",
+      "question": "Spill cara daftar Beasiswa Tahfidz dong."
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, kalo mau dapet Beasiswa Tahfidz, syaratnya apa?"
+    },
+    {
+      "style": "gaul",
+      "question": "Beasiswa Tahfidz, daftarnya gimana?"
+    }
+  ]
+}

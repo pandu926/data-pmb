@@ -1,0 +1,46 @@
+{
+  "question": "Apakah klinik UNSIQ juga melayani kegiatan masyarakat?",
+  "answer": "Ya, klinik UNSIQ juga aktif dalam pengabdian masyarakat saat Dies Natalis dan menyediakan pelatihan penanganan P3K, keselamatan kerja, serta ceramah kesehatan.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Apakah layanan klinik UNSIQ terbuka untuk masyarakat umum?"
+    },
+    {
+      "style": "formal",
+      "question": "Selain sivitas akademika, apakah klinik UNSIQ juga melayani masyarakat sekitar?"
+    },
+    {
+      "style": "formal",
+      "question": "Bagaimanakah peran klinik UNSIQ dalam pengabdian kepada masyarakat?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Klinik UNSIQ buat umum juga gak?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Masyarakat luar bisa berobat di klinik UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Selain mahasiswa, siapa lagi yang bisa ke klinik UNSIQ?"
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, klinik UNSIQ bisa buat orang luar gak?"
+    },
+    {
+      "style": "gaul",
+      "question": "Warga sekitar boleh gak berobat di klinik UNSIQ?"
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, klinik UNSIQ cuma buat mahasiswa doang ya?"
+    },
+    {
+      "style": "gaul",
+      "question": "Klinik UNSIQ, buat umum atau khusus mahasiswa?"
+    }
+  ]
+}

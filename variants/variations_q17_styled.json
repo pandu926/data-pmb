@@ -1,0 +1,46 @@
+{
+  "question": "Berapa biaya kuliah Manajemen Informatika (D3)?",
+  "answer": "Total Rp5.255.000 (Rp745.000 + Rp2.510.000 + Rp2.000.000).",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Berapakah total biaya yang diperlukan untuk menempuh pendidikan pada program studi Manajemen Informatika (D3)?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon informasikan rincian biaya perkuliahan untuk jurusan Manajemen Informatika (D3)."
+    },
+    {
+      "style": "formal",
+      "question": "Bagaimanakah struktur pembiayaan untuk program studi Manajemen Informatika (D3) di UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Berapa sih biaya kuliah di jurusan Manajemen Informatika (D3)?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Kuliah Manajemen Informatika (D3) di UNSIQ bayarnya berapa ya?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Info biaya untuk prodi Manajemen Informatika (D3) dong."
+    },
+    {
+      "style": "gaul",
+      "question": "Spill biaya kuliah MI UNSIQ dong, guys!"
+    },
+    {
+      "style": "gaul",
+      "question": "Kuliah di MI UNSIQ abis berapa duit ya?"
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, ada yang tau biaya kuliah Manajemen Informatika di UNSIQ?"
+    },
+    {
+      "style": "gaul",
+      "question": "MI UNSIQ, UKT-nya berapaan?"
+    }
+  ]
+}

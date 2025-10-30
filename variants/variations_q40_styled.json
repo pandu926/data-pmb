@@ -1,0 +1,46 @@
+{
+  "question": "Apa saja fasilitas yang tersedia di UNSIQ?",
+  "answer": "UNSIQ menyediakan berbagai fasilitas penunjang akademik seperti perpustakaan, laboratorium, klinik kesehatan, ruang sidang semu, radio kampus RED Q, serta jaringan wifi hotspot di seluruh area kampus.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Fasilitas penunjang akademik apa sajakah yang tersedia di UNSIQ?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon informasikan mengenai ragam fasilitas yang disediakan oleh UNSIQ."
+    },
+    {
+      "style": "formal",
+      "question": "Dapatkah Anda menyebutkan fasilitas-fasilitas utama yang ada di lingkungan kampus UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Di UNSIQ ada fasilitas apa aja?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Fasilitas di UNSIQ apa aja sih?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Info fasilitas UNSIQ dong."
+    },
+    {
+      "style": "gaul",
+      "question": "Spill fasilitas di UNSIQ dong, guys!"
+    },
+    {
+      "style": "gaul",
+      "question": "Di UNSIQ ada apa aja selain kelas?"
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, fasilitas di UNSIQ lengkap gak?"
+    },
+    {
+      "style": "gaul",
+      "question": "UNSIQ, fasilitasnya apa aja?"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "question": "Berapa biaya kuliah Teknik Mesin (S1)?",
+  "answer": "Total Rp5.315.000 (Rp745.000 + Rp2.570.000 + Rp2.000.000).",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Berapakah total biaya yang diperlukan untuk menempuh pendidikan pada program studi Teknik Mesin (S1)?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon informasikan rincian biaya perkuliahan untuk jurusan Teknik Mesin (S1)."
+    },
+    {
+      "style": "formal",
+      "question": "Bagaimanakah struktur pembiayaan untuk program studi Teknik Mesin (S1) di UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Berapa sih biaya kuliah di jurusan Teknik Mesin (S1)?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Kuliah Teknik Mesin (S1) di UNSIQ bayarnya berapa ya?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Info biaya untuk prodi Teknik Mesin (S1) dong."
+    },
+    {
+      "style": "gaul",
+      "question": "Spill biaya kuliah Teknik Mesin UNSIQ dong, guys!"
+    },
+    {
+      "style": "gaul",
+      "question": "Kuliah di Teknik Mesin UNSIQ abis berapa duit ya?"
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, ada yang tau biaya kuliah Teknik Mesin di UNSIQ?"
+    },
+    {
+      "style": "gaul",
+      "question": "Teknik Mesin UNSIQ, UKT-nya berapaan?"
+    }
+  ]
+}

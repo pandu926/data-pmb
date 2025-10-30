@@ -1,0 +1,46 @@
+{
+  "question": "Apa saja yang ada di Laboratorium Fisika UNSIQ?",
+  "answer": "Laboratorium Fisika menyediakan fasilitas dan layanan untuk eksperimen di bidang fisika dan pendidikan fisika dengan peralatan lengkap agar pembelajaran lebih maksimal.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Fasilitas dan layanan apa sajakah yang tersedia di Laboratorium Fisika UNSIQ?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon informasikan mengenai kelengkapan fasilitas di Laboratorium Fisika UNSIQ."
+    },
+    {
+      "style": "formal",
+      "question": "Dapatkah Anda menjelaskan tentang isi dan kelengkapan Laboratorium Fisika UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Di lab fisika UNSIQ ada apa aja sih?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Lab fisika UNSIQ isinya apa aja ya?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Info dong, di lab fisika UNSIQ ada apa aja?"
+    },
+    {
+      "style": "gaul",
+      "question": "Spill isi lab fisika UNSIQ dong, guys!"
+    },
+    {
+      "style": "gaul",
+      "question": "Di lab fisika UNSIQ bisa ngapain aja?"
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, ada yang tau di lab fisika UNSIQ ada alat apa aja?"
+    },
+    {
+      "style": "gaul",
+      "question": "Lab fisika UNSIQ, lengkap gak alatnya?"
+    }
+  ]
+}

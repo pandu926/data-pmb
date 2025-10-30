@@ -1,0 +1,46 @@
+{
+  "question": "Berapa biaya kuliah Pendidikan Agama Islam (S1)?",
+  "answer": "Total biaya semester pertama PAI adalah Rp6.925.000 dengan rincian: Angsuran 1 Rp745.000, Angsuran 2 Rp3.680.000, Angsuran 3 Rp2.500.000.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Berapakah total biaya perkuliahan untuk program studi Pendidikan Agama Islam (S1)?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon informasi mengenai rincian biaya pendidikan untuk program Sarjana Pendidikan Agama Islam (S1)."
+    },
+    {
+      "style": "formal",
+      "question": "Bagaimanakah struktur biaya untuk semester pertama pada program studi Pendidikan Agama Islam (S1)?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Berapa biaya kuliah S1 PAI di UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Total biaya kuliah S1 Pendidikan Agama Islam berapa ya?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Rincian biaya kuliah S1 PAI di UNSIQ gimana?"
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, S1 PAI di UNSIQ berapaan sih biayanya?"
+    },
+    {
+      "style": "gaul",
+      "question": "Spill biaya S1 Pendidikan Agama Islam di UNSIQ dong."
+    },
+    {
+      "style": "gaul",
+      "question": "Ada yang tau gak, biaya kuliah S1 PAI di UNSIQ berapa?"
+    },
+    {
+      "style": "gaul",
+      "question": "Berapa duit buat kuliah S1 PAI di UNSIQ?"
+    }
+  ]
+}

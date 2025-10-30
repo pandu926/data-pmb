@@ -1,0 +1,46 @@
+{
+  "question": "Siapa yang bisa mendapat Beasiswa Prestasi Olahraga dan Seni?",
+  "answer": "Mahasiswa dengan prestasi lomba perorangan tingkat nasional atau internasional mendapat bebas SPP 5 semester, sedangkan tingkat provinsi bebas SPP 3 semester.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Siapa sajakah yang memenuhi kriteria untuk menerima Beasiswa Prestasi Olahraga dan Seni?"
+    },
+    {
+      "style": "formal",
+      "question": "Apa saja persyaratan prestasi yang harus dipenuhi untuk mendapatkan Beasiswa Olahraga dan Seni?"
+    },
+    {
+      "style": "formal",
+      "question": "Bagaimana kualifikasi mahasiswa untuk dapat mengajukan Beasiswa Prestasi Olahraga dan Seni?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Siapa aja yang bisa dapet Beasiswa Prestasi Olahraga dan Seni?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Beasiswa Prestasi Olahraga dan Seni buat siapa aja?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Gimana caranya dapet Beasiswa Prestasi Olahraga dan Seni?"
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, Beasiswa Prestasi Olahraga dan Seni buat siapa?"
+    },
+    {
+      "style": "gaul",
+      "question": "Spill syarat Beasiswa Prestasi Olahraga dan Seni dong."
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, kalo jago olahraga bisa dapet beasiswa gak?"
+    },
+    {
+      "style": "gaul",
+      "question": "Beasiswa Prestasi Olahraga dan Seni, syaratnya apa?"
+    }
+  ]
+}

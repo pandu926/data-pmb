@@ -1,0 +1,420 @@
+
+Q: Siapa yang dapat memamerkan karyanya di galeri kampus?
+A: Mahasiswa yang telah melalui proses seleksi karya oleh dewan kurator kampus.
+
+Q: Apakah UNSIQ memiliki sistem evaluasi dosen oleh mahasiswa?
+A: Ya, kampus menerapkan survei kepuasan mahasiswa setiap akhir semester.
+
+Q: Apa tujuan evaluasi dosen oleh mahasiswa?
+A: Untuk meningkatkan kualitas pengajaran dan memperbaiki metode pembelajaran di kelas.
+
+Q: Bagaimana cara mahasiswa mengisi evaluasi dosen?
+A: Melalui portal akademik UNSIQ dengan sistem survei online yang bersifat rahasia.
+
+Q: Apakah UNSIQ memiliki program pertanian terpadu?
+A: Ya, UNSIQ mengembangkan lahan percobaan untuk sistem pertanian terpadu dan berkelanjutan.
+
+Q: Apa kegiatan utama di lahan pertanian terpadu UNSIQ?
+A: Budidaya sayur organik, hidroponik, dan pelatihan agribisnis bagi mahasiswa.
+
+Q: Siapa yang mengelola program pertanian terpadu?
+A: Fakultas Sains dan Mahasiswa Biologi di bawah bimbingan dosen riset lingkungan.
+Q: Apakah UNSIQ memiliki program inovasi teknologi mahasiswa?
+A: Ya, kampus rutin mengadakan kompetisi inovasi teknologi untuk mahasiswa setiap tahun.
+
+Q: Apa bentuk kegiatan inovasi teknologi di UNSIQ?
+A: Mahasiswa membuat produk digital, aplikasi pendidikan, dan alat sederhana berbasis teknologi Islami.
+
+Q: Siapa yang dapat mengikuti program inovasi teknologi?
+A: Semua mahasiswa aktif dari berbagai jurusan yang memiliki ide kreatif dan inovatif.
+
+Q: Apakah UNSIQ memiliki pusat riset ekonomi syariah?
+A: Ya, terdapat Pusat Studi Ekonomi Syariah yang fokus pada penelitian dan pelatihan keuangan halal.
+
+Q: Apa kegiatan utama Pusat Ekonomi Syariah UNSIQ?
+A: Workshop bisnis halal, riset pasar syariah, dan pendampingan UMKM berbasis syariah.
+
+Q: Siapa yang dapat bergabung dengan Pusat Ekonomi Syariah?
+A: Mahasiswa dan dosen yang memiliki minat pada ekonomi Islam dan kewirausahaan syariah.
+
+Q: Apakah UNSIQ memiliki program penguatan karakter mahasiswa?
+A: Ya, kampus menerapkan program Character Building berbasis nilai-nilai Al-Qur’an.
+
+Q: Apa tujuan program penguatan karakter UNSIQ?
+A: Untuk membentuk mahasiswa berakhlak, disiplin, dan tangguh secara moral maupun spiritual.
+
+Q: Siapa yang melaksanakan program pembinaan karakter?
+A: Dosen pembimbing, mentor asrama, dan tim Ma’had Qur’ani kampus.
+
+Q: Apakah UNSIQ memiliki program magang media?
+A: Ya, mahasiswa komunikasi dan dakwah mengikuti magang di media lokal dan nasional.
+
+Q: Apa manfaat program magang media UNSIQ?
+A: Memberikan pengalaman nyata di dunia jurnalistik dan penyiaran Islami.
+
+Q: Di mana mahasiswa biasanya magang media?
+A: Di lembaga dakwah, stasiun televisi Islam, atau media kampus mitra.
+
+Q: Apakah UNSIQ memiliki sistem administrasi digital?
+A: Ya, UNSIQ telah menerapkan sistem administrasi online untuk surat, data akademik, dan kepegawaian.
+
+Q: Apa keuntungan administrasi digital di UNSIQ?
+A: Proses menjadi lebih cepat, transparan, dan mudah diakses oleh civitas akademika.
+
+Q: Siapa yang mengelola sistem administrasi digital kampus?
+A: Unit Teknologi Informasi dan Biro Akademik bekerja sama memastikan integrasi data.
+
+Q: Apakah UNSIQ memiliki pelatihan riset mahasiswa baru?
+A: Ya, setiap awal semester kampus mengadakan pelatihan metodologi penelitian dasar.
+
+Q: Apa yang diajarkan dalam pelatihan riset mahasiswa baru?
+A: Pengenalan metode penelitian, cara membuat proposal, dan teknik menulis ilmiah.
+
+Q: Siapa yang menjadi pembicara pelatihan riset?
+A: Dosen peneliti dari berbagai fakultas dan tim LPPM UNSIQ.
+
+Q: Apakah UNSIQ memiliki kerja sama dengan perguruan tinggi luar negeri?
+A: Ya, UNSIQ bekerja sama dengan universitas di Malaysia, Brunei, dan Mesir.
+
+Q: Apa bentuk kerja sama internasional UNSIQ?
+A: Pertukaran mahasiswa, kuliah tamu dosen luar negeri, dan riset kolaboratif lintas kampus.
+
+Q: Siapa yang bisa ikut program internasional UNSIQ?
+A: Mahasiswa aktif dengan prestasi akademik dan kemampuan bahasa asing yang baik.
+
+Q: Apakah UNSIQ memiliki pusat kegiatan bahasa Arab?
+A: Ya, UNSIQ memiliki Markaz Lughah Arabiyah untuk melatih kemampuan bahasa Arab mahasiswa.
+
+Q: Apa kegiatan di Markaz Lughah Arabiyah UNSIQ?
+A: Pelatihan percakapan, tata bahasa, dan ujian sertifikasi bahasa Arab.
+
+Q: Siapa yang wajib mengikuti program Markaz Bahasa Arab?
+A: Mahasiswa Fakultas Dakwah dan Tarbiyah diwajibkan mengikuti pelatihan bahasa setiap semester.
+Q: Apakah UNSIQ memiliki program pelatihan desain grafis?
+A: Ya, kampus menyediakan pelatihan desain grafis untuk mahasiswa yang ingin mengembangkan keterampilan kreatif.
+
+Q: Apa materi pelatihan desain grafis di UNSIQ?
+A: Mahasiswa belajar menggunakan Canva, CorelDraw, dan Photoshop untuk desain promosi serta konten dakwah digital.
+
+Q: Siapa yang dapat mengikuti pelatihan desain grafis UNSIQ?
+A: Mahasiswa dari semua fakultas yang tertarik di bidang desain dan media kreatif.
+
+Q: Apakah UNSIQ memiliki program pelatihan public speaking?
+A: Ya, UNSIQ rutin mengadakan workshop public speaking dan komunikasi profesional.
+
+Q: Apa tujuan pelatihan public speaking di UNSIQ?
+A: Melatih mahasiswa agar mampu berbicara percaya diri di depan umum dan berkomunikasi efektif.
+
+Q: Siapa yang menjadi mentor pelatihan public speaking UNSIQ?
+A: Dosen komunikasi dan pembicara profesional dari lembaga mitra kampus.
+
+Q: Apakah UNSIQ memiliki program pertanian modern?
+A: Ya, Fakultas Sains UNSIQ mengembangkan pertanian modern berbasis teknologi sensor dan IoT.
+
+Q: Apa kegiatan pertanian modern di UNSIQ?
+A: Penelitian hidroponik, pemantauan kelembapan otomatis, dan analisis hasil panen digital.
+
+Q: Siapa yang terlibat dalam program pertanian modern UNSIQ?
+A: Mahasiswa biologi, informatika, dan dosen pembimbing lintas bidang.
+
+Q: Apakah UNSIQ memiliki program bahasa Jepang atau Korea?
+A: Ya, tersedia kelas bahasa Jepang dan Korea di Pusat Bahasa kampus.
+
+Q: Apa tujuan kelas bahasa asing tersebut?
+A: Untuk memperluas kemampuan komunikasi internasional dan peluang pertukaran pelajar.
+
+Q: Siapa yang bisa mendaftar kelas bahasa Jepang atau Korea?
+A: Mahasiswa dari semua jurusan melalui pendaftaran semesteran di Language Center.
+
+Q: Apakah UNSIQ memiliki program mentoring kewirausahaan?
+A: Ya, kampus memiliki program mentoring bisnis untuk mahasiswa yang ingin membangun usaha sendiri.
+
+Q: Apa kegiatan dalam mentoring kewirausahaan?
+A: Pendampingan ide bisnis, pembuatan proposal, dan simulasi pitch deck startup.
+
+Q: Siapa mentor program kewirausahaan kampus?
+A: Dosen ekonomi syariah dan pengusaha mitra dari komunitas bisnis daerah.
+
+Q: Apakah UNSIQ memiliki kegiatan donor darah rutin?
+A: Ya, kampus bekerja sama dengan PMI untuk kegiatan donor darah tiap semester.
+
+Q: Apa tujuan kegiatan donor darah di UNSIQ?
+A: Untuk menumbuhkan empati sosial dan meningkatkan kesadaran kesehatan mahasiswa.
+
+Q: Siapa yang boleh ikut kegiatan donor darah kampus?
+A: Mahasiswa, dosen, dan staf yang memenuhi syarat kesehatan dari tim PMI.
+
+Q: Apakah UNSIQ memiliki studio podcast kampus?
+A: Ya, tersedia studio podcast bagi mahasiswa untuk membuat konten edukatif dan dakwah digital.
+
+Q: Apa jenis konten yang diproduksi di studio podcast UNSIQ?
+A: Konten inspiratif, kajian keislaman, dan diskusi mahasiswa tentang isu kampus.
+
+Q: Siapa yang mengelola studio podcast kampus?
+A: Dikelola oleh UKM Broadcasting bersama Fakultas Dakwah dan Komunikasi.
+
+Q: Apakah UNSIQ memiliki program pertanian organik?
+A: Ya, kampus mengembangkan kebun percobaan pertanian organik tanpa bahan kimia sintetis.
+
+Q: Apa keunggulan pertanian organik di UNSIQ?
+A: Menghasilkan produk sehat, ramah lingkungan, dan menjadi bahan penelitian mahasiswa.
+
+Q: Siapa yang mengelola kebun organik kampus?
+A: Mahasiswa Fakultas Sains dengan bimbingan dosen bioteknologi pertanian.
+Q: Apakah UNSIQ memiliki kegiatan kompetisi karya tulis ilmiah?
+A: Ya, UNSIQ rutin mengadakan lomba karya tulis ilmiah antar mahasiswa tingkat nasional.
+
+Q: Apa tema lomba karya tulis ilmiah di UNSIQ?
+A: Biasanya mengangkat tema pendidikan Qur’ani, inovasi teknologi, dan ekonomi syariah.
+
+Q: Siapa yang bisa ikut lomba karya tulis ilmiah kampus?
+A: Mahasiswa aktif UNSIQ dan peserta dari universitas lain di seluruh Indonesia.
+
+Q: Apakah UNSIQ memiliki kegiatan pelatihan kepenulisan kreatif?
+A: Ya, kampus sering mengadakan workshop menulis kreatif untuk mahasiswa.
+
+Q: Apa yang diajarkan dalam pelatihan menulis kreatif?
+A: Teknik menulis artikel populer, cerpen Islami, dan opini ilmiah untuk media massa.
+
+Q: Siapa yang menjadi pemateri pelatihan kepenulisan kreatif?
+A: Dosen bahasa Indonesia dan penulis profesional dari media nasional.
+
+Q: Apakah UNSIQ memiliki program pertukaran dosen?
+A: Ya, UNSIQ menjalankan program pertukaran dosen dengan universitas mitra luar negeri.
+
+Q: Apa tujuan program pertukaran dosen UNSIQ?
+A: Untuk meningkatkan kolaborasi riset dan kualitas pengajaran internasional.
+
+Q: Ke mana dosen UNSIQ pernah dikirim dalam program pertukaran?
+A: Beberapa dosen pernah bertugas di universitas di Malaysia dan Thailand.
+
+Q: Apakah UNSIQ memiliki program bimbingan karier untuk alumni?
+A: Ya, Pusat Alumni dan Career Center UNSIQ menyediakan bimbingan kerja bagi lulusan baru.
+
+Q: Apa bentuk bimbingan karier alumni di UNSIQ?
+A: Pelatihan pembuatan CV, wawancara kerja, dan konsultasi karier online.
+
+Q: Siapa yang dapat mengikuti program karier alumni?
+A: Seluruh alumni UNSIQ yang sudah lulus maksimal tiga tahun terakhir.
+
+Q: Apakah UNSIQ memiliki UKM sinematografi?
+A: Ya, kampus memiliki UKM Sinema Qur’ani yang memproduksi film pendek bertema nilai Islami.
+
+Q: Apa karya terkenal dari UKM Sinema Qur’ani UNSIQ?
+A: Film pendek “Langkah Santri” yang pernah menjuarai festival film pelajar tingkat Jawa Tengah.
+
+Q: Siapa yang bisa bergabung di UKM Sinema Qur’ani?
+A: Mahasiswa dengan minat dalam dunia perfilman, penulisan skenario, dan editing video.
+
+Q: Apakah UNSIQ memiliki laboratorium robotika?
+A: Ya, UNSIQ memiliki lab robotika dasar untuk mahasiswa Teknik dan Informatika.
+
+Q: Apa kegiatan utama di lab robotika kampus?
+A: Rancang bangun robot line follower, sensor otomatis, dan proyek IoT edukatif.
+
+Q: Siapa yang boleh menggunakan lab robotika UNSIQ?
+A: Mahasiswa teknik dan peserta pelatihan teknologi kampus.
+
+Q: Apakah UNSIQ memiliki pusat studi moderasi beragama?
+A: Ya, kampus memiliki Pusat Moderasi Beragama untuk memperkuat nilai toleransi dan persatuan.
+
+Q: Apa kegiatan yang dilakukan pusat moderasi beragama UNSIQ?
+A: Kajian lintas agama, pelatihan dai moderat, dan seminar kebangsaan.
+
+Q: Siapa yang dapat mengikuti kegiatan moderasi beragama?
+A: Mahasiswa dan dosen yang peduli dengan penguatan nilai kebangsaan dan Islam rahmatan lil ‘alamin.
+
+Q: Apakah UNSIQ memiliki program kuliah lapangan?
+A: Ya, setiap prodi memiliki kegiatan kuliah lapangan sesuai bidang keilmuan masing-masing.
+
+Q: Apa tujuan kuliah lapangan di UNSIQ?
+A: Untuk memberikan pengalaman praktis di lapangan dan menghubungkan teori dengan praktik.
+
+Q: Siapa yang wajib mengikuti kuliah lapangan kampus?
+A: Mahasiswa semester tengah atau akhir sesuai ketentuan program studi.
+Q: Apakah UNSIQ memiliki program pengembangan soft skill mahasiswa?
+A: Ya, kampus menyediakan pelatihan komunikasi, kepemimpinan, dan teamwork setiap semester.
+
+Q: Apa tujuan program pengembangan soft skill di UNSIQ?
+A: Untuk meningkatkan kemampuan interpersonal dan kesiapan mahasiswa menghadapi dunia kerja.
+
+Q: Siapa yang mengelola program soft skill kampus?
+A: Bidang kemahasiswaan bekerja sama dengan Career Development Center UNSIQ.
+
+Q: Apakah UNSIQ memiliki pelatihan digital marketing?
+A: Ya, kampus bekerja sama dengan praktisi digital untuk mengadakan workshop pemasaran online.
+
+Q: Apa materi yang diajarkan dalam pelatihan digital marketing?
+A: Manajemen media sosial, strategi konten, SEO, dan analisis digital ads.
+
+Q: Siapa yang bisa ikut pelatihan digital marketing UNSIQ?
+A: Mahasiswa dari berbagai jurusan yang tertarik berkarier di bidang digital kreatif.
+
+Q: Apakah UNSIQ memiliki UKM musik Islami?
+A: Ya, ada UKM Nasyid dan Musik Islami yang rutin tampil dalam acara kampus dan festival dakwah.
+
+Q: Apa kegiatan UKM Musik Islami UNSIQ?
+A: Latihan rutin, lomba nasyid, dan konser amal di lingkungan kampus.
+
+Q: Siapa yang dapat bergabung di UKM Musik Islami?
+A: Mahasiswa yang memiliki minat di bidang musik religi dan vokal Islami.
+
+Q: Apakah UNSIQ memiliki kegiatan sosial lingkungan?
+A: Ya, UNSIQ aktif dalam kegiatan peduli lingkungan seperti bersih kampus dan penanaman pohon.
+
+Q: Apa tujuan kegiatan sosial lingkungan kampus?
+A: Untuk menumbuhkan kesadaran mahasiswa terhadap pentingnya menjaga bumi.
+
+Q: Siapa yang biasanya ikut kegiatan peduli lingkungan?
+A: Mahasiswa UKM Green Campus dan relawan lingkungan fakultas.
+
+Q: Apakah UNSIQ memiliki kerja sama dengan lembaga zakat nasional?
+A: Ya, UNSIQ bermitra dengan BAZNAS dan Dompet Dhuafa dalam program beasiswa dan sosial.
+
+Q: Apa bentuk kerja sama UNSIQ dengan lembaga zakat?
+A: Penyaluran beasiswa, pengelolaan zakat kampus, dan kegiatan filantropi mahasiswa.
+
+Q: Siapa penerima manfaat kerja sama zakat kampus?
+A: Mahasiswa berprestasi dengan latar belakang ekonomi lemah dan warga sekitar kampus.
+
+Q: Apakah UNSIQ memiliki laboratorium multimedia?
+A: Ya, kampus memiliki lab multimedia modern untuk desain, animasi, dan produksi video edukatif.
+
+Q: Apa kegiatan mahasiswa di lab multimedia?
+A: Pembuatan video pembelajaran, desain promosi, dan konten digital kreatif.
+
+Q: Siapa yang boleh memakai lab multimedia?
+A: Mahasiswa Fakultas Dakwah dan Informatika yang mengambil mata kuliah media digital.
+
+Q: Apakah UNSIQ memiliki kegiatan keagamaan rutin?
+A: Ya, UNSIQ mengadakan pengajian rutin, khataman, dan kajian tafsir setiap pekan.
+
+Q: Apa tujuan kegiatan keagamaan rutin kampus?
+A: Untuk memperkuat nilai spiritual dan membiasakan mahasiswa dekat dengan Al-Qur’an.
+
+Q: Siapa yang menyelenggarakan kegiatan keagamaan di UNSIQ?
+A: Lembaga Ma’had Qur’ani dan organisasi dakwah mahasiswa kampus.
+
+Q: Apakah UNSIQ memiliki pelatihan kepemimpinan lanjutan?
+A: Ya, kampus mengadakan Leadership Camp bagi mahasiswa aktif organisasi.
+
+Q: Apa kegiatan di Leadership Camp UNSIQ?
+A: Simulasi manajemen tim, diskusi publik, dan pembinaan mental kepemimpinan Islami.
+
+Q: Siapa yang dapat mengikuti Leadership Camp kampus?
+A: Pengurus BEM, UKM, dan mahasiswa yang direkomendasikan fakultas.
+Q: Apakah UNSIQ memiliki program pelatihan entrepreneur muda?
+A: Ya, kampus menyelenggarakan pelatihan entrepreneur muda untuk mahasiswa yang ingin membuka usaha sejak kuliah.
+
+Q: Apa materi yang diajarkan dalam pelatihan entrepreneur muda?
+A: Strategi bisnis syariah, manajemen keuangan, dan pemasaran digital.
+
+Q: Siapa yang menjadi mentor entrepreneur muda di UNSIQ?
+A: Dosen ekonomi syariah dan pengusaha mitra dari komunitas bisnis lokal.
+
+Q: Apakah UNSIQ memiliki program literasi keuangan?
+A: Ya, UNSIQ bekerja sama dengan OJK mengadakan edukasi literasi keuangan bagi mahasiswa.
+
+Q: Apa isi kegiatan literasi keuangan UNSIQ?
+A: Seminar menabung cerdas, investasi halal, dan pengelolaan keuangan mahasiswa.
+
+Q: Siapa yang boleh mengikuti program literasi keuangan?
+A: Mahasiswa aktif dari semua fakultas tanpa biaya pendaftaran.
+
+Q: Apakah UNSIQ memiliki kegiatan perlombaan dakwah digital?
+A: Ya, kampus mengadakan lomba dakwah digital untuk meningkatkan kreativitas mahasiswa dalam berdakwah online.
+
+Q: Apa bentuk lomba dakwah digital di UNSIQ?
+A: Pembuatan video dakwah, podcast Islami, dan konten edukasi di media sosial.
+
+Q: Siapa yang bisa mengikuti lomba dakwah digital?
+A: Mahasiswa UNSIQ dan peserta umum dari kampus mitra dakwah digital.
+
+Q: Apakah UNSIQ memiliki program pelatihan keamanan siber?
+A: Ya, Fakultas Sains dan Teknologi UNSIQ mengadakan workshop keamanan siber untuk mahasiswa informatika.
+
+Q: Apa yang dipelajari dalam pelatihan keamanan siber?
+A: Etika hacking, perlindungan data, dan pengamanan sistem jaringan.
+
+Q: Siapa yang dapat mengikuti pelatihan keamanan siber UNSIQ?
+A: Mahasiswa jurusan Informatika dan peserta pelatihan kampus digital.
+
+Q: Apakah UNSIQ memiliki kegiatan pengabdian bidang kesehatan?
+A: Ya, mahasiswa keperawatan aktif mengadakan bakti sosial dan penyuluhan kesehatan.
+
+Q: Apa bentuk kegiatan pengabdian kesehatan UNSIQ?
+A: Pemeriksaan gratis, donor darah, dan edukasi gaya hidup sehat di desa binaan.
+
+Q: Siapa yang terlibat dalam pengabdian kesehatan?
+A: Mahasiswa Fakultas Ilmu Kesehatan dengan bimbingan dosen klinis kampus.
+
+Q: Apakah UNSIQ memiliki pelatihan teknologi AI?
+A: Ya, kampus mulai memperkenalkan pelatihan dasar Artificial Intelligence untuk mahasiswa informatika.
+
+Q: Apa topik yang diajarkan dalam pelatihan AI UNSIQ?
+A: Dasar machine learning, data training, dan etika penggunaan AI dalam pendidikan.
+
+Q: Siapa yang dapat mengikuti pelatihan AI kampus?
+A: Mahasiswa Fakultas Sains dan peserta umum yang tertarik pada teknologi masa depan.
+
+Q: Apakah UNSIQ memiliki kegiatan pelatihan riset kuantitatif?
+A: Ya, LPPM UNSIQ mengadakan workshop analisis statistik dan riset kuantitatif setiap semester.
+
+Q: Apa software yang digunakan dalam pelatihan riset kuantitatif?
+A: Mahasiswa diajarkan menggunakan SPSS dan Excel untuk analisis data penelitian.
+
+Q: Siapa yang bisa mengikuti pelatihan riset kuantitatif?
+A: Mahasiswa tingkat akhir yang sedang menyusun skripsi atau penelitian ilmiah.
+
+Q: Apakah UNSIQ memiliki kegiatan pelatihan riset kualitatif?
+A: Ya, UNSIQ mengadakan pelatihan wawancara, observasi, dan analisis naratif untuk penelitian sosial.
+
+Q: Apa tujuan pelatihan riset kualitatif?
+A: Untuk membekali mahasiswa memahami fenomena sosial dan menulis laporan ilmiah mendalam.
+
+Q: Siapa yang bisa ikut riset kualitatif kampus?
+A: Mahasiswa dari prodi pendidikan, dakwah, dan hukum Islam yang mengambil penelitian lapangan.
+Q: Apakah UNSIQ memiliki program pelatihan digital kreatif?
+A: Ya, UNSIQ mengadakan pelatihan digital kreatif bagi mahasiswa yang ingin mengembangkan kemampuan desain dan produksi konten.
+
+Q: Apa yang diajarkan dalam pelatihan digital kreatif?
+A: Editing video, desain sosial media, dan strategi branding personal mahasiswa.
+
+Q: Siapa yang menjadi mentor pelatihan digital kreatif?
+A: Praktisi media digital dan dosen dari Fakultas Dakwah serta Informatika.
+
+Q: Apakah UNSIQ memiliki kegiatan bazar kampus?
+A: Ya, setiap semester UNSIQ mengadakan bazar kampus yang diisi oleh mahasiswa dan UKM lokal.
+
+Q: Apa tujuan bazar kampus UNSIQ?
+A: Untuk melatih mahasiswa berwirausaha dan memasarkan produk inovatif buatan mereka.
+
+Q: Siapa yang dapat ikut berpartisipasi di bazar kampus?
+A: Mahasiswa aktif, alumni, dan komunitas mitra kewirausahaan kampus.
+
+Q: Apakah UNSIQ memiliki program debat antar fakultas?
+A: Ya, kampus rutin mengadakan debat ilmiah antar fakultas untuk mengasah kemampuan berpikir kritis.
+
+Q: Apa tema yang biasanya diangkat dalam debat kampus?
+A: Isu sosial-keagamaan, ekonomi syariah, dan teknologi pendidikan Islami.
+
+Q: Siapa yang boleh mengikuti debat antar fakultas UNSIQ?
+A: Mahasiswa dari tiap fakultas yang lolos seleksi tim debat internal.
+
+Q: Apakah UNSIQ memiliki pusat studi teknologi pendidikan?
+A: Ya, terdapat Pusat Teknologi Pembelajaran yang mengembangkan inovasi digital untuk pendidikan Islam.
+
+Q: Apa kegiatan yang dilakukan pusat teknologi pembelajaran?
+A: Pengembangan media interaktif, riset e-learning, dan pelatihan guru digital.
+
+Q: Siapa yang dapat terlibat dalam pusat studi teknologi pendidikan?
+A: Dosen, mahasiswa, dan peneliti di bidang pendidikan dan informatika.
+
+Q: Apakah UNSIQ memiliki pelatihan bahasa Arab intensif?
+A: Ya, kampus menyelenggarakan kursus bahasa Arab intensif di bawah Markaz Lughah Arabiyah.
+
+Q: Apa metode pembelajaran bahasa Arab di UNSIQ?
+A: Metode talaqqi, percakapan aktif, dan penggunaan media audiovisual interaktif.
+
+Q: Siapa yang wajib mengikuti kursus bahasa Arab intensif?
+A: Mahasiswa Fakultas Dakwah, Tarbiyah, dan program Ma’had Qur’ani.

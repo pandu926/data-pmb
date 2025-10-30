@@ -1,0 +1,46 @@
+{
+  "question": "Berapa biaya kuliah Pendidikan Fisika (S1)?",
+  "answer": "Total biaya semester pertama Rp5.915.000 (Rp745.000 + Rp2.920.000 + Rp2.250.000).",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Berapakah total biaya perkuliahan untuk program studi Pendidikan Fisika (S1)?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon informasi mengenai rincian biaya pendidikan untuk program Sarjana Pendidikan Fisika (S1)."
+    },
+    {
+      "style": "formal",
+      "question": "Bagaimanakah struktur biaya untuk semester pertama pada program studi Pendidikan Fisika (S1)?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Berapa biaya kuliah S1 Pendidikan Fisika di UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Total biaya kuliah S1 Pendidikan Fisika berapa ya?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Rincian biaya kuliah S1 Pendidikan Fisika di UNSIQ gimana?"
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, S1 Pendidikan Fisika di UNSIQ berapaan sih biayanya?"
+    },
+    {
+      "style": "gaul",
+      "question": "Spill biaya S1 Pendidikan Fisika di UNSIQ dong."
+    },
+    {
+      "style": "gaul",
+      "question": "Ada yang tau gak, biaya kuliah S1 Pendidikan Fisika di UNSIQ berapa?"
+    },
+    {
+      "style": "gaul",
+      "question": "Kuliah S1 Pendidikan Fisika di UNSIQ abis berapa duit?"
+    }
+  ]
+}

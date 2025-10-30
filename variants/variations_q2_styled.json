@@ -1,0 +1,46 @@
+{
+  "question": "Kapan biaya kuliah dibayarkan?",
+  "answer": "Biaya kuliah dibayarkan setelah calon mahasiswa dinyatakan diterima.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Kapankah waktu pembayaran biaya perkuliahan yang telah ditetapkan?"
+    },
+    {
+      "style": "formal",
+      "question": "Mohon informasi mengenai jadwal pembayaran biaya kuliah."
+    },
+    {
+      "style": "formal",
+      "question": "Pada tahap apakah pembayaran biaya kuliah harus dilunasi?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Kapan saya harus bayar biaya kuliahnya?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Biaya kuliah dibayarkan kapan ya?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Setelah diterima, kapan waktu pembayaran kuliahnya?"
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, abis lolos, kapan nih kita bayar kuliah?"
+    },
+    {
+      "style": "gaul",
+      "question": "Woy, kapan jadwalnya bayar UKT, ada yang tau?"
+    },
+    {
+      "style": "gaul",
+      "question": "Spill info dong, deadline bayar kuliah kapan?"
+    },
+    {
+      "style": "gaul",
+      "question": "Kapan kita kudu bayar kuliahnya nih?"
+    }
+  ]
+}

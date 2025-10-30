@@ -1,0 +1,46 @@
+{
+  "question": "Apakah lab komputer tersedia untuk semua mahasiswa?",
+  "answer": "Ya, laboratorium komputer dapat digunakan oleh seluruh mahasiswa yang memiliki mata kuliah terkait pemrograman, jaringan, atau teknologi informasi.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Apakah akses Laboratorium Komputer terbuka untuk seluruh mahasiswa?"
+    },
+    {
+      "style": "formal",
+      "question": "Siapa sajakah yang berhak menggunakan fasilitas Laboratorium Komputer?"
+    },
+    {
+      "style": "formal",
+      "question": "Apakah mahasiswa dari semua fakultas dapat memanfaatkan Laboratorium Komputer?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Labkom UNSIQ buat semua mahasiswa bukan?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Semua mahasiswa boleh ke labkom UNSIQ kan?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Anak fakultas lain bisa masuk labkom UNSIQ gak?"
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, labkom UNSIQ open for all kan?"
+    },
+    {
+      "style": "gaul",
+      "question": "Selain anak TI, boleh gak ke labkom UNSIQ?"
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, kita semua bisa kan ke labkom UNSIQ?"
+    },
+    {
+      "style": "gaul",
+      "question": "Labkom UNSIQ, bebas buat siapa aja?"
+    }
+  ]
+}

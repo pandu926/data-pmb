@@ -1,0 +1,46 @@
+{
+  "question": "Apa fungsi Laboratorium Komputer di UNSIQ?",
+  "answer": "Laboratorium Komputer disediakan untuk mendukung pembelajaran, terutama bagi mahasiswa program studi Informatika dan jurusan lain yang memerlukan keterampilan komputer.",
+  "variations": [
+    {
+      "style": "formal",
+      "question": "Apakah fungsi utama dari Laboratorium Komputer di UNSIQ?"
+    },
+    {
+      "style": "formal",
+      "question": "Untuk tujuan apa Laboratorium Komputer di UNSIQ disediakan?"
+    },
+    {
+      "style": "formal",
+      "question": "Bagaimana peranan Laboratorium Komputer dalam mendukung kegiatan akademik di UNSIQ?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Lab komputer UNSIQ buat apa sih?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Fungsinya lab komputer di UNSIQ apa ya?"
+    },
+    {
+      "style": "non-formal",
+      "question": "Gunanya lab komputer UNSIQ buat apa?"
+    },
+    {
+      "style": "gaul",
+      "question": "Guys, labkom UNSIQ buat ngapain aja?"
+    },
+    {
+      "style": "gaul",
+      "question": "Labkom UNSIQ tuh tempat apa sih?"
+    },
+    {
+      "style": "gaul",
+      "question": "Gengs, ada yang tau fungsi labkom UNSIQ?"
+    },
+    {
+      "style": "gaul",
+      "question": "Labkom UNSIQ, buat apa aja?"
+    }
+  ]
+}

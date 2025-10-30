@@ -1,0 +1,1398 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara melakukan pembayaran biaya kuliah di UNSIQ?"
+      },
+      {
+        "role": "model",
+        "content": "Pembayaran biaya kuliah di UNSIQ bisa dilakukan melalui Bank Jateng atau melalui Finpay, termasuk gerai Alfamart dan bank seperti BJB, BRI, BNI, Mandiri, BTN, Mega, dan Permata."
+      }
+    ],
+    "metadata": {
+      "topic": "Pembayaran & Metode",
+      "subtopic": "Metode Pembayaran"
+    }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Kapan biaya kuliah dibayarkan?" },
+      {
+        "role": "model",
+        "content": "Biaya kuliah dibayarkan setelah calon mahasiswa dinyatakan diterima."
+      }
+    ],
+    "metadata": {
+      "topic": "Pembayaran & Metode",
+      "subtopic": "Waktu Pembayaran"
+    }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Apakah biaya kuliah bisa diangsur?" },
+      {
+        "role": "model",
+        "content": "Ya, untuk kelas Reguler dan Karyawan (Ekstensi) biaya kuliah dapat diangsur tiga kali pada semester pertama sesuai jadwal yang ditentukan."
+      }
+    ],
+    "metadata": { "topic": "Pembayaran & Metode", "subtopic": "Skema Angsuran" }
+  },
+
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa saja biaya matrikulasi mahasiswa baru UNSIQ?"
+      },
+      {
+        "role": "model",
+        "content": "Mahasiswa baru dikenakan biaya matrikulasi untuk BTQ, Bahasa Inggris, Komputer, dan Bahasa Arab masing-masing sebesar Rp150.000, total Rp600.000. Jika lulus pretest, biaya berkurang menjadi Rp50.000 per mata pelajaran hanya untuk sertifikat."
+      }
+    ],
+    "metadata": { "topic": "Biaya Matrikulasi" }
+  },
+
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa biaya kuliah Magister Pendidikan Islam (S2) di UNSIQ?"
+      },
+      {
+        "role": "model",
+        "content": "Total biaya semester pertama Magister Pendidikan Islam adalah: Angsuran 1 Rp1.195.000, Angsuran 2 Rp4.500.000, dan Angsuran 3 Rp2.500.000. Total Rp8.195.000."
+      }
+    ],
+    "metadata": {
+      "topic": "Pascasarjana (S2)",
+      "program": "Magister Pendidikan Islam"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa biaya kuliah Ilmu Al-Qur’an dan Tafsir (S2)?"
+      },
+      {
+        "role": "model",
+        "content": "Total biaya semester pertama untuk Ilmu Al-Qur’an dan Tafsir (S2) sama yaitu Rp8.195.000, dengan rincian angsuran yang sama seperti Magister Pendidikan Islam."
+      }
+    ],
+    "metadata": {
+      "topic": "Pascasarjana (S2)",
+      "program": "Ilmu Al-Qur’an dan Tafsir"
+    }
+  },
+
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa biaya kuliah Pendidikan Agama Islam (S1)?"
+      },
+      {
+        "role": "model",
+        "content": "Total biaya semester pertama PAI adalah Rp6.925.000 dengan rincian: Angsuran 1 Rp745.000, Angsuran 2 Rp3.680.000, Angsuran 3 Rp2.500.000."
+      }
+    ],
+    "metadata": { "topic": "FITK", "program": "PAI (S1)" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa biaya kuliah Pendidikan Guru Madrasah Ibtidaiyah (PGMI)?"
+      },
+      {
+        "role": "model",
+        "content": "Biaya total Rp5.995.000 dengan rincian: Angsuran 1 Rp745.000, Angsuran 2 Rp3.000.000, Angsuran 3 Rp2.250.000."
+      }
+    ],
+    "metadata": { "topic": "FITK", "program": "PGMI (S1)" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa biaya kuliah Pendidikan Bahasa Arab (S1)?"
+      },
+      {
+        "role": "model",
+        "content": "Total biaya semester pertama Rp5.670.000 (Rp745.000 + Rp2.800.000 + Rp2.125.000)."
+      }
+    ],
+    "metadata": { "topic": "FITK", "program": "Pendidikan Bahasa Arab (S1)" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa biaya kuliah Pendidikan Fisika (S1)?"
+      },
+      {
+        "role": "model",
+        "content": "Total biaya semester pertama Rp5.915.000 (Rp745.000 + Rp2.920.000 + Rp2.250.000)."
+      }
+    ],
+    "metadata": { "topic": "FITK", "program": "Pendidikan Fisika (S1)" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa biaya kuliah Pendidikan Islam Anak Usia Dini (PIAUD)?"
+      },
+      {
+        "role": "model",
+        "content": "Total Rp5.245.000 (Rp745.000 + Rp2.500.000 + Rp2.000.000)."
+      }
+    ],
+    "metadata": { "topic": "FITK", "program": "PIAUD (S1)" }
+  },
+
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa biaya kuliah Komunikasi dan Penyiaran Islam?"
+      },
+      {
+        "role": "model",
+        "content": "Total Rp4.735.000 (Rp745.000 + Rp2.440.000 + Rp1.550.000)."
+      }
+    ],
+    "metadata": {
+      "topic": "Komunikasi & Sosial Politik",
+      "program": "KPI (S1)"
+    }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Berapa biaya kuliah Ilmu Politik (S1)?" },
+      {
+        "role": "model",
+        "content": "Total Rp4.735.000 (Rp745.000 + Rp2.440.000 + Rp1.550.000)."
+      }
+    ],
+    "metadata": {
+      "topic": "Komunikasi & Sosial Politik",
+      "program": "Ilmu Politik (S1)"
+    }
+  },
+
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa biaya kuliah Hukum Ekonomi Syariah?"
+      },
+      {
+        "role": "model",
+        "content": "Total Rp5.325.000 (Rp745.000 + Rp2.580.000 + Rp2.000.000)."
+      }
+    ],
+    "metadata": {
+      "topic": "Syari’ah & Hukum",
+      "program": "Hukum Ekonomi Syariah (S1)"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa biaya kuliah Ilmu Al-Qur’an dan Tafsir (S1)?"
+      },
+      {
+        "role": "model",
+        "content": "Total Rp6.115.000 (Rp745.000 + Rp3.120.000 + Rp2.250.000)."
+      }
+    ],
+    "metadata": {
+      "topic": "Syari’ah & Hukum",
+      "program": "Ilmu Al-Qur’an & Tafsir (S1)"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa biaya kuliah Hukum Keluarga (Ahwal Syakhshiyah)?"
+      },
+      {
+        "role": "model",
+        "content": "Total Rp5.620.000 (Rp745.000 + Rp2.750.000 + Rp2.125.000)."
+      }
+    ],
+    "metadata": {
+      "topic": "Syari’ah & Hukum",
+      "program": "Hukum Keluarga/Ahwal Syakhshiyah (S1)"
+    }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Berapa biaya kuliah Ilmu Hukum?" },
+      {
+        "role": "model",
+        "content": "Total Rp5.620.000 (Rp745.000 + Rp2.750.000 + Rp2.125.000)."
+      }
+    ],
+    "metadata": { "topic": "Syari’ah & Hukum", "program": "Ilmu Hukum (S1)" }
+  },
+
+  {
+    "messages": [
+      { "role": "user", "content": "Berapa biaya kuliah Akuntansi (S1)?" },
+      {
+        "role": "model",
+        "content": "Total Rp6.815.000 (Rp745.000 + Rp3.570.000 + Rp2.500.000)."
+      }
+    ],
+    "metadata": { "topic": "Ekonomi & Bisnis", "program": "Akuntansi (S1)" }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Berapa biaya kuliah Manajemen (S1)?" },
+      {
+        "role": "model",
+        "content": "Total Rp6.905.000 (Rp745.000 + Rp3.660.000 + Rp2.500.000)."
+      }
+    ],
+    "metadata": { "topic": "Ekonomi & Bisnis", "program": "Manajemen (S1)" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa biaya kuliah Perbankan Syariah (S1)?"
+      },
+      {
+        "role": "model",
+        "content": "Total Rp5.255.000 (Rp745.000 + Rp2.510.000 + Rp2.000.000)."
+      }
+    ],
+    "metadata": {
+      "topic": "Ekonomi & Bisnis",
+      "program": "Perbankan Syariah (S1)"
+    }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Berapa biaya kuliah Sastra Inggris?" },
+      {
+        "role": "model",
+        "content": "Total Rp5.620.000 (Rp745.000 + Rp2.750.000 + Rp2.125.000)."
+      }
+    ],
+    "metadata": { "topic": "Bahasa & Sastra", "program": "Sastra Inggris (S1)" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa biaya kuliah Pendidikan Bahasa Inggris?"
+      },
+      {
+        "role": "model",
+        "content": "Total Rp6.020.000 (Rp745.000 + Rp3.150.000 + Rp2.125.000)."
+      }
+    ],
+    "metadata": {
+      "topic": "Bahasa & Sastra",
+      "program": "Pendidikan Bahasa Inggris (S1)"
+    }
+  },
+
+  {
+    "messages": [
+      { "role": "user", "content": "Berapa biaya kuliah Teknik Sipil?" },
+      {
+        "role": "model",
+        "content": "Total Rp5.620.000 (Rp745.000 + Rp2.750.000 + Rp2.125.000)."
+      }
+    ],
+    "metadata": {
+      "topic": "Teknik & Ilmu Komputer",
+      "program": "Teknik Sipil (S1)"
+    }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Berapa biaya kuliah Arsitektur?" },
+      {
+        "role": "model",
+        "content": "Total Rp5.770.000 (Rp745.000 + Rp2.900.000 + Rp2.125.000)."
+      }
+    ],
+    "metadata": {
+      "topic": "Teknik & Ilmu Komputer",
+      "program": "Arsitektur (S1)"
+    }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Berapa biaya kuliah Teknik Informatika?" },
+      {
+        "role": "model",
+        "content": "Total Rp6.545.000 (Rp745.000 + Rp3.300.000 + Rp2.500.000)."
+      }
+    ],
+    "metadata": {
+      "topic": "Teknik & Ilmu Komputer",
+      "program": "Teknik Informatika (S1)"
+    }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Berapa biaya kuliah Teknik Mesin (S1)?" },
+      {
+        "role": "model",
+        "content": "Total Rp5.315.000 (Rp745.000 + Rp2.570.000 + Rp2.000.000)."
+      }
+    ],
+    "metadata": {
+      "topic": "Teknik & Ilmu Komputer",
+      "program": "Teknik Mesin (S1)"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa biaya kuliah Manajemen Informatika (D3)?"
+      },
+      {
+        "role": "model",
+        "content": "Total Rp5.255.000 (Rp745.000 + Rp2.510.000 + Rp2.000.000)."
+      }
+    ],
+    "metadata": {
+      "topic": "Teknik & Ilmu Komputer",
+      "program": "Manajemen Informatika (D3)"
+    }
+  },
+
+  {
+    "messages": [
+      { "role": "user", "content": "Berapa biaya kuliah Keperawatan S1?" },
+      {
+        "role": "model",
+        "content": "Total Rp15.595.000 (Rp745.000 + Rp7.100.000 + Rp7.750.000)."
+      }
+    ],
+    "metadata": {
+      "topic": "Ilmu Kesehatan (FIKES)",
+      "program": "Keperawatan (S1)"
+    }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Berapa biaya kuliah Keperawatan D3?" },
+      {
+        "role": "model",
+        "content": "Total Rp14.295.000 (Rp745.000 + Rp6.500.000 + Rp7.050.000)."
+      }
+    ],
+    "metadata": {
+      "topic": "Ilmu Kesehatan (FIKES)",
+      "program": "Keperawatan (D3)"
+    }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Berapa biaya kuliah Kebidanan D3?" },
+      {
+        "role": "model",
+        "content": "Total Rp14.145.000 (Rp745.000 + Rp6.400.000 + Rp7.000.000)."
+      }
+    ],
+    "metadata": {
+      "topic": "Ilmu Kesehatan (FIKES)",
+      "program": "Kebidanan (D3)"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa biaya kuliah Pendidikan Profesi Ners?"
+      },
+      {
+        "role": "model",
+        "content": "Total Rp11.345.000 (Rp845.000 + Rp1.500.000 + Rp9.000.000)."
+      }
+    ],
+    "metadata": { "topic": "Ilmu Kesehatan (FIKES)", "program": "Profesi Ners" }
+  },
+
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa saja fasilitas perpustakaan di UNSIQ?"
+      },
+      {
+        "role": "model",
+        "content": "UNSIQ memiliki perpustakaan dengan pustaka lengkap, baik buku dalam negeri maupun luar negeri. Mahasiswa dapat menemukan berbagai literatur, diktat kuliah, majalah, dan referensi mengenai sosial, agama, ekonomi, manajemen, pemrograman, jaringan, hingga multimedia untuk menunjang proses pembelajaran."
+      }
+    ],
+    "metadata": { "topic": "Perpustakaan UNSIQ" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apakah perpustakaan UNSIQ bisa digunakan semua mahasiswa?"
+      },
+      {
+        "role": "model",
+        "content": "Ya, perpustakaan UNSIQ terbuka untuk seluruh mahasiswa dari semua fakultas guna menunjang kegiatan akademik dan penelitian."
+      }
+    ],
+    "metadata": { "topic": "Perpustakaan UNSIQ" }
+  },
+
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa fungsi Laboratorium Komputer di UNSIQ?"
+      },
+      {
+        "role": "model",
+        "content": "Laboratorium Komputer disediakan untuk mendukung pembelajaran, terutama bagi mahasiswa program studi Informatika dan jurusan lain yang memerlukan keterampilan komputer."
+      }
+    ],
+    "metadata": { "topic": "Laboratorium Komputer" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apakah lab komputer tersedia untuk semua mahasiswa?"
+      },
+      {
+        "role": "model",
+        "content": "Ya, laboratorium komputer dapat digunakan oleh seluruh mahasiswa yang memiliki mata kuliah terkait pemrograman, jaringan, atau teknologi informasi."
+      }
+    ],
+    "metadata": { "topic": "Laboratorium Komputer" }
+  },
+
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apakah UNSIQ memiliki fasilitas kesehatan?"
+      },
+      {
+        "role": "model",
+        "content": "Ya, UNSIQ memiliki klinik kampus yang didukung dokter dan perawat berpengalaman. Klinik menyediakan layanan pemeriksaan kesehatan, pengobatan, konsultasi, pemeriksaan laboratorium sederhana (kolesterol, glukosa, darah, asam urat, urinalisa, tes kehamilan, golongan darah), pelayanan KB, dan pemeriksaan ibu hamil."
+      }
+    ],
+    "metadata": { "topic": "Klinik UNSIQ" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apakah klinik UNSIQ juga melayani kegiatan masyarakat?"
+      },
+      {
+        "role": "model",
+        "content": "Ya, klinik UNSIQ juga aktif dalam pengabdian masyarakat saat Dies Natalis dan menyediakan pelatihan penanganan P3K, keselamatan kerja, serta ceramah kesehatan."
+      }
+    ],
+    "metadata": { "topic": "Klinik UNSIQ" }
+  },
+
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa saja yang ada di Laboratorium Fisika UNSIQ?"
+      },
+      {
+        "role": "model",
+        "content": "Laboratorium Fisika menyediakan fasilitas dan layanan untuk eksperimen di bidang fisika dan pendidikan fisika dengan peralatan lengkap agar pembelajaran lebih maksimal."
+      }
+    ],
+    "metadata": { "topic": "Laboratorium Fisika" }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Siapa yang menggunakan lab fisika UNSIQ?" },
+      {
+        "role": "model",
+        "content": "Mahasiswa jurusan Pendidikan Fisika dan program studi lain yang memerlukan praktikum dasar fisika dapat menggunakan fasilitas ini."
+      }
+    ],
+    "metadata": { "topic": "Laboratorium Fisika" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Untuk apa Laboratorium Keperawatan di UNSIQ digunakan?"
+      },
+      {
+        "role": "model",
+        "content": "Lab Keperawatan digunakan untuk menunjang pembelajaran keperawatan kritis. Ruangan didesain seperti ICU/ICCU dengan peralatan seperti ventilator, monitor jantung, DC shock, emergency kit, mesin EKG, mesin suction, dan pasien simulator."
+      }
+    ],
+    "metadata": { "topic": "Laboratorium Keperawatan" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apakah lab ini hanya untuk mahasiswa keperawatan?"
+      },
+      {
+        "role": "model",
+        "content": "Ya, lab ini dikhususkan untuk mahasiswa Fakultas Ilmu Kesehatan, khususnya program studi Keperawatan."
+      }
+    ],
+    "metadata": { "topic": "Laboratorium Keperawatan" }
+  },
+
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa saja yang tersedia di Lab Kebidanan UNSIQ?"
+      },
+      {
+        "role": "model",
+        "content": "Lab Kebidanan digunakan untuk praktik melahirkan dan pertolongan bayi. Fasilitasnya lengkap, termasuk perlengkapan persalinan dan alat penanganan darurat bagi ibu hamil atau melahirkan."
+      }
+    ],
+    "metadata": { "topic": "Laboratorium Kebidanan" }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Siapa yang menggunakan Lab Kebidanan?" },
+      {
+        "role": "model",
+        "content": "Mahasiswa D3 Kebidanan dan Keperawatan memanfaatkan lab ini untuk latihan praktik langsung."
+      }
+    ],
+    "metadata": { "topic": "Laboratorium Kebidanan" }
+  },
+
+  {
+    "messages": [
+      { "role": "user", "content": "Apakah UNSIQ punya radio kampus?" },
+      {
+        "role": "model",
+        "content": "Ya, UNSIQ memiliki RED Q Radio Inspirasi Mahasiswa UNSIQ. Radio ini menjadi laboratorium praktik mahasiswa Komunikasi dan Penyiaran Islam (KPI) sekaligus media penyebaran informasi, kajian, dan hiburan."
+      }
+    ],
+    "metadata": { "topic": "Radio UNSIQ (RED Q)" }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Untuk apa fungsi Radio RED Q UNSIQ?" },
+      {
+        "role": "model",
+        "content": "Sebagai media praktik penyiaran bagi mahasiswa, sekaligus sarana komunikasi publik dan penyebaran informasi kampus."
+      }
+    ],
+    "metadata": { "topic": "Radio UNSIQ (RED Q)" }
+  },
+
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apakah kampus UNSIQ menyediakan internet gratis?"
+      },
+      {
+        "role": "model",
+        "content": "Ya, UNSIQ memiliki titik wifi hotspot yang tersebar di seluruh area kampus dengan kecepatan tinggi untuk mendukung kegiatan belajar dan pencarian literatur."
+      }
+    ],
+    "metadata": { "topic": "Wifi Hotspot Kampus" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apakah mahasiswa bisa akses wifi dari semua fakultas?"
+      },
+      {
+        "role": "model",
+        "content": "Bisa. Semua mahasiswa UNSIQ mendapatkan akses wifi untuk kegiatan akademik dan administrasi."
+      }
+    ],
+    "metadata": { "topic": "Wifi Hotspot Kampus" }
+  },
+
+  {
+    "messages": [
+      { "role": "user", "content": "Apa itu Ruang Sidang Semu di UNSIQ?" },
+      {
+        "role": "model",
+        "content": "Ruang Sidang Semu merupakan tempat praktik simulasi persidangan untuk mahasiswa hukum."
+      }
+    ],
+    "metadata": { "topic": "Ruang Sidang Semu" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Praktik apa saja yang dilakukan di Ruang Sidang Semu?"
+      },
+      {
+        "role": "model",
+        "content": "Mahasiswa melakukan simulasi sidang perdata, pidana, dan pengadilan agama agar siap menghadapi dunia kerja hukum nyata."
+      }
+    ],
+    "metadata": { "topic": "Ruang Sidang Semu" }
+  },
+
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa saja fasilitas yang tersedia di UNSIQ?"
+      },
+      {
+        "role": "model",
+        "content": "UNSIQ menyediakan berbagai fasilitas penunjang akademik seperti perpustakaan, laboratorium, klinik kesehatan, ruang sidang semu, radio kampus RED Q, serta jaringan wifi hotspot di seluruh area kampus."
+      }
+    ],
+    "metadata": { "topic": "Fasilitas Kampus" }
+  },
+
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa saja jenis beasiswa yang tersedia di UNSIQ untuk program D3 dan S1?"
+      },
+      {
+        "role": "model",
+        "content": "UNSIQ menyediakan beberapa jenis beasiswa, yaitu: Beasiswa Tahfidzul Qur'an, Beasiswa Prestasi Olahraga dan Seni, Beasiswa Nilai Rata-rata UASBN 85, Beasiswa Kerjasama Sekolah Mitra, Beasiswa Kerjasama UNSIQ (Santri, Ustadz, PKH, Kader Desa/Ormas/Parpol), Beasiswa PBSB dari Kemenag, Beasiswa KIP Kuliah Merdeka, Beasiswa BAZNAS RI, Beasiswa BSI, Beasiswa Prestasi Non-Akademik, dan Beasiswa Ketua Ormawa."
+      }
+    ],
+    "metadata": { "topic": "Beasiswa UNSIQ" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa keuntungan Beasiswa Tahfidzul Qur'an?"
+      },
+      {
+        "role": "model",
+        "content": "Mahasiswa penghafal 30 Juz hanya membayar Rp250.000 + Rp95.000 (kemahasiswaan & muawanah) per semester, 20 Juz bebas SPP 6 semester, 10 Juz bebas SPP 4 semester, dan 5 Juz bebas SPP 3 semester sejak tahun masuk."
+      }
+    ],
+    "metadata": { "topic": "Beasiswa Tahfidzul Qur'an" }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Apa syarat mendaftar Beasiswa Tahfidz?" },
+      {
+        "role": "model",
+        "content": "Harus mengunggah syahadah asli, mengikuti tes ulang dan memperoleh rekomendasi LTPQ, menyertakan surat keterangan pengasuh ponpes bermaterai Rp10.000 (bagi selain 30 Juz), serta mengisi surat pernyataan kesanggupan."
+      }
+    ],
+    "metadata": { "topic": "Beasiswa Tahfidzul Qur'an" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Siapa yang bisa mendapat Beasiswa Prestasi Olahraga dan Seni?"
+      },
+      {
+        "role": "model",
+        "content": "Mahasiswa dengan prestasi lomba perorangan tingkat nasional atau internasional mendapat bebas SPP 5 semester, sedangkan tingkat provinsi bebas SPP 3 semester."
+      }
+    ],
+    "metadata": { "topic": "Beasiswa Prestasi Olahraga & Seni" }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Apa itu Beasiswa Nilai UASBN 85?" },
+      {
+        "role": "model",
+        "content": "Diberikan kepada 200 orang dengan rata-rata nilai UASBN ≥ 85; penerima dibebaskan SPP selama 3 semester sejak tahun masuk dengan bukti dokumen asli atau fotokopi legalisir UASBN."
+      }
+    ],
+    "metadata": { "topic": "Beasiswa Nilai UASBN 85" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa saja sekolah mitra UNSIQ yang mendapat beasiswa kerjasama?"
+      },
+      {
+        "role": "model",
+        "content": "SMA Takhassus Al-Qur’an Wonosobo, SMK Takhassus Al-Qur’an Wonosobo, MA Takhassus Al-Qur’an Wonosobo, MA Takhassus Al-Qur’an 1 Mojotengah, MAN 1 dan MAN 2 Wonosobo, serta SMA Takhassus Al-Qur’an Ngabang (Kalimantan Barat)."
+      }
+    ],
+    "metadata": { "topic": "Beasiswa Kerjasama Sekolah Mitra" }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Apa manfaat Beasiswa Kerjasama UNSIQ?" },
+      {
+        "role": "model",
+        "content": "Peserta hanya membayar Rp1.595.000 per semester selama 8 semester (S1) atau 6 semester (D3). Program ini berlaku untuk S1 PIAUD, Pendidikan Fisika, Perbankan Syariah, Hukum Ekonomi Syariah, Ilmu Politik, Teknik Mesin, dan D3 Manajemen Informatika."
+      }
+    ],
+    "metadata": { "topic": "Beasiswa Kerjasama UNSIQ" }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Apa itu Beasiswa PBSB dari Kemenag?" },
+      {
+        "role": "model",
+        "content": "Program pemerintah untuk prodi berakreditasi A/Unggul, seperti Hukum Keluarga (S1), PAI (S1), PGMI (S1), dan Arsitektur (S1). Ketentuan resmi diumumkan melalui situs Kemenag RI https://pendaftaran-beasiswa.kemenag.go.id/pbsb/."
+      }
+    ],
+    "metadata": { "topic": "Beasiswa PBSB Kemenag" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara mendaftar Beasiswa KIP Kuliah Merdeka?"
+      },
+      {
+        "role": "model",
+        "content": "Daftar di https://kip-kuliah.kemdikbud.go.id/ atau melalui aplikasi mobile. Isi NIK, NISN, NPSN, dan email valid untuk validasi. Setelah verifikasi, sistem mengirim nomor pendaftaran dan kode akses ke email pendaftar."
+      }
+    ],
+    "metadata": { "topic": "Beasiswa KIP Kuliah Merdeka" }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Apa syarat umum penerima KIP Kuliah?" },
+      {
+        "role": "model",
+        "content": "Lulusan SMA/SMK/MA maksimal 2 tahun sebelumnya, memiliki potensi akademik baik namun berketerbatasan ekonomi, terdaftar di DTKS atau memiliki Kartu KIP/KKS, serta diterima di prodi akreditasi A atau B."
+      }
+    ],
+    "metadata": { "topic": "Beasiswa KIP Kuliah Merdeka" }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Apa itu Beasiswa BAZNAS RI di UNSIQ?" },
+      {
+        "role": "model",
+        "content": "Beasiswa dari Lembaga BAZNAS RI untuk mahasiswa semester 4 berupa pembebasan SPP dan SKS selama 4 semester (mulai semester 5 sampai 8)."
+      }
+    ],
+    "metadata": { "topic": "Beasiswa BAZNAS RI" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu Beasiswa BSI (Bank Syariah Indonesia)?"
+      },
+      {
+        "role": "model",
+        "content": "Bantuan biaya SPP dan SKS gratis selama 2 semester bagi mahasiswa on going yang lolos seleksi program BSI."
+      }
+    ],
+    "metadata": { "topic": "Beasiswa BSI" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu Beasiswa Prestasi Non-Akademik UNSIQ?"
+      },
+      {
+        "role": "model",
+        "content": "Beasiswa bebas SPP 1 semester bagi mahasiswa yang berprestasi di organisasi kemahasiswaan atau lomba atas nama UNSIQ."
+      }
+    ],
+    "metadata": { "topic": "Beasiswa Prestasi Non-Akademik" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Siapa yang berhak atas Beasiswa Ketua Ormawa?"
+      },
+      {
+        "role": "model",
+        "content": "Mahasiswa yang menjabat sebagai Ketua Organisasi Kemahasiswaan (Ormawa) mendapat bebas SPP 1 semester (syarat dan ketentuan berlaku)."
+      }
+    ],
+    "metadata": { "topic": "Beasiswa Ketua Ormawa" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bisakah beasiswa digabung dalam satu periode?"
+      },
+      {
+        "role": "model",
+        "content": "Tidak. Beasiswa Tahfidz, Prestasi, Kerjasama, dan Non-Akademik tidak dapat diaju bersamaan dalam periode yang sama. Beasiswa tidak berlaku untuk mahasiswa transfer/jalur RPL kecuali Tahfidz 30 Juz."
+      }
+    ],
+    "metadata": { "topic": "Beasiswa UNSIQ" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa saja jenis beasiswa yang tersedia untuk Program S2 di UNSIQ?"
+      },
+      {
+        "role": "model",
+        "content": "UNSIQ menyediakan tiga jenis beasiswa untuk Program Pascasarjana (S2), yaitu: Beasiswa Alumni UNSIQ, Beasiswa Tahfidzul Qur’an, dan Beasiswa Kelas Kerjasama."
+      }
+    ],
+    "metadata": { "topic": "Beasiswa Pascasarjana (S2)" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa keuntungan dari Beasiswa Alumni UNSIQ?"
+      },
+      {
+        "role": "model",
+        "content": "Mahasiswa yang merupakan alumni UNSIQ dibebaskan dari biaya pendaftaran dan mendapat potongan 50% untuk infaq pengembangan."
+      }
+    ],
+    "metadata": { "topic": "Beasiswa Alumni UNSIQ" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara mengajukan Beasiswa Alumni UNSIQ?"
+      },
+      {
+        "role": "model",
+        "content": "Pengajuan dilakukan dengan mengunggah permohonan atau surat rekomendasi dari fakultas asal melalui sistem pendaftaran online UNSIQ."
+      }
+    ],
+    "metadata": { "topic": "Beasiswa Alumni UNSIQ" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa keuntungan dari Beasiswa Tahfidzul Qur'an untuk program S2?"
+      },
+      {
+        "role": "model",
+        "content": "Hafidz 30 Juz dibebaskan dari infaq pengembangan dan mendapat potongan 50% SPP selama 4 semester sejak tahun masuk. Hafidz 11–20 Juz mendapat potongan 40% SPP selama 4 semester. Hafidz 5–10 Juz mendapat potongan 30% SPP selama 4 semester."
+      }
+    ],
+    "metadata": { "topic": "Beasiswa Tahfidz S2" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa saja syarat untuk mendapatkan Beasiswa Tahfidz S2?"
+      },
+      {
+        "role": "model",
+        "content": "Mahasiswa wajib mengunggah syahadah tahfidz atau surat keterangan resmi dari lembaga/pesantren yang ditandatangani dan berstempel basah, serta mengikuti ujian tahfidz yang diselenggarakan oleh LTPQ UNSIQ."
+      }
+    ],
+    "metadata": { "topic": "Beasiswa Tahfidz S2" }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Apa itu Beasiswa Kelas Kerjasama?" },
+      {
+        "role": "model",
+        "content": "Beasiswa Kelas Kerjasama diberikan sesuai perjanjian yang tertuang dalam dokumen MoU dan MoA antara UNSIQ dengan lembaga mitra."
+      }
+    ],
+    "metadata": { "topic": "Beasiswa Kelas Kerjasama" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana syarat Beasiswa Kelas Kerjasama?"
+      },
+      {
+        "role": "model",
+        "content": "Mahasiswa peserta kelas kerjasama mengikuti ketentuan dan mekanisme beasiswa sebagaimana diatur dalam MoU dan MoA yang berlaku."
+      }
+    ],
+    "metadata": { "topic": "Beasiswa Kelas Kerjasama" }
+  },
+
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu Universitas Sains Al-Qur’an (UNSIQ)?"
+      },
+      {
+        "role": "model",
+        "content": "Universitas Sains Al-Qur’an (UNSIQ) Jawa Tengah di Wonosobo adalah perguruan tinggi berbasis nilai-nilai Al-Qur’an yang resmi berdiri tahun 2001 melalui SK Mendiknas Nomor 87/D/O/2001. UNSIQ merupakan pengembangan dari Institut Ilmu Al-Qur’an (IIQ) Jawa Tengah di Wonosobo yang berdiri sejak tahun 1988."
+      }
+    ],
+    "metadata": { "topic": "Profil UNSIQ" }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Kapan UNSIQ didirikan secara resmi?" },
+      {
+        "role": "model",
+        "content": "UNSIQ resmi berdiri pada 10 Juli 2001 berdasarkan Surat Keputusan Menteri Pendidikan Nasional Nomor 87/D/O/2001."
+      }
+    ],
+    "metadata": { "topic": "Profil UNSIQ" }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Apa asal mula berdirinya UNSIQ?" },
+      {
+        "role": "model",
+        "content": "UNSIQ berasal dari Institut Ilmu Al-Qur’an (IIQ) Jawa Tengah di Wonosobo yang berdiri tahun 1988 berdasarkan rekomendasi KOPERTAIS Wilayah X Jawa Tengah Nomor 110/Kep.X/A/VIII/1988, kemudian mendapat izin operasional dari Kementerian Agama pada 30 Mei 1989."
+      }
+    ],
+    "metadata": { "topic": "Sejarah UNSIQ" }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Siapa tokoh utama pendiri UNSIQ?" },
+      {
+        "role": "model",
+        "content": "UNSIQ didirikan atas prakarsa K.H. Muntaha Al-Hafidz (Mbah Muntaha) — seorang ulama kharismatik, pejuang kemerdekaan, pendidik, dan tokoh multidimensi yang berperan besar dalam pengembangan lembaga IIQ menjadi UNSIQ."
+      }
+    ],
+    "metadata": { "topic": "Sejarah UNSIQ" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Siapa saja tokoh yang membantu mendirikan UNSIQ?"
+      },
+      {
+        "role": "model",
+        "content": "Selain K.H. Muntaha Al-Hafidz, tokoh lain yang turut mendirikan UNSIQ adalah Drs. H. Poedjihardjo (Bupati Wonosobo 1985–1990), A. Halimi, Drs. Karseno, dan Mudlofar Cholil melalui Yayasan Pendidikan Ilmu-Ilmu Al-Qur’an (YPIIQ)."
+      }
+    ],
+    "metadata": { "topic": "Sejarah UNSIQ" }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Apa visi pengembangan UNSIQ?" },
+      {
+        "role": "model",
+        "content": "UNSIQ berkomitmen mengembangkan sumber daya manusia yang unggul dalam ilmu, teknologi, budi, dan nurani untuk mewujudkan generasi yang sehat, kuat, berkarakter, dan berperadaban."
+      }
+    ],
+    "metadata": { "topic": "Visi & Misi UNSIQ" }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Apa makna “Sains Al-Qur’an” dalam UNSIQ?" },
+      {
+        "role": "model",
+        "content": "Konsep “Sains Al-Qur’an” berarti mengharmonikan nilai-nilai Al-Qur’an dengan ilmu pengetahuan modern. UNSIQ mengusung epistemologi “Syajarah Al-Qur’an”, yaitu pendekatan keilmuan yang sinergis dan integratif antara sains dan nilai keislaman."
+      }
+    ],
+    "metadata": { "topic": "Filosofi UNSIQ" }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Apa nilai khas yang dikembangkan UNSIQ?" },
+      {
+        "role": "model",
+        "content": "Nilai khas UNSIQ adalah perpaduan antara tradisi pesantren dan universitas modern, dengan tagline “Kuliah plus Ngaji, Mahasiswa plus Santri”, serta program “Qur’anisasi Sains dan Saintifikasi Al-Qur’an”."
+      }
+    ],
+    "metadata": { "topic": "Nilai & Karakter UNSIQ" }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Apa itu model “5-1-2” di UNSIQ?" },
+      {
+        "role": "model",
+        "content": "Model “5-1-2” adalah skema pembelajaran dalam kurikulum Merdeka Belajar Kampus Merdeka (MBKM) UNSIQ, yang memberi kesempatan mahasiswa mengembangkan kompetensi akademik, sosial, dan spiritual secara seimbang."
+      }
+    ],
+    "metadata": { "topic": "Model 5-1-2 UNSIQ" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa saja lembaga awal yang membentuk UNSIQ?"
+      },
+      {
+        "role": "model",
+        "content": "Tiga lembaga awal yang bergabung menjadi UNSIQ adalah: Institut Ilmu Al-Qur’an (IIQ) – berdiri tahun 1988, Akademi Keperawatan (AKPER) – berdiri tahun 1996, dan Sekolah Tinggi Ilmu Ekonomi (STIE-YPIIQ) – berdiri tahun 1999."
+      }
+    ],
+    "metadata": { "topic": "Sejarah UNSIQ" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu pendaftaran mahasiswa baru UNSIQ?"
+      },
+      {
+        "role": "model",
+        "content": "Pendaftaran mahasiswa baru UNSIQ adalah proses resmi bagi calon mahasiswa untuk mendaftar melalui sistem online UNSIQ dan mengikuti seleksi sesuai gelombang yang berlaku."
+      }
+    ],
+    "metadata": { "topic": "Penerimaan Mahasiswa Baru (PMB)" }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Berapa biaya pendaftaran UNSIQ?" },
+      {
+        "role": "model",
+        "content": "Biaya pendaftaran UNSIQ tergantung gelombang: Gelombang 1 gratis, Gelombang 2 sebesar Rp250.000, dan Gelombang 3 sebesar Rp250.000."
+      }
+    ],
+    "metadata": {
+      "topic": "Pendaftaran Mahasiswa Baru",
+      "subtopic": "Biaya Pendaftaran"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kapan jadwal pendaftaran mahasiswa baru UNSIQ dibuka?"
+      },
+      {
+        "role": "model",
+        "content": "Gelombang 1: 1 November – 31 Desember 2024.\nGelombang 2: 1 Januari – 30 April 2025.\nGelombang 3: 1 Mei – 31 Agustus 2025."
+      }
+    ],
+    "metadata": {
+      "topic": "Pendaftaran Mahasiswa Baru",
+      "subtopic": "Jadwal Pendaftaran"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa saja berkas yang harus diunggah saat pendaftaran UNSIQ?"
+      },
+      {
+        "role": "model",
+        "content": "Scan ijazah/SKL, Kartu Keluarga, foto formal, serta surat keterangan sehat dan hasil tes buta warna untuk program kesehatan."
+      }
+    ],
+    "metadata": {
+      "topic": "Pendaftaran Mahasiswa Baru",
+      "subtopic": "Berkas Persyaratan"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara pembayaran pendaftaran UNSIQ?"
+      },
+      {
+        "role": "model",
+        "content": "Pembayaran dilakukan melalui Bank Jateng atau Finpay menggunakan nomor pendaftaran, bukan nomor rekening."
+      }
+    ],
+    "metadata": {
+      "topic": "Pendaftaran Mahasiswa Baru",
+      "subtopic": "Pembayaran Pendaftaran"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa syarat tinggi badan bagi calon mahasiswa Fakultas Ilmu Kesehatan?"
+      },
+      {
+        "role": "model",
+        "content": "Minimal 155 cm untuk laki-laki dan 150 cm untuk perempuan."
+      }
+    ],
+    "metadata": {
+      "topic": "Pendaftaran Mahasiswa Baru",
+      "subtopic": "Syarat Fisik"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa ketentuan pindah program studi di UNSIQ?"
+      },
+      {
+        "role": "model",
+        "content": "Jika belum placement test bisa ubah sendiri melalui menu biodata.\nJika sudah placement test, minta reset ke CS PMB.\nJika sudah reservasi NIM, wajib buat surat pengajuan pindah prodi dan dikenakan biaya Rp200.000 maksimal 7 hari setelah kuliah perdana."
+      }
+    ],
+    "metadata": {
+      "topic": "Pendaftaran Mahasiswa Baru",
+      "subtopic": "Pindah Program Studi"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana jika mahasiswa baru ingin mengundurkan diri?"
+      },
+      {
+        "role": "model",
+        "content": "Sebelum orientasi: biaya dikembalikan 25%.\nSetelah kuliah dimulai: biaya tidak dapat dikembalikan.\nJika force majeure, dapat dikembalikan sesuai kebijakan pimpinan."
+      }
+    ],
+    "metadata": {
+      "topic": "Pendaftaran Mahasiswa Baru",
+      "subtopic": "Pengunduran Diri"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa ketentuan bagi mahasiswa pindahan dari kampus lain?"
+      },
+      {
+        "role": "model",
+        "content": "Harus menyertakan surat pindah resmi dan KHS atau ijazah-transkrip nilai, lalu mengikuti konversi nilai sesuai ketentuan RPL UNSIQ."
+      }
+    ],
+    "metadata": {
+      "topic": "Pendaftaran Mahasiswa Baru",
+      "subtopic": "Mahasiswa Pindahan"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa itu alur pendaftaran mahasiswa baru UNSIQ?"
+      },
+      {
+        "role": "model",
+        "content": "Alur pendaftaran mahasiswa baru UNSIQ terdiri dari delapan tahap mulai dari kunjungan ke website PMB hingga reservasi NIM sebagai mahasiswa resmi."
+      }
+    ],
+    "metadata": {
+      "topic": "Pendaftaran Mahasiswa Baru",
+      "subtopic": "Alur Pendaftaran"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa langkah pertama dalam pendaftaran mahasiswa baru UNSIQ?"
+      },
+      {
+        "role": "model",
+        "content": "Langkah pertama adalah mengunjungi website resmi PMB di alamat pmb.unsiq.ac.id."
+      }
+    ],
+    "metadata": {
+      "topic": "Pendaftaran Mahasiswa Baru",
+      "subtopic": "Langkah Awal"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Setelah mengunjungi website PMB, apa yang harus dilakukan?"
+      },
+      {
+        "role": "model",
+        "content": "Calon mahasiswa mengisi formulir pendaftaran sesuai kelas yang dipilih, baik reguler maupun ekstensi."
+      }
+    ],
+    "metadata": {
+      "topic": "Pendaftaran Mahasiswa Baru",
+      "subtopic": "Langkah Pendaftaran"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara membayar biaya pendaftaran UNSIQ?"
+      },
+      {
+        "role": "model",
+        "content": "Pembayaran dilakukan melalui Bank Jateng atau Finpay menggunakan nomor pendaftaran yang diperoleh setelah mengisi formulir."
+      }
+    ],
+    "metadata": {
+      "topic": "Pendaftaran Mahasiswa Baru",
+      "subtopic": "Pembayaran Pendaftaran"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Setelah membayar, apa tahap berikutnya dalam alur pendaftaran UNSIQ?"
+      },
+      {
+        "role": "model",
+        "content": "Calon mahasiswa mengisi data diri dan mengunggah semua dokumen persyaratan melalui sistem online PMB."
+      }
+    ],
+    "metadata": {
+      "topic": "Pendaftaran Mahasiswa Baru",
+      "subtopic": "Tahap Verifikasi"
+    }
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "Kapan placement test dilakukan?" },
+      {
+        "role": "model",
+        "content": "Placement test dapat dilakukan sewaktu-waktu setelah seluruh persyaratan pendaftaran diverifikasi oleh sistem PMB."
+      }
+    ],
+    "metadata": {
+      "topic": "Pendaftaran Mahasiswa Baru",
+      "subtopic": "Placement Test"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara mengetahui hasil seleksi pendaftaran UNSIQ?"
+      },
+      {
+        "role": "model",
+        "content": "Hasil seleksi dapat dilihat melalui menu “Status Pendaftaran” dan peserta bisa mencetak Surat Keputusan (SK) penerimaan."
+      }
+    ],
+    "metadata": {
+      "topic": "Pendaftaran Mahasiswa Baru",
+      "subtopic": "Hasil Seleksi"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa yang harus dilakukan setelah dinyatakan diterima di UNSIQ?"
+      },
+      {
+        "role": "model",
+        "content": "Calon mahasiswa segera melakukan registrasi ulang dengan membayar biaya semester pertama melalui Bank Jateng atau Finpay."
+      }
+    ],
+    "metadata": {
+      "topic": "Pendaftaran Mahasiswa Baru",
+      "subtopic": "Registrasi Ulang"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa tahap terakhir dari pendaftaran mahasiswa baru UNSIQ?"
+      },
+      {
+        "role": "model",
+        "content": "Tahap terakhir adalah melakukan reservasi NIM melalui menu “Status Pendaftar” agar resmi menjadi mahasiswa UNSIQ."
+      }
+    ],
+    "metadata": {
+      "topic": "Pendaftaran Mahasiswa Baru",
+      "subtopic": "Reservasi NIM"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Di mana lokasi Universitas Sains Al-Qur’an (UNSIQ)?"
+      },
+      {
+        "role": "model",
+        "content": "UNSIQ beralamat di Gedung Rektorat UNSIQ, Jl. KH. Hasyim Asy’ari Km. 03, Kalibeber, Kecamatan Mojotengah, Kabupaten Wonosobo, Jawa Tengah 56351."
+      }
+    ],
+    "metadata": { "topic": "Profil UNSIQ", "subtopic": "Alamat Kampus" }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara menghubungi panitia PMB UNSIQ?"
+      },
+      {
+        "role": "model",
+        "content": "Panitia PMB UNSIQ dapat dihubungi melalui WhatsApp atau Telegram di nomor 0857 7504 7504."
+      }
+    ],
+    "metadata": {
+      "topic": "Pendaftaran Mahasiswa Baru",
+      "subtopic": "Kontak PMB"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apakah UNSIQ memiliki kontak email resmi untuk pendaftaran?"
+      },
+      {
+        "role": "model",
+        "content": "Ya, calon mahasiswa dapat menghubungi melalui email resmi pmb@unsiq.ac.id untuk informasi dan bantuan pendaftaran."
+      }
+    ],
+    "metadata": {
+      "topic": "Pendaftaran Mahasiswa Baru",
+      "subtopic": "Email Resmi"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apakah layanan PMB UNSIQ tersedia di Telegram?"
+      },
+      {
+        "role": "model",
+        "content": "Ya, UNSIQ menyediakan layanan informasi PMB melalui akun Telegram di nomor 0857 7504 7504."
+      }
+    ],
+    "metadata": {
+      "topic": "Pendaftaran Mahasiswa Baru",
+      "subtopic": "Layanan Telegram"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Di mana lokasi kantor pusat administrasi UNSIQ?"
+      },
+      {
+        "role": "model",
+        "content": "Kantor administrasi dan layanan PMB berada di Gedung Rektorat UNSIQ, Kalibeber, Mojotengah, Wonosobo."
+      }
+    ],
+    "metadata": { "topic": "Profil UNSIQ", "subtopic": "Kantor Administrasi" }
+  }
+]

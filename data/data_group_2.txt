@@ -1,0 +1,399 @@
+
+Q: Bagaimana calon mahasiswa mengetahui status berkas?
+A: Status dapat dilihat langsung di dashboard akun PMB setelah login.
+
+Q: Di mana saya bisa memantau status berkas pendaftaran UNSIQ?
+A: Status berkas tersedia di menu akun PMB yang menampilkan tahap verifikasi terkini.
+
+Q: Bagaimana cara mengetahui apakah berkas sudah diverifikasi?
+A: Masuk ke akun PMB dan lihat bagian status dokumen di dashboard utama.
+
+Q: Apakah ada biaya tambahan selain angsuran pertama?
+A: Tidak ada, biaya tambahan baru muncul saat registrasi semester pertama.
+
+Q: Setelah bayar angsuran pertama, apakah masih ada biaya lain?
+A: Tidak, semua biaya tambahan dibayarkan nanti saat proses registrasi semester.
+
+Q: Apakah UNSIQ mengenakan biaya lain setelah pendaftaran awal?
+A: Tidak, cukup bayar angsuran pertama; biaya berikutnya hanya saat mulai kuliah.
+
+Q: Apa yang terjadi jika berkas tidak lengkap?
+A: Pendaftar diberi waktu 3 hari untuk melengkapi berkas sebelum dinyatakan gugur.
+
+Q: Apakah bisa melengkapi berkas setelah pendaftaran?
+A: Bisa, calon mahasiswa diberi masa tenggang tiga hari untuk menyusulkan dokumen yang kurang.
+
+Q: Apa konsekuensi jika berkas pendaftaran tidak lengkap?
+A: Jika tidak dilengkapi dalam waktu 3 hari, pendaftar otomatis gugur dari seleksi.
+
+Q: Bagaimana prosedur mengajukan pindah program setelah kuliah berjalan?
+A: Mahasiswa harus membuat surat permohonan pindah dari dekan asal ke dekan tujuan.
+
+Q: Apakah boleh ganti jurusan setelah kuliah satu semester?
+A: Boleh, asalkan mengajukan surat resmi dan mendapatkan persetujuan dua fakultas terkait.
+
+Q: Bagaimana cara pindah program studi bagi mahasiswa aktif UNSIQ?
+A: Ajukan surat pindah ke dekan asal dan tujuan, lalu tunggu keputusan fakultas penerima.
+
+Q: Apakah calon mahasiswa dapat memilih kelas pagi atau malam?
+A: Ya, tersedia kelas pagi dan malam untuk program S1 tertentu seperti FEB dan FASTIKOM.
+
+Q: Apakah UNSIQ menyediakan pilihan jadwal kuliah pagi atau malam?
+A: Tersedia dua pilihan kelas — pagi dan malam — tergantung program studi.
+
+Q: Bagaimana menentukan jadwal kelas pagi atau malam saat mendaftar?
+A: Pilihan kelas dapat disesuaikan pada saat pendaftaran sesuai kebijakan fakultas.
+Q: Apakah PMB 2025 menerapkan sistem kuota?
+A: Ya, setiap program studi memiliki kuota penerimaan maksimal sesuai kapasitas kelas.
+
+Q: Apakah ada batas jumlah mahasiswa yang diterima di PMB 2025?
+A: Ada, setiap prodi hanya menerima mahasiswa sesuai jumlah kursi yang tersedia.
+
+Q: Apakah penerimaan mahasiswa UNSIQ dibatasi kuota tiap prodi?
+A: Ya, tiap program studi menetapkan batas kuota agar rasio dosen dan mahasiswa seimbang.
+
+Q: Apa yang terjadi jika kuota prodi sudah penuh?
+A: Jika kuota terpenuhi, calon mahasiswa dapat memilih prodi lain atau menunggu gelombang berikutnya.
+
+Q: Bagaimana jika prodi yang diinginkan sudah habis kuotanya?
+A: Pendaftar diarahkan untuk memilih jurusan alternatif yang masih tersedia.
+
+Q: Jika kuota prodi penuh sebelum gelombang selesai, apa yang dilakukan?
+A: Pendaftaran akan ditutup lebih awal dan peserta bisa mendaftar di gelombang selanjutnya.
+
+Q: Bagaimana cara menghubungi panitia PMB?
+A: Panitia PMB dapat dihubungi lewat WhatsApp 0823-2626-2001 atau email pmb@unsiq.ac.id.
+
+Q: Melalui media apa calon mahasiswa bisa menghubungi panitia PMB?
+A: Kontak resmi tersedia lewat WA 0823-2626-2001 dan email pmb@unsiq.ac.id pada jam kerja.
+
+Q: Jika ada kendala saat pendaftaran, ke mana harus menghubungi UNSIQ?
+A: Silakan kirim pesan ke WhatsApp resmi panitia PMB atau email resmi kampus untuk bantuan.
+
+Q: Apakah UNSIQ membuka jalur kerja sama dengan pesantren?
+A: Ya, UNSIQ memiliki jalur khusus bagi santri pondok pesantren mitra melalui program Santri Masuk Kampus Qur’ani.
+
+Q: Apakah ada jalur penerimaan khusus untuk santri?
+A: Ada, UNSIQ menjalin kerja sama dengan berbagai pesantren di bawah program Santri Masuk Kampus Qur’ani.
+
+Q: Apakah pendaftar dari pesantren mendapat keistimewaan?
+A: Ya, santri pondok mitra mendapat prioritas dan keringanan biaya pendaftaran.
+
+Q: Apa keuntungan jalur Santri Masuk Kampus Qur’ani?
+A: Jalur ini memberikan bebas biaya pendaftaran dan prioritas diterima di prodi berbasis keislaman.
+
+Q: Apa benefit bagi santri yang daftar lewat jalur khusus UNSIQ?
+A: Mereka mendapat pembebasan biaya formulir dan diprioritaskan di jurusan pendidikan Islam.
+
+Q: Apakah ada insentif bagi santri dari pondok mitra?
+A: Ya, santri mitra mendapatkan fasilitas asrama serta kemudahan administrasi pendaftaran.
+
+Q: Apakah ada jalur beasiswa langsung saat PMB?
+A: Ya, calon mahasiswa dapat langsung memilih jalur beasiswa seperti tahfidz, prestasi, atau anak guru saat mendaftar.
+
+Q: Bisakah mendaftar PMB sekaligus mengajukan beasiswa?
+A: Bisa, UNSIQ mengizinkan pendaftar untuk langsung mendaftar jalur beasiswa saat mengisi formulir PMB.
+
+Q: Apakah jalur beasiswa dibuka bersamaan dengan PMB?
+A: Ya, pendaftaran beasiswa tahfidz, prestasi, dan anak guru dibuka paralel dengan PMB.
+
+Q: Apakah UNSIQ menyediakan helpdesk chat online?
+A: Ya, tersedia layanan chat online di portal PMB setiap hari kerja pukul 08.00–15.00.
+
+Q: Bagaimana cara konsultasi dengan tim PMB secara online?
+A: Gunakan fitur live chat di situs pmb.unsiq.ac.id untuk bertanya langsung pada petugas.
+
+Q: Apakah UNSIQ punya layanan tanya jawab langsung di situsnya?
+A: Ya, calon mahasiswa bisa berinteraksi dengan petugas PMB lewat fitur chat online di website resmi.
+
+Q: Apa prospek kerja lulusan Pendidikan Agama Islam UNSIQ?
+A: Lulusan PAI dapat menjadi guru agama, penyuluh Islam, atau pengembang pendidikan berbasis Qur’ani.
+
+Q: Lulusan PAI UNSIQ bisa bekerja di bidang apa saja?
+A: Mereka bisa berkarier sebagai guru, peneliti pendidikan Islam, hingga tenaga dakwah di lembaga keagamaan.
+
+Q: Apa peluang karier bagi lulusan jurusan Pendidikan Agama Islam?
+A: Lulusan berpeluang menjadi pendidik, konsultan pendidikan Islam, maupun pegawai instansi keagamaan.
+
+Q: Apa prospek kerja lulusan PGMI UNSIQ?
+A: Lulusan PGMI dapat menjadi guru SD/MI, pengembang bahan ajar, atau peneliti pendidikan dasar Islam.
+
+Q: Lulusan PGMI UNSIQ bisa berkarier di mana?
+A: Mereka dapat bekerja sebagai guru sekolah dasar Islam dan staf pengembangan kurikulum madrasah.
+
+Q: Bidang pekerjaan apa yang terbuka bagi lulusan PGMI UNSIQ?
+A: Guru MI/SD, penyusun kurikulum pendidikan Islam dasar, atau peneliti pedagogi Islam.
+
+Q: Lulusan Pendidikan Bahasa Arab dapat bekerja di bidang apa?
+A: Mereka bisa menjadi guru bahasa Arab, penerjemah, dosen, atau peneliti linguistik Arab.
+
+Q: Apa prospek kerja bagi lulusan jurusan Bahasa Arab UNSIQ?
+A: Lulusan PBA berpeluang jadi pengajar, penerjemah, penulis, atau konsultan pendidikan bahasa.
+
+Q: Ke mana arah karier lulusan Pendidikan Bahasa Arab UNSIQ?
+A: Mereka dapat berkiprah di bidang pengajaran, penerjemahan, atau penelitian bahasa dan budaya Arab.
+
+Q: Apa prospek lulusan Pendidikan Bahasa Inggris UNSIQ?
+A: Lulusan dapat menjadi pengajar, penerjemah, atau tenaga profesional di bidang komunikasi internasional.
+
+Q: Lulusan jurusan Bahasa Inggris UNSIQ bisa bekerja di mana?
+A: Bisa di sektor pendidikan, penerjemahan, atau komunikasi global di lembaga internasional.
+
+Q: Bidang apa yang cocok untuk alumni Pendidikan Bahasa Inggris UNSIQ?
+A: Pengajaran, penerjemahan, penulisan konten berbahasa Inggris, hingga staf komunikasi lintas budaya.
+
+Q: Apa itu Beasiswa KIP-Kuliah?
+A: Program pemerintah yang menanggung penuh biaya kuliah serta memberi bantuan biaya hidup setiap semester.
+
+Q: Jelaskan tentang program Beasiswa KIP Kuliah UNSIQ!
+A: Beasiswa ini membebaskan seluruh biaya kuliah dan memberi uang saku bagi mahasiswa penerima.
+
+Q: Apa manfaat utama dari KIP Kuliah di UNSIQ?
+A: Mahasiswa tidak membayar biaya kuliah dan mendapat tunjangan hidup tiap semester.
+
+Q: Siapa yang berhak mendapat Beasiswa KIP-Kuliah?
+A: Mahasiswa yang terdaftar di DTKS Kemensos, memiliki KIP aktif, dan lolos seleksi nasional.
+
+Q: Apa kriteria penerima KIP-Kuliah di UNSIQ?
+A: Harus memiliki KIP aktif, berasal dari keluarga tidak mampu, serta lulus seleksi nasional.
+
+Q: Siapa saja calon penerima prioritas Beasiswa KIP Kuliah?
+A: Peserta dengan kondisi ekonomi rendah dan nilai akademik baik menjadi prioritas utama penerima.
+
+Q: Berapa lama Beasiswa KIP-Kuliah berlaku?
+A: Selama delapan semester untuk program S1 dan enam semester untuk D3.
+
+Q: Sampai kapan bantuan KIP-Kuliah diberikan?
+A: Bantuan diberikan selama masa studi normal, yaitu 4 tahun untuk S1 dan 3 tahun untuk D3.
+
+Q: Durasi manfaat Beasiswa KIP-Kuliah di UNSIQ berapa lama?
+A: KIP-Kuliah aktif selama masa studi standar tiap jenjang pendidikan.
+
+Q: Apa jenis bantuan yang diberikan KIP-Kuliah?
+A: Bebas biaya kuliah penuh serta uang saku bulanan bagi penerima program.
+
+Q: Apa bentuk dukungan finansial dari KIP Kuliah?
+A: Mahasiswa penerima tidak membayar biaya kuliah dan menerima bantuan biaya hidup.
+
+Q: Bantuan apa saja yang termasuk dalam program KIP Kuliah?
+A: Biaya kuliah gratis dan tunjangan hidup yang dikirim tiap semester.
+
+Q: Apakah KIP-Kuliah bisa digabung dengan beasiswa lain?
+A: Tidak bisa, penerima KIP-Kuliah tidak diperbolehkan menerima beasiswa lain bersamaan.
+
+Q: Apakah penerima KIP boleh ikut beasiswa tambahan?
+A: Tidak, karena aturan KIP-Kuliah melarang kombinasi dengan beasiswa lain.
+
+Q: Apakah mahasiswa KIP-Kuliah bisa menerima beasiswa kampus?
+A: Tidak diperbolehkan agar bantuan keuangan tidak tumpang tindih.
+Q: Apa itu Beasiswa Anak Guru?
+A: Beasiswa bagi anak guru aktif di sekolah formal yang masih memiliki SK Dinas dan mengajar aktif.
+
+Q: Siapa yang bisa mendapat Beasiswa Anak Guru di UNSIQ?
+A: Anak guru aktif dengan SK Dinas resmi dan masih mengajar berhak mengajukan beasiswa ini.
+
+Q: Jelaskan tentang Beasiswa Anak Guru UNSIQ!
+A: Program ini ditujukan bagi anak tenaga pendidik aktif dengan potongan biaya kuliah hingga 50%.
+
+Q: Apa keuntungan Beasiswa Anak Guru?
+A: Potongan biaya SPP sebesar 50% selama tiga semester pertama.
+
+Q: Apa manfaat utama dari Beasiswa Anak Guru di UNSIQ?
+A: Mahasiswa penerima mendapat potongan 50% SPP untuk tiga semester berturut-turut.
+
+Q: Apa bentuk bantuan Beasiswa Anak Guru?
+A: Potongan biaya kuliah selama tiga semester awal bagi anak guru aktif.
+
+Q: Apa itu Beasiswa Sekolah Mitra?
+A: Bantuan bagi siswa dari sekolah yang memiliki MoU kerja sama resmi dengan UNSIQ.
+
+Q: Jelaskan Beasiswa Kerja Sama Sekolah Mitra UNSIQ!
+A: Program ini memberi keringanan biaya kuliah bagi lulusan sekolah yang bermitra resmi dengan UNSIQ.
+
+Q: Apa syarat mengikuti jalur Sekolah Mitra UNSIQ?
+A: Harus berasal dari sekolah yang memiliki nota kesepahaman resmi (MoU) dengan pihak UNSIQ.
+
+Q: Apa keuntungan Beasiswa Sekolah Mitra?
+A: Penerima dibebaskan dari biaya SPP selama dua semester pertama.
+
+Q: Manfaat apa yang diperoleh penerima Beasiswa Sekolah Mitra UNSIQ?
+A: Mahasiswa mendapat pembebasan SPP selama dua semester sebagai bentuk penghargaan kerja sama.
+
+Q: Apa fasilitas yang diberikan Beasiswa Sekolah Mitra?
+A: Bebas biaya kuliah dua semester awal dengan rekomendasi resmi dari sekolah asal.
+
+Q: Apa itu Beasiswa BAZNAS?
+A: Bantuan biaya kuliah dari lembaga BAZNAS bagi mahasiswa aktif berprestasi dengan ekonomi terbatas.
+
+Q: Jelaskan tentang program Beasiswa BAZNAS UNSIQ!
+A: Beasiswa ini diberikan oleh BAZNAS untuk membantu mahasiswa yang kurang mampu namun berprestasi.
+
+Q: Apa tujuan Beasiswa BAZNAS di UNSIQ?
+A: Untuk mendukung mahasiswa berprestasi agar tetap melanjutkan pendidikan tanpa terkendala biaya.
+
+Q: Siapa yang berhak mendapat Beasiswa BAZNAS?
+A: Mahasiswa aktif minimal semester 4 dengan IPK tinggi dan kondisi ekonomi terbatas.
+
+Q: Apa kriteria penerima Beasiswa BAZNAS?
+A: IPK minimal 3.25 dan berasal dari keluarga kurang mampu sesuai hasil verifikasi kampus.
+
+Q: Mahasiswa semester berapa yang bisa ikut Beasiswa BAZNAS?
+A: Minimal semester 4, dengan prestasi baik dan kondisi ekonomi menengah ke bawah.
+
+Q: Apa itu Beasiswa Bank Syariah Indonesia (BSI)?
+A: Bantuan biaya kuliah dari Bank Syariah Indonesia bagi mahasiswa aktif dengan prestasi akademik.
+
+Q: Jelaskan Beasiswa BSI UNSIQ!
+A: Program kerja sama antara UNSIQ dan Bank Syariah Indonesia berupa bantuan biaya SPP dua semester.
+
+Q: Apa bentuk bantuan dari Beasiswa BSI?
+A: Potongan biaya kuliah dan kesempatan magang di Bank Syariah Indonesia bagi penerima beasiswa.
+
+Q: Apa syarat Beasiswa BSI?
+A: IPK minimal 3.25 dan aktif di kegiatan sosial keislaman di kampus.
+
+Q: Siapa yang bisa mendaftar Beasiswa Bank Syariah Indonesia?
+A: Mahasiswa berprestasi dengan IPK ≥ 3.25 dan aktif di organisasi kampus Islam.
+
+Q: Apa ketentuan akademik untuk Beasiswa BSI UNSIQ?
+A: Penerima wajib memiliki IPK di atas 3.25 dan terlibat dalam kegiatan sosial berbasis Islam.
+
+Q: Apa itu Beasiswa Prestasi Akademik?
+A: Program penghargaan bagi siswa dengan nilai rapor rata-rata minimal 85 dan prestasi akademik tinggi.
+
+Q: Apa kriteria Beasiswa Prestasi Akademik di UNSIQ?
+A: Rata-rata nilai rapor ≥ 85 atau pernah menjuarai lomba akademik tingkat kabupaten ke atas.
+
+Q: Jelaskan tentang Beasiswa Prestasi Akademik UNSIQ!
+A: Beasiswa ini memberikan bebas SPP selama dua semester untuk siswa berprestasi akademik tinggi.
+
+Q: Apa keuntungan Beasiswa Prestasi Akademik?
+A: Bebas biaya SPP selama dua semester pertama bagi penerima.
+
+Q: Apa bentuk bantuan Beasiswa Prestasi Akademik UNSIQ?
+A: Penerima dibebaskan dari biaya kuliah selama dua semester sebagai bentuk apresiasi kampus.
+
+Q: Apa itu Beasiswa Prestasi Non-Akademik?
+A: Beasiswa untuk siswa berprestasi di bidang seni, olahraga, atau organisasi tingkat kabupaten ke atas.
+
+Q: Siapa yang berhak menerima Beasiswa Non-Akademik?
+A: Siswa dengan prestasi di lomba non-akademik seperti olahraga, seni, atau kepemimpinan.
+
+Q: Jelaskan program Beasiswa Non-Akademik UNSIQ!
+A: Beasiswa ini memberikan pembebasan biaya SPP selama satu semester bagi siswa berprestasi non-akademik.
+
+Q: Apa manfaat Beasiswa Non-Akademik UNSIQ?
+A: Bebas biaya kuliah satu semester bagi mahasiswa berprestasi di bidang non-akademik.
+
+Q: Apa bentuk penghargaan dari Beasiswa Non-Akademik?
+A: Penerima dibebaskan dari pembayaran SPP selama satu semester penuh.
+
+Q: Apa itu Beasiswa Ormas Islam?
+A: Bantuan biaya kuliah bagi mahasiswa aktif yang tergabung dalam organisasi masyarakat Islam.
+
+Q: Jelaskan tentang Beasiswa Ormas Islam UNSIQ!
+A: Program ini memberi potongan biaya kuliah 25% per semester bagi anggota Ormas Islam terdaftar.
+
+Q: Apa tujuan dari Beasiswa Ormas Islam?
+A: Untuk mendukung kader Ormas Islam agar bisa menempuh pendidikan tinggi berbasis Qur’ani.
+
+Q: Apa keuntungan Beasiswa Ormas Islam?
+A: Potongan biaya kuliah 25% per semester selama empat semester berturut-turut.
+
+Q: Apa bentuk keringanan biaya dari Beasiswa Ormas Islam?
+A: Diskon 25% biaya kuliah per semester bagi penerima aktif dalam organisasi Islam.
+
+Q: Siapa yang bisa mendaftar Beasiswa Ormas Islam?
+A: Mahasiswa yang aktif di organisasi Islam dan memiliki rekomendasi resmi dari pengurus Ormas.
+
+Q: Apa itu Beasiswa Tahfidz Qur’an?
+A: Beasiswa bagi penghafal Al-Qur’an minimal 5 juz dengan uji hafalan langsung oleh tim UNSIQ.
+
+Q: Jelaskan Beasiswa Tahfidz Al-Qur’an UNSIQ!
+A: Jalur ini memberikan pembebasan biaya kuliah bagi hafidz/hafidzah sesuai jumlah juz hafalan.
+
+Q: Apa syarat untuk Beasiswa Tahfidz di UNSIQ?
+A: Minimal hafal 5 juz dan lulus uji hafalan di hadapan tim penguji UNSIQ.
+
+Q: Apa keuntungan Beasiswa Tahfidz Qur’an UNSIQ?
+A: Potongan biaya kuliah sesuai jumlah juz yang dihafal, maksimal 100% untuk 30 juz.
+
+Q: Berapa potongan biaya bagi penghafal Al-Qur’an di UNSIQ?
+A: Hafalan 5–10 juz mendapat potongan 50%, sementara hafalan 30 juz gratis penuh.
+
+Q: Apakah ada uji hafalan untuk penerima Beasiswa Tahfidz?
+A: Ya, calon penerima wajib mengikuti tes hafalan langsung yang diselenggarakan panitia kampus.
+Q: Apa itu Beasiswa Alumni UNSIQ?
+A: Program beasiswa dari para alumni UNSIQ untuk membantu mahasiswa baru yang merupakan keluarga atau rekomendasi alumni.
+
+Q: Jelaskan tentang Beasiswa Alumni UNSIQ!
+A: Beasiswa ini diberikan kepada penerus keluarga alumni UNSIQ sebagai bentuk dukungan dan solidaritas antargenerasi.
+
+Q: Siapa yang berhak mendapat Beasiswa Alumni?
+A: Anak atau kerabat alumni UNSIQ yang direkomendasikan resmi oleh ikatan alumni.
+
+Q: Apa keuntungan Beasiswa Alumni UNSIQ?
+A: Potongan biaya SPP sebesar 25% untuk dua semester pertama bagi mahasiswa penerus keluarga alumni.
+
+Q: Apa bentuk bantuan dari Beasiswa Alumni?
+A: Penerima mendapat keringanan biaya kuliah sebesar 25% selama dua semester awal.
+
+Q: Apa manfaat mengikuti program Beasiswa Alumni UNSIQ?
+A: Selain potongan biaya, penerima juga mendapat akses mentorship dari jaringan alumni UNSIQ.
+
+Q: Apa itu penghargaan Mahasiswa Inspiratif?
+A: Penghargaan bagi mahasiswa aktif yang memberi dampak positif bagi kampus dan masyarakat.
+
+Q: Jelaskan tentang penghargaan Mahasiswa Inspiratif UNSIQ!
+A: Mahasiswa Inspiratif adalah apresiasi tahunan bagi mahasiswa yang berprestasi dan berkontribusi sosial tinggi.
+
+Q: Apa tujuan pemberian penghargaan Mahasiswa Inspiratif?
+A: Untuk mendorong semangat kontribusi sosial dan kepemimpinan mahasiswa UNSIQ.
+
+Q: Apa bentuk penghargaan Mahasiswa Inspiratif?
+A: Sertifikat kehormatan dan bonus beasiswa senilai Rp 1.000.000 diberikan kepada penerima.
+
+Q: Penghargaan apa yang diterima mahasiswa inspiratif UNSIQ?
+A: Sertifikat penghargaan resmi dan dana pembinaan sebesar satu juta rupiah.
+
+Q: Apa hadiah bagi mahasiswa yang terpilih sebagai Mahasiswa Inspiratif?
+A: Beasiswa tunai Rp 1 juta serta piagam penghargaan dari rektorat.
+
+Q: Apakah UNSIQ memiliki kerja sama beasiswa internasional?
+A: Ya, UNSIQ bekerja sama dengan lembaga pendidikan Islam di Asia Tenggara dan mitra Malaysia.
+
+Q: Jelaskan kerja sama internasional UNSIQ dalam bidang beasiswa!
+A: UNSIQ bermitra dengan universitas dan lembaga luar negeri untuk membuka kesempatan beasiswa lintas negara.
+
+Q: Apakah UNSIQ membuka beasiswa ke luar negeri?
+A: Ya, tersedia program pertukaran dan beasiswa ke kampus mitra di Asia Tenggara dan Malaysia.
+
+Q: Apakah UNSIQ memberi keringanan biaya bagi korban bencana?
+A: Ya, kampus memberikan potongan biaya hingga 50% untuk korban bencana di wilayah tertentu.
+
+Q: Apakah korban bencana alam bisa dapat potongan biaya kuliah?
+A: Bisa, UNSIQ menyediakan keringanan biaya khusus bagi mahasiswa terdampak bencana.
+
+Q: Apa bentuk bantuan UNSIQ bagi korban bencana?
+A: Potongan biaya kuliah dan fasilitas penyesuaian jadwal pembayaran bagi mahasiswa terdampak.
+
+Q: Bagaimana cara mengetahui daftar beasiswa aktif di UNSIQ?
+A: Daftar beasiswa dapat dilihat di portal akademik UNSIQ atau di papan pengumuman rektorat.
+
+Q: Di mana mahasiswa bisa melihat informasi beasiswa terbaru?
+A: Semua informasi beasiswa diumumkan di sistem akademik online dan media resmi kampus.
+
+Q: Kapan daftar beasiswa UNSIQ diperbarui?
+A: Data beasiswa diperbarui setiap awal semester genap sesuai kebijakan rektorat.
+
+Q: Apakah ada pembaruan data beasiswa tiap tahun?
+A: Ya, daftar beasiswa disesuaikan setiap tahun ajaran baru dan diumumkan melalui portal resmi.
+
+Q: Kapan biasanya UNSIQ memperbarui daftar beasiswa?
+A: Setiap awal semester genap, kampus memperbarui daftar program beasiswa yang tersedia.
+
+Q: Apakah UNSIQ menerima mahasiswa dengan prestasi hafalan Qur’an?
+A: Ya, tersedia jalur khusus Tahfidz Al-Qur’an bagi calon mahasiswa penghafal minimal 5 juz.
+
+Q: Apakah penghafal Qur’an mendapat jalur khusus?
+A: Ada, jalur Tahfidz Qur’an memberi keringanan biaya berdasarkan jumlah hafalan calon mahasiswa.
