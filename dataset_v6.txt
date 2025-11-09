@@ -90,724 +90,724 @@ A: Mohon maaf, saya hanya memberikan informasi resmi PMB UNSIQ bukan kampus lain
 Q: Apakah kamu bisa bercanda?  
 A: Maaf, saya tidak dirancang untuk hiburan. Saya fokus membantu informasi Penerimaan Mahasiswa Baru (PMB) UNSIQ secara resmi dan akurat.
 Q: Apa itu daftar ulang mahasiswa baru UNSIQ?  
-A: Daftar ulang adalah tahap resmi setelah lulus seleksi PMB dengan melakukan pembayaran angsuran pertama dan aktivasi Nomor Induk Mahasiswa (NIM) melalui portal pmb.unsiq.ac.id.:contentReference[oaicite:2]{index=2}
+A: Daftar ulang adalah tahap resmi setelah lulus seleksi PMB dengan melakukan pembayaran angsuran pertama dan aktivasi Nomor Induk Mahasiswa (NIM) melalui portal pmb.unsiq.ac.id.
 
 Q: Kapan waktu daftar ulang UNSIQ dibuka?  
-A: Daftar ulang dibuka setelah pengumuman hasil seleksi setiap gelombang dan ditutup satu minggu sebelum perkuliahan dimulai.:contentReference[oaicite:3]{index=3}
+A: Daftar ulang dibuka setelah pengumuman hasil seleksi setiap gelombang dan ditutup satu minggu sebelum perkuliahan dimulai.
 
 Q: Bagaimana cara daftar ulang mahasiswa baru?  
-A: Bayar angsuran pertama Rp745.000 melalui Bank Jateng atau Finpay, lalu login ke portal PMB dan konfirmasi reservasi NIM agar terdaftar resmi.:contentReference[oaicite:4]{index=4}
+A: Bayar angsuran pertama Rp745.000 melalui Bank Jateng atau Finpay, lalu login ke portal PMB dan konfirmasi reservasi NIM agar terdaftar resmi.
 
 Q: Di mana melakukan pembayaran daftar ulang UNSIQ?  
-A: Pembayaran dilakukan via virtual account Bank Jateng atau Finpay sesuai nomor pendaftaran yang tertera di akun PMB.:contentReference[oaicite:5]{index=5}
+A: Pembayaran dilakukan via virtual account Bank Jateng atau Finpay sesuai nomor pendaftaran yang tertera di akun PMB.
 
 Q: Apa itu reservasi NIM di UNSIQ?  
-A: Reservasi NIM adalah proses aktivasi Nomor Induk Mahasiswa setelah pembayaran terkonfirmasi, menandakan status aktif sebagai mahasiswa baru.:contentReference[oaicite:6]{index=6}
+A: Reservasi NIM adalah proses aktivasi Nomor Induk Mahasiswa setelah pembayaran terkonfirmasi, menandakan status aktif sebagai mahasiswa baru.
 
 Q: Apakah wajib daftar ulang setelah lulus seleksi?  
-A: Wajib. Calon mahasiswa yang tidak melakukan daftar ulang dianggap mengundurkan diri dan kehilangan hak menjadi mahasiswa baru.:contentReference[oaicite:7]{index=7}
+A: Wajib. Calon mahasiswa yang tidak melakukan daftar ulang dianggap mengundurkan diri dan kehilangan hak menjadi mahasiswa baru.
 
 Q: Apa yang terjadi kalau tidak daftar ulang tepat waktu?  
-A: Status kelulusan dibatalkan dan kursi dialihkan ke cadangan. Daftar ulang tepat waktu penting agar NIM tidak hangus.:contentReference[oaicite:8]{index=8}
+A: Status kelulusan dibatalkan dan kursi dialihkan ke cadangan. Daftar ulang tepat waktu penting agar NIM tidak hangus.
 
 Q: Apakah aktivasi NIM bisa dilakukan online?  
-A: Ya. Aktivasi NIM dilakukan secara online melalui akun PMB setelah pembayaran terverifikasi oleh panitia.:contentReference[oaicite:9]{index=9}
+A: Ya. Aktivasi NIM dilakukan secara online melalui akun PMB setelah pembayaran terverifikasi oleh panitia.
 
 Q: Berapa biaya daftar ulang mahasiswa baru UNSIQ?  
-A: Biaya angsuran pertama sebesar Rp745.000 yang mencakup atribut kampus, dana muawanah, dan kemahasiswaan.:contentReference[oaicite:10]{index=10}
+A: Biaya angsuran pertama sebesar Rp745.000 yang mencakup atribut kampus, dana muawanah, dan kemahasiswaan.
 
 Q: Apakah perlu mengunggah bukti pembayaran daftar ulang?  
-A: Tidak perlu. Sistem otomatis memverifikasi pembayaran melalui nomor virtual account.:contentReference[oaicite:11]{index=11}
+A: Tidak perlu. Sistem otomatis memverifikasi pembayaran melalui nomor virtual account.
 
 Q: Apakah setelah aktivasi NIM langsung bisa kuliah?  
-A: Ya. Mahasiswa yang sudah aktivasi NIM akan mendapat jadwal kuliah dan akses e-learning akd.unsiq.ac.id.:contentReference[oaicite:12]{index=12}
+A: Ya. Mahasiswa yang sudah aktivasi NIM akan mendapat jadwal kuliah dan akses e-learning akd.unsiq.ac.id.
 
 Q: Apakah ada surat konfirmasi setelah daftar ulang?  
-A: Ada. Panitia mengirim Surat Keterangan Aktivasi NIM ke email terdaftar sebagai bukti status mahasiswa.:contentReference[oaicite:13]{index=13}
+A: Ada. Panitia mengirim Surat Keterangan Aktivasi NIM ke email terdaftar sebagai bukti status mahasiswa.
 
 Q: Bisakah daftar ulang dilakukan melalui ponsel?  
-A: Bisa. Seluruh proses pembayaran dan aktivasi dapat diakses melalui smartphone di portal pmb.unsiq.ac.id.:contentReference[oaicite:14]{index=14}
+A: Bisa. Seluruh proses pembayaran dan aktivasi dapat diakses melalui smartphone di portal pmb.unsiq.ac.id.
 
 Q: Apa saja syarat daftar ulang UNSIQ?  
-A: Bukti lulus seleksi PMB, unggah dokumen ijazah/SKL, KK, pas foto resmi, dan melakukan pembayaran angsuran pertama.:contentReference[oaicite:15]{index=15}
+A: Bukti lulus seleksi PMB, unggah dokumen ijazah/SKL, KK, pas foto resmi, dan melakukan pembayaran angsuran pertama.
 
 Q: Siapa yang bisa membantu jika aktivasi NIM gagal?  
-A: Hubungi Admin PMB melalui menu “Bantuan” atau nomor WhatsApp resmi di portal pmb.unsiq.ac.id.:contentReference[oaicite:16]{index=16}
+A: Hubungi Admin PMB melalui menu “Bantuan” atau nomor WhatsApp resmi di portal pmb.unsiq.ac.id.
 
 Q: Berapa lama proses aktivasi NIM setelah pembayaran?  
-A: Sekitar 1-2 hari kerja setelah pembayaran terverifikasi oleh panitia PMB.:contentReference[oaicite:17]{index=17}
+A: Sekitar 1-2 hari kerja setelah pembayaran terverifikasi oleh panitia PMB.
 
 Q: Apakah mahasiswa lama juga harus daftar ulang setiap semester?  
-A: Ya. Setiap semester mahasiswa lama melakukan registrasi ulang melalui SIAKAD dan melunasi SPP untuk memperpanjang status aktif.:contentReference[oaicite:18]{index=18}
+A: Ya. Setiap semester mahasiswa lama melakukan registrasi ulang melalui SIAKAD dan melunasi SPP untuk memperpanjang status aktif.
 
 Q: Apa bedanya daftar ulang dan aktivasi NIM?  
-A: Daftar ulang meliputi pembayaran dan verifikasi, sedangkan aktivasi NIM adalah pengaktifan status resmi mahasiswa setelahnya.:contentReference[oaicite:19]{index=19}
+A: Daftar ulang meliputi pembayaran dan verifikasi, sedangkan aktivasi NIM adalah pengaktifan status resmi mahasiswa setelahnya.
 
 Q: Apakah daftar ulang dapat diwakilkan?  
-A: Tidak disarankan. Setiap calon mahasiswa harus login dan aktivasi sendiri karena data terikat ke akun pribadi.:contentReference[oaicite:20]{index=20}
+A: Tidak disarankan. Setiap calon mahasiswa harus login dan aktivasi sendiri karena data terikat ke akun pribadi.
 
 Q: Kapan batas akhir aktivasi NIM Gelombang 3?  
-A: Batas akhir aktivasi NIM Gelombang 3 adalah 7 September 2025, sesuai jadwal pembayaran akhir angsuran.:contentReference[oaicite:21]{index=21}
+A: Batas akhir aktivasi NIM Gelombang 3 adalah 7 September 2025, sesuai jadwal pembayaran akhir angsuran.
 Q: Apakah UNSIQ memiliki lembaga tracer study?  
-A: Ya. UNSIQ memiliki Lembaga Tracer Study di bawah LPPM untuk memantau karier dan kiprah alumni setelah lulus. :contentReference[oaicite:0]{index=0}
+A: Ya. UNSIQ memiliki Lembaga Tracer Study di bawah LPPM untuk memantau karier dan kiprah alumni setelah lulus. 
 
 Q: Apa tujuan tracer study di UNSIQ?  
-A: Untuk mengevaluasi relevansi kurikulum terhadap dunia kerja dan memperkuat hubungan antara kampus, alumni, dan industri. :contentReference[oaicite:1]{index=1}
+A: Untuk mengevaluasi relevansi kurikulum terhadap dunia kerja dan memperkuat hubungan antara kampus, alumni, dan industri. 
 
 Q: Bagaimana alumni UNSIQ di dunia kerja?  
-A: Banyak alumni bekerja di instansi pendidikan, kesehatan, pemerintahan, perbankan syariah, dan sektor teknologi berbasis nilai Qur’ani. :contentReference[oaicite:2]{index=2}
+A: Banyak alumni bekerja di instansi pendidikan, kesehatan, pemerintahan, perbankan syariah, dan sektor teknologi berbasis nilai Qur’ani. 
 
 Q: Apakah UNSIQ memiliki ikatan alumni resmi?  
-A: Ya, terdapat Ikatan Alumni UNSIQ (IKA UNSIQ) yang aktif mengadakan reuni, pelatihan karier, dan program sosial keumatan. :contentReference[oaicite:3]{index=3}
+A: Ya, terdapat Ikatan Alumni UNSIQ (IKA UNSIQ) yang aktif mengadakan reuni, pelatihan karier, dan program sosial keumatan. 
 
 Q: Bagaimana cara bergabung dengan IKA UNSIQ?  
-A: Lulusan cukup mengisi formulir di laman alumni.unsiq.ac.id dan mengunggah ijazah untuk verifikasi keanggotaan. :contentReference[oaicite:4]{index=4}
+A: Lulusan cukup mengisi formulir di laman alumni.unsiq.ac.id dan mengunggah ijazah untuk verifikasi keanggotaan. 
 
 Q: Apakah alumni UNSIQ bisa mendapat sertifikat tracer study?  
-A: Ya, setelah mengisi kuesioner daring tracer, alumni mendapat e-sertifikat partisipasi resmi dari kampus. :contentReference[oaicite:5]{index=5}
+A: Ya, setelah mengisi kuesioner daring tracer, alumni mendapat e-sertifikat partisipasi resmi dari kampus. 
 
 Q: Apakah UNSIQ membantu alumni mencari kerja?  
-A: Ya. Career Center UNSIQ rutin mengadakan job fair, pelatihan CV, dan rekrutmen terbuka bersama mitra industri. :contentReference[oaicite:6]{index=6}
+A: Ya. Career Center UNSIQ rutin mengadakan job fair, pelatihan CV, dan rekrutmen terbuka bersama mitra industri. 
 
 Q: Apakah alumni UNSIQ bisa lanjut kuliah S2 di UNSIQ?  
-A: Bisa. UNSIQ memiliki program Magister Pendidikan Islam dan Magister Ekonomi Syariah yang terbuka untuk alumni internal. :contentReference[oaicite:7]{index=7}
+A: Bisa. UNSIQ memiliki program Magister Pendidikan Islam dan Magister Ekonomi Syariah yang terbuka untuk alumni internal. 
 
 Q: Apakah alumni UNSIQ bekerja di luar negeri?  
-A: Ya, sebagian alumni bekerja di Malaysia dan Timur Tengah melalui kerja sama universitas dengan lembaga pendidikan Islam internasional. :contentReference[oaicite:8]{index=8}
+A: Ya, sebagian alumni bekerja di Malaysia dan Timur Tengah melalui kerja sama universitas dengan lembaga pendidikan Islam internasional. 
 
 Q: Apakah ada penghargaan untuk alumni berprestasi?  
-A: Ada. UNSIQ memberikan penghargaan tahunan “Alumni Inspiratif” bagi lulusan berkontribusi di masyarakat dan dunia pendidikan. :contentReference[oaicite:9]{index=9}
+A: Ada. UNSIQ memberikan penghargaan tahunan “Alumni Inspiratif” bagi lulusan berkontribusi di masyarakat dan dunia pendidikan. 
 
 Q: Bagaimana kampus menjaga komunikasi dengan alumni?  
-A: Melalui grup resmi IKA UNSIQ di media sosial dan portal alumni.unsiq.ac.id yang aktif diperbarui. :contentReference[oaicite:10]{index=10}
+A: Melalui grup resmi IKA UNSIQ di media sosial dan portal alumni.unsiq.ac.id yang aktif diperbarui. 
 
 Q: Apakah alumni UNSIQ bisa menjadi dosen di kampus sendiri?  
-A: Bisa, selama memenuhi kualifikasi S2 dan lulus seleksi dosen tetap atau kontrak di fakultas terkait. :contentReference[oaicite:11]{index=11}
+A: Bisa, selama memenuhi kualifikasi S2 dan lulus seleksi dosen tetap atau kontrak di fakultas terkait. 
 
 Q: Apakah ada pelatihan wirausaha bagi alumni?  
-A: Ada. UNSIQ bekerja sama dengan UMKM daerah dan Bank Syariah untuk pembinaan bisnis alumni muda. :contentReference[oaicite:12]{index=12}
+A: Ada. UNSIQ bekerja sama dengan UMKM daerah dan Bank Syariah untuk pembinaan bisnis alumni muda. 
 
 Q: Apakah UNSIQ mengadakan reuni akbar?  
-A: Ya, reuni akbar diadakan setiap lima tahun melibatkan seluruh angkatan dan dosen lintas fakultas. :contentReference[oaicite:13]{index=13}
+A: Ya, reuni akbar diadakan setiap lima tahun melibatkan seluruh angkatan dan dosen lintas fakultas. 
 
 Q: Apakah data alumni UNSIQ terbuka publik?  
-A: Tidak. Data alumni dikelola internal oleh Biro Kemahasiswaan dan hanya digunakan untuk kepentingan akademik dan tracer study. :contentReference[oaicite:14]{index=14}
+A: Tidak. Data alumni dikelola internal oleh Biro Kemahasiswaan dan hanya digunakan untuk kepentingan akademik dan tracer study. 
 Q: Apakah UNSIQ menerima mahasiswa asing?  
-A: Ya, UNSIQ terbuka untuk mahasiswa luar negeri yang ingin menempuh pendidikan tinggi berbasis nilai Qur’ani dan budaya pesantren di Indonesia. :contentReference[oaicite:2]{index=2}
+A: Ya, UNSIQ terbuka untuk mahasiswa luar negeri yang ingin menempuh pendidikan tinggi berbasis nilai Qur’ani dan budaya pesantren di Indonesia. 
 
 Q: Dari negara mana saja mahasiswa asing di UNSIQ berasal?  
-A: Mahasiswa internasional UNSIQ umumnya berasal dari Asia Tenggara seperti Malaysia, Thailand, dan Brunei Darussalam, juga beberapa dari Afrika dan Timur Tengah. :contentReference[oaicite:3]{index=3}
+A: Mahasiswa internasional UNSIQ umumnya berasal dari Asia Tenggara seperti Malaysia, Thailand, dan Brunei Darussalam, juga beberapa dari Afrika dan Timur Tengah. 
 
 Q: Apa syarat utama mahasiswa asing kuliah di UNSIQ?  
-A: Harus memiliki paspor aktif, ijazah setara SMA yang dilegalisir, hasil tes Bahasa Indonesia, dan surat rekomendasi dari lembaga pendidikan asal. :contentReference[oaicite:4]{index=4}
+A: Harus memiliki paspor aktif, ijazah setara SMA yang dilegalisir, hasil tes Bahasa Indonesia, dan surat rekomendasi dari lembaga pendidikan asal. 
 
 Q: Apakah mahasiswa asing perlu visa khusus?  
-A: Ya, mahasiswa asing wajib mengurus Visa Pelajar (Tipe C-316) melalui Kedutaan RI dan melapor ke Kantor Imigrasi Wonosobo setelah tiba. :contentReference[oaicite:5]{index=5}
+A: Ya, mahasiswa asing wajib mengurus Visa Pelajar (Tipe C-316) melalui Kedutaan RI dan melapor ke Kantor Imigrasi Wonosobo setelah tiba. 
 
 Q: Apakah ada program internasional di UNSIQ?  
-A: Ada. UNSIQ bekerja sama dengan lembaga pendidikan Islam di Asia dan Timur Tengah untuk pertukaran mahasiswa dan dosen. :contentReference[oaicite:6]{index=6}
+A: Ada. UNSIQ bekerja sama dengan lembaga pendidikan Islam di Asia dan Timur Tengah untuk pertukaran mahasiswa dan dosen. 
 
 Q: Apakah UNSIQ menyediakan kelas berbahasa Inggris?  
-A: Beberapa mata kuliah umum dan penelitian internasional disediakan dalam bahasa Inggris, terutama di prodi Komunikasi Islam dan Teknik Informatika. :contentReference[oaicite:7]{index=7}
+A: Beberapa mata kuliah umum dan penelitian internasional disediakan dalam bahasa Inggris, terutama di prodi Komunikasi Islam dan Teknik Informatika. 
 
 Q: Apakah mahasiswa asing wajib tinggal di asrama?  
-A: Ya, sebagian besar wajib tinggal di Pondok Pesantren Mahasiswa (PONPESMA) untuk pembinaan akhlak dan adaptasi budaya lokal. :contentReference[oaicite:8]{index=8}
+A: Ya, sebagian besar wajib tinggal di Pondok Pesantren Mahasiswa (PONPESMA) untuk pembinaan akhlak dan adaptasi budaya lokal. 
 
 Q: Apakah UNSIQ membantu pengurusan izin tinggal mahasiswa asing?  
-A: Ya. Bagian Kerja Sama Internasional UNSIQ mendampingi proses administrasi visa belajar, KITAS, dan laporan ke Imigrasi. :contentReference[oaicite:9]{index=9}
+A: Ya. Bagian Kerja Sama Internasional UNSIQ mendampingi proses administrasi visa belajar, KITAS, dan laporan ke Imigrasi. 
 
 Q: Bagaimana mahasiswa asing belajar Bahasa Indonesia di UNSIQ?  
-A: Mereka mengikuti Program BIPA (Bahasa Indonesia untuk Penutur Asing) selama satu semester di bawah bimbingan Fakultas Bahasa dan Sastra. :contentReference[oaicite:10]{index=10}
+A: Mereka mengikuti Program BIPA (Bahasa Indonesia untuk Penutur Asing) selama satu semester di bawah bimbingan Fakultas Bahasa dan Sastra. 
 
 Q: Apakah mahasiswa asing bisa mendapat beasiswa UNSIQ?  
-A: Bisa, terutama Beasiswa Tahfidz dan Beasiswa Prestasi Internasional bagi yang memiliki hafalan Al-Qur’an atau prestasi akademik unggul. :contentReference[oaicite:11]{index=11}
+A: Bisa, terutama Beasiswa Tahfidz dan Beasiswa Prestasi Internasional bagi yang memiliki hafalan Al-Qur’an atau prestasi akademik unggul. 
 
 Q: Bagaimana proses seleksi mahasiswa asing UNSIQ?  
-A: Seleksi dilakukan secara online melalui pmb.unsiq.ac.id dan wawancara daring oleh tim admissions internasional. :contentReference[oaicite:12]{index=12}
+A: Seleksi dilakukan secara online melalui pmb.unsiq.ac.id dan wawancara daring oleh tim admissions internasional. 
 
 Q: Apakah mahasiswa asing wajib mengikuti program tahfidz?  
-A: Tidak wajib, tetapi dianjurkan mengikuti program Tahfidz atau Kuliah Plus Ngaji sebagai ciri khas UNSIQ. :contentReference[oaicite:13]{index=13}
+A: Tidak wajib, tetapi dianjurkan mengikuti program Tahfidz atau Kuliah Plus Ngaji sebagai ciri khas UNSIQ. 
 
 Q: Apakah mahasiswa asing bisa kuliah daring?  
-A: Beberapa program S1 dan S2 menyediakan opsi kuliah daring bagi mahasiswa luar negeri yang belum memiliki izin tinggal. :contentReference[oaicite:14]{index=14}
+A: Beberapa program S1 dan S2 menyediakan opsi kuliah daring bagi mahasiswa luar negeri yang belum memiliki izin tinggal. 
 
 Q: Apakah mahasiswa asing mendapat pembimbing akademik khusus?  
-A: Ya, mereka didampingi International Academic Advisor yang membantu adaptasi akademik dan administrasi kampus. :contentReference[oaicite:15]{index=15}
+A: Ya, mereka didampingi International Academic Advisor yang membantu adaptasi akademik dan administrasi kampus. 
 
 Q: Apakah UNSIQ bekerja sama dengan universitas luar negeri?  
-A: Ya, UNSIQ memiliki MoU dengan universitas di Malaysia dan Mesir untuk program pertukaran akademik dan riset Qur’ani. :contentReference[oaicite:16]{index=16}
+A: Ya, UNSIQ memiliki MoU dengan universitas di Malaysia dan Mesir untuk program pertukaran akademik dan riset Qur’ani. 
 Q: Apakah bisa pindah dari kampus lain ke UNSIQ?  
-A: Bisa. Mahasiswa dapat mengajukan permohonan pindahan dengan surat resmi ke Dekan dan melampirkan transkrip nilai serta surat rekomendasi dari kampus asal. :contentReference[oaicite:3]{index=3}
+A: Bisa. Mahasiswa dapat mengajukan permohonan pindahan dengan surat resmi ke Dekan dan melampirkan transkrip nilai serta surat rekomendasi dari kampus asal. 
 
 Q: Kapan waktu pengajuan pindahan ke UNSIQ?  
-A: Pengajuan dilakukan sebelum awal semester baru, agar proses konversi SKS dan penyesuaian kurikulum bisa selesai tepat waktu. :contentReference[oaicite:4]{index=4}
+A: Pengajuan dilakukan sebelum awal semester baru, agar proses konversi SKS dan penyesuaian kurikulum bisa selesai tepat waktu. 
 
 Q: Apakah semua prodi UNSIQ menerima mahasiswa pindahan?  
-A: Sebagian besar menerima, asalkan kuota kelas belum penuh dan kurikulum asal sesuai dengan standar akademik UNSIQ. :contentReference[oaicite:5]{index=5}
+A: Sebagian besar menerima, asalkan kuota kelas belum penuh dan kurikulum asal sesuai dengan standar akademik UNSIQ. 
 
 Q: Bagaimana prosedur pindah program studi di UNSIQ?  
-A: Mahasiswa mengajukan surat permohonan ke Dekan dengan persetujuan Ketua Prodi asal dan tujuan, disertai alasan akademik yang jelas. :contentReference[oaicite:6]{index=6}
+A: Mahasiswa mengajukan surat permohonan ke Dekan dengan persetujuan Ketua Prodi asal dan tujuan, disertai alasan akademik yang jelas. 
 
 Q: Apakah nilai kuliah lama akan dihitung di UNSIQ?  
-A: Ya, nilai akan dikaji melalui proses konversi SKS oleh Ketua Prodi berdasarkan kesesuaian materi kuliah. :contentReference[oaicite:7]{index=7}
+A: Ya, nilai akan dikaji melalui proses konversi SKS oleh Ketua Prodi berdasarkan kesesuaian materi kuliah. 
 
 Q: Berapa biaya pindahan ke UNSIQ?  
-A: Biaya pindahan bervariasi tergantung fakultas, namun meliputi administrasi konversi SKS dan pembayaran SPP semester berjalan. :contentReference[oaicite:8]{index=8}
+A: Biaya pindahan bervariasi tergantung fakultas, namun meliputi administrasi konversi SKS dan pembayaran SPP semester berjalan. 
 
 Q: Apakah harus mengulang mata kuliah di UNSIQ?  
-A: Hanya mata kuliah yang tidak setara dengan kurikulum UNSIQ yang perlu diulang. :contentReference[oaicite:9]{index=9}
+A: Hanya mata kuliah yang tidak setara dengan kurikulum UNSIQ yang perlu diulang. 
 
 Q: Apakah UNSIQ memberi surat penerimaan pindahan?  
-A: Ya, setelah disetujui Dekan, mahasiswa mendapatkan Surat Keputusan Penerimaan Pindahan sebagai dokumen resmi pendaftaran. :contentReference[oaicite:10]{index=10}
+A: Ya, setelah disetujui Dekan, mahasiswa mendapatkan Surat Keputusan Penerimaan Pindahan sebagai dokumen resmi pendaftaran. 
 
 Q: Bisakah pindahan dari PTN ke UNSIQ?  
-A: Bisa. Asal melampirkan surat keluar dari PTN asal dan transkrip nilai yang disahkan. :contentReference[oaicite:11]{index=11}
+A: Bisa. Asal melampirkan surat keluar dari PTN asal dan transkrip nilai yang disahkan. 
 
 Q: Bagaimana kalau ingin pindah dari UNSIQ ke kampus lain?  
-A: Ajukan surat pengunduran diri ke Dekan dan minta surat keluar serta transkrip resmi dari BAAK UNSIQ. :contentReference[oaicite:12]{index=12}
+A: Ajukan surat pengunduran diri ke Dekan dan minta surat keluar serta transkrip resmi dari BAAK UNSIQ. 
 
 Q: Apakah bisa pindah ke prodi berbeda fakultas?  
-A: Bisa, selama memenuhi syarat nilai minimal dan kuota kelas tersedia pada fakultas tujuan. :contentReference[oaicite:13]{index=13}
+A: Bisa, selama memenuhi syarat nilai minimal dan kuota kelas tersedia pada fakultas tujuan. 
 
 Q: Berapa lama proses pindahan disetujui?  
-A: Sekitar 7–14 hari kerja setelah berkas lengkap diperiksa oleh fakultas dan BAAK. :contentReference[oaicite:14]{index=14}
+A: Sekitar 7–14 hari kerja setelah berkas lengkap diperiksa oleh fakultas dan BAAK. 
 
 Q: Apakah ada batas semester untuk pindahan?  
-A: Paling lambat semester 5 (S1) atau semester 3 (D3), agar jumlah SKS terkonversi masih relevan. :contentReference[oaicite:15]{index=15}
+A: Paling lambat semester 5 (S1) atau semester 3 (D3), agar jumlah SKS terkonversi masih relevan. 
 
 Q: Apakah pindahan mendapat orientasi ulang?  
-A: Ya, mahasiswa pindahan mengikuti PBAK khusus untuk pengenalan sistem akademik dan budaya kampus UNSIQ. :contentReference[oaicite:16]{index=16}
+A: Ya, mahasiswa pindahan mengikuti PBAK khusus untuk pengenalan sistem akademik dan budaya kampus UNSIQ. 
 
 Q: Apakah bisa mendapat beasiswa setelah pindah?  
-A: Bisa, setelah aktif satu semester dan memenuhi syarat IPK serta keaktifan organisasi kampus. :contentReference[oaicite:17]{index=17}
+A: Bisa, setelah aktif satu semester dan memenuhi syarat IPK serta keaktifan organisasi kampus. 
 
 Q: Apakah mahasiswa pindahan harus membuat akun PMB?  
-A: Ya, pindahan menggunakan akun khusus PMB jalur transfer untuk unggah dokumen dan verifikasi. :contentReference[oaicite:18]{index=18}
+A: Ya, pindahan menggunakan akun khusus PMB jalur transfer untuk unggah dokumen dan verifikasi. 
 
 Q: Apakah ada kuota maksimal pindahan?  
-A: Setiap prodi menetapkan kuota berdasarkan ketersediaan kelas dan kapasitas dosen pembimbing. :contentReference[oaicite:19]{index=19}
+A: Setiap prodi menetapkan kuota berdasarkan ketersediaan kelas dan kapasitas dosen pembimbing. 
 
 Q: Apakah pindahan dapat melanjutkan skripsi yang sudah dikerjakan?  
-A: Hanya jika topik dan metodologi disetujui oleh pembimbing baru di UNSIQ. :contentReference[oaicite:20]{index=20}
+A: Hanya jika topik dan metodologi disetujui oleh pembimbing baru di UNSIQ. 
 
 Q: Apakah mahasiswa pindahan dapat akses e-learning UNSIQ?  
-A: Ya, setelah aktivasi NIM dan akun akd.unsiq.ac.id selesai, semua layanan online tersedia. :contentReference[oaicite:21]{index=21}
+A: Ya, setelah aktivasi NIM dan akun akd.unsiq.ac.id selesai, semua layanan online tersedia. 
 
 Q: Apakah UNSIQ memberikan surat keterangan pindah keluar?  
-A: Ya, untuk mahasiswa yang keluar secara resmi melalui Dekan dan BAAK. :contentReference[oaicite:22]{index=22}
+A: Ya, untuk mahasiswa yang keluar secara resmi melalui Dekan dan BAAK. 
 Q: Apakah UNSIQ memiliki klinik kesehatan kampus?  
-A: Ya. Klinik UNSIQ melayani mahasiswa dan dosen untuk pemeriksaan umum, pengobatan ringan, serta konseling kesehatan dengan dokter kampus. :contentReference[oaicite:0]{index=0}
+A: Ya. Klinik UNSIQ melayani mahasiswa dan dosen untuk pemeriksaan umum, pengobatan ringan, serta konseling kesehatan dengan dokter kampus. 
 
 Q: Apakah mahasiswa dikenakan biaya di klinik kampus?  
-A: Tidak. Pemeriksaan dasar gratis, sedangkan obat tertentu dikenakan biaya ringan dengan subsidi universitas. :contentReference[oaicite:1]{index=1}
+A: Tidak. Pemeriksaan dasar gratis, sedangkan obat tertentu dikenakan biaya ringan dengan subsidi universitas. 
 
 Q: Apakah ada layanan konseling di UNSIQ?  
-A: Ada. Lembaga Bimbingan dan Konseling UNSIQ memberi pendampingan akademik, psikologis, dan spiritual bagi mahasiswa. :contentReference[oaicite:2]{index=2}
+A: Ada. Lembaga Bimbingan dan Konseling UNSIQ memberi pendampingan akademik, psikologis, dan spiritual bagi mahasiswa. 
 
 Q: Apakah UNSIQ memiliki kantin mahasiswa?  
-A: Ya, terdapat beberapa kantin di setiap fakultas dengan menu sehat, harga terjangkau, dan area makan bersih. :contentReference[oaicite:3]{index=3}
+A: Ya, terdapat beberapa kantin di setiap fakultas dengan menu sehat, harga terjangkau, dan area makan bersih. 
 
 Q: Apakah kampus menyediakan akses Wi-Fi gratis?  
-A: Ya. Seluruh area kampus dilengkapi Wi-Fi gratis berkecepatan tinggi untuk akses e-learning dan jurnal online. :contentReference[oaicite:4]{index=4}
+A: Ya. Seluruh area kampus dilengkapi Wi-Fi gratis berkecepatan tinggi untuk akses e-learning dan jurnal online. 
 
 Q: Bagaimana layanan administrasi mahasiswa UNSIQ?  
-A: Semua urusan akademik, keuangan, dan surat-menyurat dilakukan melalui portal akd.unsiq.ac.id atau loket BAAK kampus. :contentReference[oaicite:5]{index=5}
+A: Semua urusan akademik, keuangan, dan surat-menyurat dilakukan melalui portal akd.unsiq.ac.id atau loket BAAK kampus. 
 
 Q: Apakah UNSIQ memiliki layanan beasiswa aktif?  
-A: Ya. Bagian Kemahasiswaan UNSIQ melayani pendaftaran, verifikasi, dan konsultasi semua jenis beasiswa setiap semester. :contentReference[oaicite:6]{index=6}
+A: Ya. Bagian Kemahasiswaan UNSIQ melayani pendaftaran, verifikasi, dan konsultasi semua jenis beasiswa setiap semester. 
 
 Q: Apakah UNSIQ menyediakan layanan karier bagi mahasiswa?  
-A: Ada. Career Center UNSIQ membantu mahasiswa mencari magang, pelatihan kerja, dan penyaluran alumni ke mitra industri. :contentReference[oaicite:7]{index=7}
+A: Ada. Career Center UNSIQ membantu mahasiswa mencari magang, pelatihan kerja, dan penyaluran alumni ke mitra industri. 
 
 Q: Apakah ada ruang laktasi atau kesehatan perempuan?  
-A: Ya. FIKES menyediakan ruang laktasi dan ruang istirahat khusus mahasiswi untuk kenyamanan selama aktivitas kuliah. :contentReference[oaicite:8]{index=8}
+A: Ya. FIKES menyediakan ruang laktasi dan ruang istirahat khusus mahasiswi untuk kenyamanan selama aktivitas kuliah. 
 
 Q: Apakah UNSIQ memiliki pusat informasi mahasiswa?  
-A: Ada Student Service Center yang melayani informasi akademik, fasilitas kampus, serta keluhan mahasiswa melalui loket dan nomor WhatsApp resmi. :contentReference[oaicite:9]{index=9}
+A: Ada Student Service Center yang melayani informasi akademik, fasilitas kampus, serta keluhan mahasiswa melalui loket dan nomor WhatsApp resmi. 
 Q: Apa yang dimaksud program tahfidz di UNSIQ?  
-A: Program Tahfidz UNSIQ adalah pembinaan hafalan Al-Qur’an bagi mahasiswa, dibimbing langsung oleh para hafidz di pesantren afiliasi kampus. :contentReference[oaicite:0]{index=0}
+A: Program Tahfidz UNSIQ adalah pembinaan hafalan Al-Qur’an bagi mahasiswa, dibimbing langsung oleh para hafidz di pesantren afiliasi kampus. 
 
 Q: Apakah program tahfidz wajib di UNSIQ?  
-A: Tidak semua wajib, tetapi prodi tertentu seperti Pendidikan Agama Islam dan Ilmu Al-Qur’an mendorong mahasiswa mengikuti program tahfidz secara aktif. :contentReference[oaicite:1]{index=1}
+A: Tidak semua wajib, tetapi prodi tertentu seperti Pendidikan Agama Islam dan Ilmu Al-Qur’an mendorong mahasiswa mengikuti program tahfidz secara aktif. 
 
 Q: Berapa minimal hafalan untuk program tahfidz UNSIQ?  
-A: Minimal targetnya dua juz, namun mahasiswa bisa menyesuaikan kapasitas dengan bimbingan intensif di Pondok Pesantren Mahasiswa (PONPESMA). :contentReference[oaicite:2]{index=2}
+A: Minimal targetnya dua juz, namun mahasiswa bisa menyesuaikan kapasitas dengan bimbingan intensif di Pondok Pesantren Mahasiswa (PONPESMA). 
 
 Q: Siapa pembimbing program tahfidz UNSIQ?  
-A: Dosen dan ustadz hafidz bersanad Al-Qur’an yang berpengalaman mengajar di pesantren binaan UNSIQ Wonosobo. :contentReference[oaicite:3]{index=3}
+A: Dosen dan ustadz hafidz bersanad Al-Qur’an yang berpengalaman mengajar di pesantren binaan UNSIQ Wonosobo. 
 
 Q: Apakah UNSIQ memiliki kajian rutin kampus?  
-A: Ya, terdapat kajian rutin tafsir, hadits, dan akhlak yang diadakan setiap pekan di masjid kampus oleh Lembaga Dakwah Kampus. :contentReference[oaicite:4]{index=4}
+A: Ya, terdapat kajian rutin tafsir, hadits, dan akhlak yang diadakan setiap pekan di masjid kampus oleh Lembaga Dakwah Kampus. 
 
 Q: Di mana lokasi kajian mahasiswa UNSIQ?  
-A: Kajian diadakan di Masjid UNSIQ Kalibeber dan aula pesantren afiliasi dengan tema keislaman dan kepemimpinan Qur’ani. :contentReference[oaicite:5]{index=5}
+A: Kajian diadakan di Masjid UNSIQ Kalibeber dan aula pesantren afiliasi dengan tema keislaman dan kepemimpinan Qur’ani. 
 
 Q: Apakah UNSIQ mengadakan pesantren kilat Ramadan?  
-A: Ya, setiap Ramadan diadakan Pesantren Kilat Kampus yang diikuti seluruh mahasiswa lintas fakultas untuk memperdalam ilmu agama dan tahsin. :contentReference[oaicite:6]{index=6}
+A: Ya, setiap Ramadan diadakan Pesantren Kilat Kampus yang diikuti seluruh mahasiswa lintas fakultas untuk memperdalam ilmu agama dan tahsin. 
 
 Q: Apa itu PBAK di UNSIQ?  
-A: PBAK (Pengenalan Budaya Akademik dan Kemahasiswaan) adalah kegiatan orientasi berbasis nilai Qur’ani yang menggabungkan pembinaan akademik dan spiritual. :contentReference[oaicite:7]{index=7}
+A: PBAK (Pengenalan Budaya Akademik dan Kemahasiswaan) adalah kegiatan orientasi berbasis nilai Qur’ani yang menggabungkan pembinaan akademik dan spiritual. 
 
 Q: Apakah UNSIQ memiliki kegiatan keputrian?  
-A: Ada. Muslimah UNSIQ rutin mengadakan kajian keputrian, pelatihan akhlak, dan kegiatan sosial khusus mahasiswa perempuan. :contentReference[oaicite:8]{index=8}
+A: Ada. Muslimah UNSIQ rutin mengadakan kajian keputrian, pelatihan akhlak, dan kegiatan sosial khusus mahasiswa perempuan. 
 
 Q: Apakah UNSIQ memiliki lembaga dakwah mahasiswa?  
-A: Ya, Lembaga Dakwah Kampus Al-Ittihad menjadi pusat kegiatan dakwah, mentoring, dan kajian Islam mahasiswa. :contentReference[oaicite:9]{index=9}
+A: Ya, Lembaga Dakwah Kampus Al-Ittihad menjadi pusat kegiatan dakwah, mentoring, dan kajian Islam mahasiswa. 
 
 Q: Apakah UNSIQ memperingati hari besar Islam?  
-A: Ya, UNSIQ rutin menyelenggarakan Maulid Nabi, Isra Mi’raj, dan Nuzulul Qur’an dengan pengajian terbuka di kampus utama. :contentReference[oaicite:10]{index=10}
+A: Ya, UNSIQ rutin menyelenggarakan Maulid Nabi, Isra Mi’raj, dan Nuzulul Qur’an dengan pengajian terbuka di kampus utama. 
 
 Q: Apakah kegiatan rohani di UNSIQ bersifat wajib?  
-A: Sebagian kegiatan seperti ngaji harian di pesantren wajib untuk mahasiswa pondok, sedangkan kegiatan kampus bersifat pembinaan umum. :contentReference[oaicite:11]{index=11}
+A: Sebagian kegiatan seperti ngaji harian di pesantren wajib untuk mahasiswa pondok, sedangkan kegiatan kampus bersifat pembinaan umum. 
 
 Q: Apakah mahasiswa bisa jadi panitia kegiatan dakwah?  
-A: Bisa. Mahasiswa aktif dapat bergabung menjadi panitia acara keagamaan melalui LDK atau UKM Rohis. :contentReference[oaicite:12]{index=12}
+A: Bisa. Mahasiswa aktif dapat bergabung menjadi panitia acara keagamaan melalui LDK atau UKM Rohis. 
 
 Q: Apakah UNSIQ menyediakan halaqah Al-Qur’an?  
-A: Ada. Setiap pekan diadakan halaqah Al-Qur’an terbimbing untuk meningkatkan bacaan dan hafalan mahasiswa. :contentReference[oaicite:13]{index=13}
+A: Ada. Setiap pekan diadakan halaqah Al-Qur’an terbimbing untuk meningkatkan bacaan dan hafalan mahasiswa. 
 
 Q: Apakah UNSIQ punya kegiatan pengabdian berbasis dakwah?  
-A: Ya, UNSIQ memiliki KKN Dakwah dan Safari Ramadhan yang mengirim mahasiswa ke desa untuk berdakwah dan mengajar Al-Qur’an. :contentReference[oaicite:14]{index=14}
+A: Ya, UNSIQ memiliki KKN Dakwah dan Safari Ramadhan yang mengirim mahasiswa ke desa untuk berdakwah dan mengajar Al-Qur’an. 
 Q: Apakah UNSIQ mewajibkan mahasiswa ikut KKN?  
-A: Ya, Kuliah Kerja Nyata (KKN) wajib bagi seluruh mahasiswa S1 sebagai bentuk pengabdian masyarakat terintegrasi dengan visi Qur’ani dan sosial universitas. :contentReference[oaicite:2]{index=2}
+A: Ya, Kuliah Kerja Nyata (KKN) wajib bagi seluruh mahasiswa S1 sebagai bentuk pengabdian masyarakat terintegrasi dengan visi Qur’ani dan sosial universitas. 
 
 Q: Kapan pelaksanaan KKN di UNSIQ?  
-A: Umumnya pada semester 6 selama 1 bulan penuh di desa-desa binaan UNSIQ Wonosobo dan sekitarnya. :contentReference[oaicite:3]{index=3}
+A: Umumnya pada semester 6 selama 1 bulan penuh di desa-desa binaan UNSIQ Wonosobo dan sekitarnya. 
 
 Q: Apakah UNSIQ punya program magang industri?  
-A: Ada. Setiap prodi memiliki program magang/PKL minimal 1 bulan di instansi mitra sesuai bidang keahlian mahasiswa. :contentReference[oaicite:4]{index=4}
+A: Ada. Setiap prodi memiliki program magang/PKL minimal 1 bulan di instansi mitra sesuai bidang keahlian mahasiswa. 
 
 Q: Di mana lokasi KKN UNSIQ biasanya dilakukan?  
-A: Lokasi KKN tersebar di wilayah Wonosobo, Banjarnegara, dan Temanggung melalui kerja sama pemerintah desa mitra. :contentReference[oaicite:5]{index=5}
+A: Lokasi KKN tersebar di wilayah Wonosobo, Banjarnegara, dan Temanggung melalui kerja sama pemerintah desa mitra. 
 
 Q: Apakah ada program pertukaran mahasiswa?  
-A: Ya, UNSIQ aktif mengikuti Pertukaran Mahasiswa Merdeka Kemdikbud dan kolaborasi antar PT Islam Indonesia. :contentReference[oaicite:6]{index=6}
+A: Ya, UNSIQ aktif mengikuti Pertukaran Mahasiswa Merdeka Kemdikbud dan kolaborasi antar PT Islam Indonesia. 
 
 Q: Apakah mahasiswa wajib mengikuti seminar proposal?  
-A: Wajib. Seminar proposal merupakan syarat utama menuju penyusunan skripsi agar topik dan metodologi terarah secara ilmiah. :contentReference[oaicite:7]{index=7}
+A: Wajib. Seminar proposal merupakan syarat utama menuju penyusunan skripsi agar topik dan metodologi terarah secara ilmiah. 
 
 Q: Apakah UNSIQ menyediakan bimbingan skripsi online?  
-A: Ya, bimbingan skripsi dapat dilakukan secara daring melalui portal akademik kampus dan email dosen pembimbing. :contentReference[oaicite:8]{index=8}
+A: Ya, bimbingan skripsi dapat dilakukan secara daring melalui portal akademik kampus dan email dosen pembimbing. 
 
 Q: Bagaimana sistem ujian akhir di UNSIQ?  
-A: Ujian akhir dilaksanakan setiap akhir semester dengan format tertulis dan praktik tergantung mata kuliah serta program studi. :contentReference[oaicite:9]{index=9}
+A: Ujian akhir dilaksanakan setiap akhir semester dengan format tertulis dan praktik tergantung mata kuliah serta program studi. 
 
 Q: Apakah UNSIQ memiliki sistem e-learning?  
-A: Ya. UNSIQ menggunakan platform e-learning terpadu untuk kuliah online dan akses materi ajar dosen. :contentReference[oaicite:10]{index=10}
+A: Ya. UNSIQ menggunakan platform e-learning terpadu untuk kuliah online dan akses materi ajar dosen. 
 
 Q: Apakah mahasiswa bisa mengambil semester pendek?  
-A: Bisa, dengan biaya tertentu untuk mengulang mata kuliah atau mempercepat kelulusan. :contentReference[oaicite:11]{index=11}
+A: Bisa, dengan biaya tertentu untuk mengulang mata kuliah atau mempercepat kelulusan. 
 
 Q: Apakah UNSIQ memiliki kegiatan penelitian mahasiswa?  
-A: Ya. Melalui Lembaga Penelitian dan UKM Riset, mahasiswa didorong menulis artikel ilmiah dan mengikuti kompetisi nasional. :contentReference[oaicite:12]{index=12}
+A: Ya. Melalui Lembaga Penelitian dan UKM Riset, mahasiswa didorong menulis artikel ilmiah dan mengikuti kompetisi nasional. 
 
 Q: Apakah ada lomba akademik antar prodi di UNSIQ?  
-A: Ada. Tiap tahun diadakan Academic Competition Day untuk melatih kemampuan argumentasi dan presentasi ilmiah. :contentReference[oaicite:13]{index=13}
+A: Ada. Tiap tahun diadakan Academic Competition Day untuk melatih kemampuan argumentasi dan presentasi ilmiah. 
 
 Q: Apakah mahasiswa boleh riset di luar kampus?  
-A: Boleh. Penelitian lapangan bisa dilakukan di instansi mitra dengan izin pembimbing dan surat tugas resmi. :contentReference[oaicite:14]{index=14}
+A: Boleh. Penelitian lapangan bisa dilakukan di instansi mitra dengan izin pembimbing dan surat tugas resmi. 
 
 Q: Bagaimana bentuk kegiatan praktikum di UNSIQ?  
-A: Praktikum dilaksanakan di laboratorium tiap fakultas dengan dosen pendamping dan laporan akhir terstruktur. :contentReference[oaicite:15]{index=15}
+A: Praktikum dilaksanakan di laboratorium tiap fakultas dengan dosen pendamping dan laporan akhir terstruktur. 
 
 Q: Apakah ada kuliah umum di UNSIQ?  
-A: Ya. Kuliah umum rutin menghadirkan tokoh nasional dan ulama untuk memperluas wawasan mahasiswa. :contentReference[oaicite:16]{index=16}
+A: Ya. Kuliah umum rutin menghadirkan tokoh nasional dan ulama untuk memperluas wawasan mahasiswa. 
 
 Q: Apakah kegiatan akademik terintegrasi dengan pesantren?  
-A: Ya. Model “kuliah plus ngaji” menggabungkan ilmu akademik dan kajian keagamaan harian di pesantren afiliasi. :contentReference[oaicite:17]{index=17}
+A: Ya. Model “kuliah plus ngaji” menggabungkan ilmu akademik dan kajian keagamaan harian di pesantren afiliasi. 
 
 Q: Apakah UNSIQ menerapkan sistem SKS nasional?  
-A: Ya, semua program mengikuti ketentuan Kemdikbud dengan bobot 144 SKS untuk S1 dan 72 SKS untuk D3. :contentReference[oaicite:18]{index=18}
+A: Ya, semua program mengikuti ketentuan Kemdikbud dengan bobot 144 SKS untuk S1 dan 72 SKS untuk D3. 
 
 Q: Apakah ada program KKN tematik keagamaan?  
-A: Ada KKN Santri dan KKN Tahfidz yang fokus pada pengabdian ke masyarakat berbasis Al-Qur’an dan literasi Islam. :contentReference[oaicite:19]{index=19}
+A: Ada KKN Santri dan KKN Tahfidz yang fokus pada pengabdian ke masyarakat berbasis Al-Qur’an dan literasi Islam. 
 
 Q: Apakah UNSIQ memfasilitasi kuliah lintas prodi?  
-A: Ya, mahasiswa bisa mengambil mata kuliah lintas program melalui skema Kampus Merdeka dan izin prodi terkait. :contentReference[oaicite:20]{index=20}
+A: Ya, mahasiswa bisa mengambil mata kuliah lintas program melalui skema Kampus Merdeka dan izin prodi terkait. 
 
 Q: Apakah ada jadwal akademik terpusat di UNSIQ?  
-A: Ada. Semua agenda akademik resmi dipublikasikan melalui portal akademik akd.unsiq.ac.id dan grup info mahasiswa. :contentReference[oaicite:21]{index=21}
+A: Ada. Semua agenda akademik resmi dipublikasikan melalui portal akademik akd.unsiq.ac.id dan grup info mahasiswa. 
 Q: Apakah UNSIQ memiliki Unit Kegiatan Mahasiswa (UKM)?  
 A: Ya, UNSIQ memiliki lebih dari 20 UKM aktif yang bergerak di bidang seni, olahraga, dakwah, riset, sosial, dan kewirausahaan.
 
 Q: UKM apa saja yang tersedia di UNSIQ?  
-A: Ada UKM Pramuka, LDK Al-Ittihad, KSR PMI, Teater Q, Paduan Suara, Pencak Silat, Mapala Q, dan Jurnalistik Mahasiswa. :contentReference[oaicite:0]{index=0}
+A: Ada UKM Pramuka, LDK Al-Ittihad, KSR PMI, Teater Q, Paduan Suara, Pencak Silat, Mapala Q, dan Jurnalistik Mahasiswa. 
 
 Q: Bagaimana cara bergabung dengan UKM di UNSIQ?  
-A: Mahasiswa dapat mendaftar melalui expo organisasi saat PBAK atau langsung ke sekretariat UKM masing-masing di area kampus. :contentReference[oaicite:1]{index=1}
+A: Mahasiswa dapat mendaftar melalui expo organisasi saat PBAK atau langsung ke sekretariat UKM masing-masing di area kampus. 
 
 Q: Apakah bergabung UKM diwajibkan untuk mahasiswa baru?  
-A: Tidak wajib, tapi sangat dianjurkan agar mahasiswa mengembangkan soft skill, kepemimpinan, dan relasi lintas fakultas. :contentReference[oaicite:2]{index=2}
+A: Tidak wajib, tapi sangat dianjurkan agar mahasiswa mengembangkan soft skill, kepemimpinan, dan relasi lintas fakultas. 
 
 Q: Apa manfaat ikut organisasi kampus di UNSIQ?  
-A: Melatih tanggung jawab, komunikasi, teamwork, dan meningkatkan nilai kepemimpinan berbasis karakter Qur’ani yang menjadi ciri khas UNSIQ. :contentReference[oaicite:3]{index=3}
+A: Melatih tanggung jawab, komunikasi, teamwork, dan meningkatkan nilai kepemimpinan berbasis karakter Qur’ani yang menjadi ciri khas UNSIQ. 
 
 Q: Siapa yang membina UKM di UNSIQ?  
-A: Setiap UKM dibina oleh dosen pembimbing dan diawasi oleh Bagian Kemahasiswaan Universitas. :contentReference[oaicite:4]{index=4}
+A: Setiap UKM dibina oleh dosen pembimbing dan diawasi oleh Bagian Kemahasiswaan Universitas. 
 
 Q: Apakah UNSIQ punya Badan Eksekutif Mahasiswa (BEM)?  
-A: Ya. BEM ada di tingkat universitas dan fakultas untuk menampung aspirasi mahasiswa dan menjalankan kegiatan kampus. :contentReference[oaicite:5]{index=5}
+A: Ya. BEM ada di tingkat universitas dan fakultas untuk menampung aspirasi mahasiswa dan menjalankan kegiatan kampus. 
 
 Q: Apa saja organisasi di bawah BEM UNSIQ?  
-A: Ada DPM, Himpunan Mahasiswa Jurusan, UKM tematik, dan Komunitas Kreatif yang bekerja sama dalam kegiatan kampus tahunan. :contentReference[oaicite:6]{index=6}
+A: Ada DPM, Himpunan Mahasiswa Jurusan, UKM tematik, dan Komunitas Kreatif yang bekerja sama dalam kegiatan kampus tahunan. 
 
 Q: Apakah ada organisasi dakwah di UNSIQ?  
-A: Ada LDK Al-Ittihad yang fokus membina rohani, kajian Islam, dan kegiatan sosial keagamaan mahasiswa. :contentReference[oaicite:7]{index=7}
+A: Ada LDK Al-Ittihad yang fokus membina rohani, kajian Islam, dan kegiatan sosial keagamaan mahasiswa. 
 
 Q: Apakah ada organisasi khusus perempuan?  
-A: Ada komunitas Muslimah UNSIQ yang mengadakan kajian keputrian, pelatihan, dan bakti sosial rutin. :contentReference[oaicite:8]{index=8}
+A: Ada komunitas Muslimah UNSIQ yang mengadakan kajian keputrian, pelatihan, dan bakti sosial rutin. 
 
 Q: Apakah UNSIQ mendukung kegiatan kewirausahaan mahasiswa?  
-A: Ya, melalui UKM Kewirausahaan dan Inkubator Bisnis Kampus yang membantu mahasiswa merintis usaha kecil. :contentReference[oaicite:9]{index=9}
+A: Ya, melalui UKM Kewirausahaan dan Inkubator Bisnis Kampus yang membantu mahasiswa merintis usaha kecil. 
 
 Q: Apakah ada organisasi riset di UNSIQ?  
-A: Ada UKM Riset dan Karya Ilmiah Mahasiswa (KIM) yang aktif dalam lomba nasional dan pelatihan publikasi ilmiah. :contentReference[oaicite:10]{index=10}
+A: Ada UKM Riset dan Karya Ilmiah Mahasiswa (KIM) yang aktif dalam lomba nasional dan pelatihan publikasi ilmiah. 
 
 Q: Apakah UNSIQ punya organisasi seni budaya?  
-A: Ada UKM Teater Q dan Paduan Suara Kampus yang rutin tampil di acara wisuda, festival, dan lomba nasional. :contentReference[oaicite:11]{index=11}
+A: Ada UKM Teater Q dan Paduan Suara Kampus yang rutin tampil di acara wisuda, festival, dan lomba nasional. 
 
 Q: Apakah mahasiswa bisa membuat komunitas baru di UNSIQ?  
-A: Bisa, asalkan mengajukan proposal resmi ke Bagian Kemahasiswaan dan memiliki minimal 15 anggota aktif. :contentReference[oaicite:12]{index=12}
+A: Bisa, asalkan mengajukan proposal resmi ke Bagian Kemahasiswaan dan memiliki minimal 15 anggota aktif. 
 
 Q: Apakah UNSIQ memiliki kegiatan sosial mahasiswa?  
-A: Ya, UKM KSR PMI UNSIQ rutin mengadakan donor darah, penanggulangan bencana, dan pelatihan relawan. :contentReference[oaicite:13]{index=13}
+A: Ya, UKM KSR PMI UNSIQ rutin mengadakan donor darah, penanggulangan bencana, dan pelatihan relawan. 
 
 Q: Apakah organisasi di UNSIQ berafiliasi dengan luar kampus?  
-A: Beberapa UKM seperti Pramuka dan KSR terdaftar di lembaga nasional untuk kegiatan eksternal. :contentReference[oaicite:14]{index=14}
+A: Beberapa UKM seperti Pramuka dan KSR terdaftar di lembaga nasional untuk kegiatan eksternal. 
 
 Q: Apakah ada organisasi olahraga di UNSIQ?  
-A: Ada UKM Olahraga yang menaungi futsal, voli, basket, dan bela diri, dengan latihan rutin setiap minggu. :contentReference[oaicite:15]{index=15}
+A: Ada UKM Olahraga yang menaungi futsal, voli, basket, dan bela diri, dengan latihan rutin setiap minggu. 
 
 Q: Apakah mahasiswa mendapat poin aktivitas dari UKM?  
-A: Ya, aktivitas UKM dihitung sebagai SKP (Satuan Kredit Partisipasi) yang mendukung kelulusan dan sertifikat prestasi. :contentReference[oaicite:16]{index=16}
+A: Ya, aktivitas UKM dihitung sebagai SKP (Satuan Kredit Partisipasi) yang mendukung kelulusan dan sertifikat prestasi. 
 
 Q: Apakah UNSIQ mengadakan lomba antar-UKM?  
-A: Ya, setiap tahun diadakan UNSIQ Fair yang menampilkan pameran, kompetisi, dan penampilan UKM terbaik. :contentReference[oaicite:17]{index=17}
+A: Ya, setiap tahun diadakan UNSIQ Fair yang menampilkan pameran, kompetisi, dan penampilan UKM terbaik. 
 
 Q: Apakah kegiatan UKM mempengaruhi beasiswa?  
-A: Bisa, mahasiswa aktif organisasi dan berprestasi berpeluang mendapatkan Beasiswa Aktivis UNSIQ. :contentReference[oaicite:18]{index=18}
+A: Bisa, mahasiswa aktif organisasi dan berprestasi berpeluang mendapatkan Beasiswa Aktivis UNSIQ. 
 Q: Apakah UNSIQ memiliki perpustakaan pusat?  
-A: Ya, UNSIQ memiliki Perpustakaan Pusat di Kampus 1 Kalibeber yang menyediakan koleksi cetak, digital, dan akses jurnal nasional serta internasional. :contentReference[oaicite:0]{index=0}
+A: Ya, UNSIQ memiliki Perpustakaan Pusat di Kampus 1 Kalibeber yang menyediakan koleksi cetak, digital, dan akses jurnal nasional serta internasional. 
 
 Q: Apa saja layanan di perpustakaan UNSIQ?  
-A: Layanan meliputi peminjaman buku, e-library, repository skripsi, ruang baca nyaman, dan akses e-journal berbasis akun mahasiswa. :contentReference[oaicite:1]{index=1}
+A: Layanan meliputi peminjaman buku, e-library, repository skripsi, ruang baca nyaman, dan akses e-journal berbasis akun mahasiswa. 
 
 Q: Apakah UNSIQ punya perpustakaan digital?  
-A: Ada. Mahasiswa bisa mengakses e-library.unsiq.ac.id untuk membaca ribuan jurnal dan buku elektronik. :contentReference[oaicite:2]{index=2}
+A: Ada. Mahasiswa bisa mengakses e-library.unsiq.ac.id untuk membaca ribuan jurnal dan buku elektronik. 
 
 Q: Bagaimana cara meminjam buku di perpustakaan UNSIQ?  
-A: Mahasiswa cukup membawa kartu identitas kampus dan melakukan pemindaian barcode buku di sistem peminjaman digital. :contentReference[oaicite:3]{index=3}
+A: Mahasiswa cukup membawa kartu identitas kampus dan melakukan pemindaian barcode buku di sistem peminjaman digital. 
 
 Q: Apakah perpustakaan UNSIQ buka setiap hari?  
-A: Ya, buka Senin–Jumat pukul 08.00–17.00 dan Sabtu sampai pukul 13.00. Hari Minggu dan libur nasional tutup. :contentReference[oaicite:4]{index=4}
+A: Ya, buka Senin–Jumat pukul 08.00–17.00 dan Sabtu sampai pukul 13.00. Hari Minggu dan libur nasional tutup. 
 
 Q: Apakah UNSIQ punya laboratorium komputer?  
-A: Ada. FASTIKOM memiliki lima laboratorium komputer berfasilitas lengkap untuk praktikum pemrograman, jaringan, dan desain grafis. :contentReference[oaicite:5]{index=5}
+A: Ada. FASTIKOM memiliki lima laboratorium komputer berfasilitas lengkap untuk praktikum pemrograman, jaringan, dan desain grafis. 
 
 Q: Apakah Fakultas Kesehatan punya laboratorium sendiri?  
-A: Ya. FIKES memiliki lab keperawatan, kebidanan, anatomi, dan keterampilan klinik dengan alat simulasi modern. :contentReference[oaicite:6]{index=6}
+A: Ya. FIKES memiliki lab keperawatan, kebidanan, anatomi, dan keterampilan klinik dengan alat simulasi modern. 
 
 Q: Apakah UNSIQ punya laboratorium bahasa?  
-A: Ada laboratorium bahasa interaktif yang mendukung pembelajaran Bahasa Arab dan Inggris dengan perangkat listening modern. :contentReference[oaicite:7]{index=7}
+A: Ada laboratorium bahasa interaktif yang mendukung pembelajaran Bahasa Arab dan Inggris dengan perangkat listening modern. 
 
 Q: Bagaimana fasilitas laboratorium di Fakultas Teknik?  
-A: FASTIKOM dan Teknik memiliki laboratorium mekanika, fisika bangunan, CAD, dan uji material untuk mendukung riset serta proyek mahasiswa. :contentReference[oaicite:8]{index=8}
+A: FASTIKOM dan Teknik memiliki laboratorium mekanika, fisika bangunan, CAD, dan uji material untuk mendukung riset serta proyek mahasiswa. 
 
 Q: Apakah mahasiswa bisa melakukan penelitian di lab kampus?  
-A: Bisa. Semua laboratorium UNSIQ terbuka untuk penelitian tugas akhir dan kolaborasi lintas fakultas. :contentReference[oaicite:9]{index=9}
+A: Bisa. Semua laboratorium UNSIQ terbuka untuk penelitian tugas akhir dan kolaborasi lintas fakultas. 
 
 Q: Apakah perpustakaan UNSIQ memiliki koneksi Wi-Fi?  
-A: Ya, seluruh area perpustakaan dilengkapi jaringan Wi-Fi berkecepatan tinggi untuk riset dan penulisan ilmiah. :contentReference[oaicite:10]{index=10}
+A: Ya, seluruh area perpustakaan dilengkapi jaringan Wi-Fi berkecepatan tinggi untuk riset dan penulisan ilmiah. 
 
 Q: Apakah UNSIQ memiliki ruang baca 24 jam?  
-A: Ada ruang baca khusus mahasiswa tingkat akhir yang buka hingga pukul 22.00 untuk penyusunan skripsi dan riset. :contentReference[oaicite:11]{index=11}
+A: Ada ruang baca khusus mahasiswa tingkat akhir yang buka hingga pukul 22.00 untuk penyusunan skripsi dan riset. 
 
 Q: Apakah perpustakaan UNSIQ menyediakan referensi skripsi?  
-A: Ya, tersedia repository digital berisi ribuan skripsi dan tesis mahasiswa yang bisa diakses melalui sistem kampus. :contentReference[oaicite:12]{index=12}
+A: Ya, tersedia repository digital berisi ribuan skripsi dan tesis mahasiswa yang bisa diakses melalui sistem kampus. 
 
 Q: Apakah mahasiswa bisa mencetak atau fotokopi di perpustakaan?  
-A: Bisa. Disediakan layanan print dan fotokopi mandiri di area perpustakaan utama. :contentReference[oaicite:13]{index=13}
+A: Bisa. Disediakan layanan print dan fotokopi mandiri di area perpustakaan utama. 
 
 Q: Apakah perpustakaan UNSIQ terhubung dengan database nasional?  
-A: Ya, UNSIQ bekerja sama dengan Garuda Ristekdikti dan Neliti untuk akses referensi ilmiah nasional. :contentReference[oaicite:14]{index=14}
+A: Ya, UNSIQ bekerja sama dengan Garuda Ristekdikti dan Neliti untuk akses referensi ilmiah nasional. 
 Q: Apakah UNSIQ memiliki asrama mahasiswa?  
-A: Ya. UNSIQ menyediakan asrama putra dan putri bersebelahan dengan kampus utama, lengkap dengan wifi, aula belajar, serta pembinaan tahfidz dan kajian malam. :contentReference[oaicite:0]{index=0}
+A: Ya. UNSIQ menyediakan asrama putra dan putri bersebelahan dengan kampus utama, lengkap dengan wifi, aula belajar, serta pembinaan tahfidz dan kajian malam. 
 
 Q: Apakah asrama wajib untuk mahasiswa baru?  
-A: Tidak wajib, namun sangat disarankan agar mahasiswa baru lebih mudah beradaptasi dan ikut program karakter Qur’ani kampus. :contentReference[oaicite:1]{index=1}
+A: Tidak wajib, namun sangat disarankan agar mahasiswa baru lebih mudah beradaptasi dan ikut program karakter Qur’ani kampus. 
 
 Q: Berapa biaya asrama mahasiswa UNSIQ per semester?  
-A: Sekitar Rp 1.000.000–1.500.000 per semester tergantung tipe kamar dan fasilitas yang dipilih. Sudah termasuk air, listrik, dan pembinaan. :contentReference[oaicite:2]{index=2}
+A: Sekitar Rp 1.000.000–1.500.000 per semester tergantung tipe kamar dan fasilitas yang dipilih. Sudah termasuk air, listrik, dan pembinaan. 
 
 Q: Fasilitas apa saja yang ada di asrama UNSIQ?  
-A: Setiap kamar berisi dua orang, lengkap dengan lemari, kasur, kamar mandi bersih, aula tahfidz, dan kantin asrama. :contentReference[oaicite:3]{index=3}
+A: Setiap kamar berisi dua orang, lengkap dengan lemari, kasur, kamar mandi bersih, aula tahfidz, dan kantin asrama. 
 
 Q: Siapa yang membina asrama UNSIQ?  
-A: Asrama dibina langsung oleh Tim Pembinaan Karakter dan Lembaga Tahfidz UNSIQ dengan pengawasan harian dari pembimbing spiritual. :contentReference[oaicite:4]{index=4}
+A: Asrama dibina langsung oleh Tim Pembinaan Karakter dan Lembaga Tahfidz UNSIQ dengan pengawasan harian dari pembimbing spiritual. 
 
 Q: Apakah asrama putra dan putri terpisah?  
-A: Ya, asrama putra dan putri berada di kompleks berbeda dengan pengawasan keamanan 24 jam. :contentReference[oaicite:5]{index=5}
+A: Ya, asrama putra dan putri berada di kompleks berbeda dengan pengawasan keamanan 24 jam. 
 
 Q: Apakah asrama terbuka untuk semua fakultas?  
-A: Ya. Mahasiswa dari semua fakultas bisa menempati asrama selama tersedia kuota kamar. :contentReference[oaicite:6]{index=6}
+A: Ya. Mahasiswa dari semua fakultas bisa menempati asrama selama tersedia kuota kamar. 
 
 Q: Bagaimana aturan tinggal di asrama?  
-A: Mahasiswa wajib mengikuti shalat berjamaah, kajian malam, dan pembinaan karakter. Jam malam ditetapkan pukul 22.00. :contentReference[oaicite:7]{index=7}
+A: Mahasiswa wajib mengikuti shalat berjamaah, kajian malam, dan pembinaan karakter. Jam malam ditetapkan pukul 22.00. 
 
 Q: Apakah asrama menyediakan makanan harian?  
-A: Ya, tersedia kantin dengan menu sehat berbasis pesantren dan subsidi harga untuk penghuni asrama. :contentReference[oaicite:8]{index=8}
+A: Ya, tersedia kantin dengan menu sehat berbasis pesantren dan subsidi harga untuk penghuni asrama. 
 
 Q: Bagaimana cara daftar asrama UNSIQ?  
-A: Calon penghuni mengisi formulir di portal pmb.unsiq.ac.id atau menghubungi bagian kemahasiswaan setelah mendaftar PMB. :contentReference[oaicite:9]{index=9}
+A: Calon penghuni mengisi formulir di portal pmb.unsiq.ac.id atau menghubungi bagian kemahasiswaan setelah mendaftar PMB. 
 
 Q: Apakah asrama mempunyai program tahfidz harian?  
-A: Ya. Setiap subuh dan ba’da maghrib ada setoran hafalan di bawah bimbingan ustadz/ustadzah tetap. :contentReference[oaicite:10]{index=10}
+A: Ya. Setiap subuh dan ba’da maghrib ada setoran hafalan di bawah bimbingan ustadz/ustadzah tetap. 
 
 Q: Apakah ada Wi-Fi di asrama?  
-A: Ya, asrama dilengkapi Wi-Fi berkecepatan tinggi gratis untuk belajar online dan akses portal akademik. :contentReference[oaicite:11]{index=11}
+A: Ya, asrama dilengkapi Wi-Fi berkecepatan tinggi gratis untuk belajar online dan akses portal akademik. 
 
 Q: Bagaimana keamanan di asrama?  
-A: Petugas keamanan siaga 24 jam, dilengkapi CCTV dan pemeriksaan tamu setiap malam. :contentReference[oaicite:12]{index=12}
+A: Petugas keamanan siaga 24 jam, dilengkapi CCTV dan pemeriksaan tamu setiap malam. 
 
 Q: Apakah ada aturan khusus untuk penghuni tahfidz?  
-A: Ada. Mereka mengikuti program hafalan target juz dan kajian akhlak setiap akhir pekan. :contentReference[oaicite:13]{index=13}
+A: Ada. Mereka mengikuti program hafalan target juz dan kajian akhlak setiap akhir pekan. 
 
 Q: Apakah bisa keluar asrama saat hari libur?  
-A: Boleh, dengan izin tertulis dari pembina asrama dan batas waktu pukul 18.00. :contentReference[oaicite:14]{index=14}
+A: Boleh, dengan izin tertulis dari pembina asrama dan batas waktu pukul 18.00. 
 
 Q: Apakah asrama menerima mahasiswa pindahan?  
-A: Ya, selama masih ada kamar kosong dan bersedia mengikuti peraturan asrama. :contentReference[oaicite:15]{index=15}
+A: Ya, selama masih ada kamar kosong dan bersedia mengikuti peraturan asrama. 
 
 Q: Apakah mahasiswa asing boleh tinggal di asrama?  
-A: Boleh. UNSIQ menyediakan blok khusus mahasiswa asing dengan pendamping bahasa dan orientasi kultural. :contentReference[oaicite:16]{index=16}
+A: Boleh. UNSIQ menyediakan blok khusus mahasiswa asing dengan pendamping bahasa dan orientasi kultural. 
 
 Q: Berapa lama masa tinggal maksimal di asrama?  
-A: Empat semester pertama disarankan tinggal agar terbentuk kedisiplinan dan jejaring sosial kampus. :contentReference[oaicite:17]{index=17}
+A: Empat semester pertama disarankan tinggal agar terbentuk kedisiplinan dan jejaring sosial kampus. 
 
 Q: Apakah ada program mentoring di asrama?  
-A: Ya, tiap penghuni dibimbing mentor dari senior atau dosen pembina karakter UNSIQ. :contentReference[oaicite:18]{index=18}
+A: Ya, tiap penghuni dibimbing mentor dari senior atau dosen pembina karakter UNSIQ. 
 
 Q: Apakah asrama menjadi bagian dari kurikulum karakter?  
-A: Benar. Asrama adalah wadah implementasi pendidikan karakter Qur’ani melalui pembiasaan ibadah dan disiplin hidup bersama. :contentReference[oaicite:19]{index=19}
+A: Benar. Asrama adalah wadah implementasi pendidikan karakter Qur’ani melalui pembiasaan ibadah dan disiplin hidup bersama. 
 Q: Apa keunggulan utama program studi di UNSIQ?
-A: Setiap prodi mengintegrasikan ilmu modern dengan nilai Al-Qur’an, menjadikan lulusan tidak hanya kompeten tetapi juga berakhlak Qur’ani. :contentReference[oaicite:0]{index=0}
+A: Setiap prodi mengintegrasikan ilmu modern dengan nilai Al-Qur’an, menjadikan lulusan tidak hanya kompeten tetapi juga berakhlak Qur’ani. 
 
 Q: Apa ciri khas prodi Pendidikan Agama Islam UNSIQ?
-A: Menggabungkan teori pendidikan Islam klasik dan modern, serta praktik mengajar langsung di sekolah mitra madrasah binaan kampus. :contentReference[oaicite:1]{index=1}
+A: Menggabungkan teori pendidikan Islam klasik dan modern, serta praktik mengajar langsung di sekolah mitra madrasah binaan kampus. 
 
 Q: Apa kekhususan prodi Pendidikan Guru Madrasah Ibtidaiyah?
-A: Menyiapkan guru madrasah dasar profesional yang memahami pedagogik, teknologi digital, dan metode pembelajaran Qur’ani. :contentReference[oaicite:2]{index=2}
+A: Menyiapkan guru madrasah dasar profesional yang memahami pedagogik, teknologi digital, dan metode pembelajaran Qur’ani. 
 
 Q: Apa keunggulan prodi Pendidikan Bahasa Arab UNSIQ?
 A: Memadukan linguistik Arab, tafsir klasik, serta penerjemahan kontemporer dengan praktik berbicara aktif dan pembelajaran Al-Qur’an.
 
 Q: Apa keunggulan prodi Pendidikan Bahasa Inggris?
-A: Fokus pada komunikasi global, penerjemahan Islami, serta integrasi literasi digital dan etika dakwah lintas budaya. :contentReference[oaicite:3]{index=3}
+A: Fokus pada komunikasi global, penerjemahan Islami, serta integrasi literasi digital dan etika dakwah lintas budaya. 
 
 Q: Apa keistimewaan prodi Sastra Inggris?
 A: Memadukan analisis sastra modern dengan nilai spiritual Qur’ani, menghasilkan lulusan yang peka budaya dan etis dalam karya.
 
 Q: Apa yang membedakan prodi Ilmu Komunikasi Islam di UNSIQ?
-A: Menekankan komunikasi berbasis dakwah, public speaking Islami, dan produksi konten media yang bernilai moral Qur’ani. :contentReference[oaicite:4]{index=4}
+A: Menekankan komunikasi berbasis dakwah, public speaking Islami, dan produksi konten media yang bernilai moral Qur’ani. 
 
 Q: Apa keunggulan prodi Ilmu Politik UNSIQ?
 A: Mendidik analis kebijakan berintegritas Qur’ani dengan fokus pada tata kelola publik, demokrasi etis, dan komunikasi politik beradab.
 
 Q: Apa ciri khas prodi Hukum Ekonomi Syariah?
-A: Integrasi ilmu hukum modern dan fiqh muamalah, melatih mahasiswa menjadi konsultan hukum bisnis syariah profesional. :contentReference[oaicite:5]{index=5}
+A: Integrasi ilmu hukum modern dan fiqh muamalah, melatih mahasiswa menjadi konsultan hukum bisnis syariah profesional. 
 
 Q: Apa keunggulan prodi Hukum Keluarga Islam?
-A: Menekankan mediasi, konseling keluarga, dan hukum perdata Islam yang relevan dengan peradilan agama di Indonesia. :contentReference[oaicite:6]{index=6}
+A: Menekankan mediasi, konseling keluarga, dan hukum perdata Islam yang relevan dengan peradilan agama di Indonesia. 
 
 Q: Apa keunikan prodi Ilmu Hukum UNSIQ dibanding lainnya?
-A: Menggabungkan kajian hukum positif dan nilai spiritual, melahirkan sarjana hukum beretika dan berjiwa sosial Qur’ani. :contentReference[oaicite:7]{index=7}
+A: Menggabungkan kajian hukum positif dan nilai spiritual, melahirkan sarjana hukum beretika dan berjiwa sosial Qur’ani. 
 
 Q: Apa keunggulan prodi Manajemen UNSIQ?
-A: Kurikulumnya menekankan bisnis digital, etika keuangan syariah, serta kewirausahaan sosial berlandaskan nilai kejujuran dan amanah. :contentReference[oaicite:8]{index=8}
+A: Kurikulumnya menekankan bisnis digital, etika keuangan syariah, serta kewirausahaan sosial berlandaskan nilai kejujuran dan amanah. 
 
 Q: Apa kekhususan prodi Akuntansi UNSIQ?
-A: Fokus pada akuntansi syariah, audit halal, dan sistem informasi keuangan modern dengan nilai transparansi Islami. :contentReference[oaicite:9]{index=9}
+A: Fokus pada akuntansi syariah, audit halal, dan sistem informasi keuangan modern dengan nilai transparansi Islami. 
 
 Q: Apa keunggulan prodi Ekonomi Syariah UNSIQ?
-A: Mempelajari ekonomi modern berbasis maqashid syariah untuk mencetak ahli keuangan Islam kompetitif global. :contentReference[oaicite:10]{index=10}
+A: Mempelajari ekonomi modern berbasis maqashid syariah untuk mencetak ahli keuangan Islam kompetitif global. 
 
 Q: Apa yang membedakan prodi Arsitektur UNSIQ?
-A: Mengusung konsep arsitektur hijau dan estetika Islami, menyeimbangkan fungsi, spiritualitas, dan keberlanjutan lingkungan. :contentReference[oaicite:11]{index=11}
+A: Mengusung konsep arsitektur hijau dan estetika Islami, menyeimbangkan fungsi, spiritualitas, dan keberlanjutan lingkungan. 
 
 Q: Apa keunggulan prodi Teknik Sipil UNSIQ?
-A: Menggabungkan desain struktur modern dengan prinsip etika Islam dan keselamatan publik berbasis tanggung jawab sosial. :contentReference[oaicite:12]{index=12}
+A: Menggabungkan desain struktur modern dengan prinsip etika Islam dan keselamatan publik berbasis tanggung jawab sosial. 
 
 Q: Apa kekhususan prodi Teknik Mesin UNSIQ?
-A: Menekankan rekayasa energi terbarukan, perawatan mesin, dan inovasi manufaktur sesuai nilai efisiensi dan keberkahan. :contentReference[oaicite:13]{index=13}
+A: Menekankan rekayasa energi terbarukan, perawatan mesin, dan inovasi manufaktur sesuai nilai efisiensi dan keberkahan. 
 
 Q: Apa yang istimewa dari prodi Teknik Informatika UNSIQ?
-A: Integrasi teknologi, etika digital, dan pengembangan aplikasi Islami menjadikan lulusan siap di sektor industri 4.0. :contentReference[oaicite:14]{index=14}
+A: Integrasi teknologi, etika digital, dan pengembangan aplikasi Islami menjadikan lulusan siap di sektor industri 4.0. 
 
 Q: Apa kekhususan D3 Manajemen Informatika?
 A: Melatih teknisi sistem dan jaringan dengan pemahaman administrasi Islami, fokus pada efisiensi dan pelayanan publik digital.
 
 Q: Apa keunggulan prodi Ilmu Keperawatan UNSIQ?
-A: Menggabungkan keilmuan medis dengan etika Qur’ani, membentuk perawat profesional berempati tinggi dan berkarakter spiritual. :contentReference[oaicite:15]{index=15}
+A: Menggabungkan keilmuan medis dengan etika Qur’ani, membentuk perawat profesional berempati tinggi dan berkarakter spiritual. 
 
 Q: Apa keunikan Profesi Ners UNSIQ?
-A: Pendidikan lanjutan keperawatan yang menekankan keterampilan klinik, tanggung jawab moral, dan spiritual care Islami. :contentReference[oaicite:16]{index=16}
+A: Pendidikan lanjutan keperawatan yang menekankan keterampilan klinik, tanggung jawab moral, dan spiritual care Islami. 
 
 Q: Apa keunggulan D3 Kebidanan UNSIQ?
-A: Kurikulum berfokus pada pelayanan ibu dan anak dengan pendekatan keislaman serta kemampuan praktik kebidanan modern. :contentReference[oaicite:17]{index=17}
+A: Kurikulum berfokus pada pelayanan ibu dan anak dengan pendekatan keislaman serta kemampuan praktik kebidanan modern. 
 
 Q: Apa yang membedakan prodi PGMI dan PAI?
 A: PGMI menyiapkan guru SD/MI, sedangkan PAI fokus di madrasah menengah. Keduanya sama-sama berlandaskan pendidikan Qur’ani.
 
 Q: Apa keunggulan prodi Tahfidz Al-Qur’an UNSIQ?
-A: Program unggulan yang menggabungkan hafalan 30 juz, tafsir tematik, dan penelitian integratif di bidang sains-Al-Qur’an. :contentReference[oaicite:18]{index=18}
+A: Program unggulan yang menggabungkan hafalan 30 juz, tafsir tematik, dan penelitian integratif di bidang sains-Al-Qur’an. 
 
 Q: Apa kekhususan prodi Bahasa dan Sastra Arab?
 A: Menanamkan kemampuan linguistik, balaghah, dan interpretasi teks klasik dengan latihan percakapan intensif bahasa Arab fushah.
 
 Q: Apa keunggulan Fakultas Kesehatan UNSIQ dibanding kampus lain?
-A: Fokus pada pelayanan Islami, praktik klinik beretika, dan pembinaan rohani mahasiswa kesehatan. :contentReference[oaicite:19]{index=19}
+A: Fokus pada pelayanan Islami, praktik klinik beretika, dan pembinaan rohani mahasiswa kesehatan. 
 
 Q: Apa yang unik dari prodi Informatika dibanding Teknik Sipil?
 A: Informatika fokus ke teknologi digital dan data, sedangkan Teknik Sipil ke konstruksi fisik dan perencanaan struktur.
 
 Q: Apa kekhususan prodi Pendidikan Fisika UNSIQ?
-A: Menggabungkan konsep sains alam dan nilai ketauhidan, mendorong riset energi terbarukan serta pembelajaran fisika Islami. :contentReference[oaicite:20]{index=20}
+A: Menggabungkan konsep sains alam dan nilai ketauhidan, mendorong riset energi terbarukan serta pembelajaran fisika Islami. 
 
 Q: Apa keunggulan umum lulusan UNSIQ dibanding kampus lain?
-A: Lulusan UNSIQ memiliki keseimbangan ilmu, iman, dan etika kerja, dikenal berkarakter Qur’ani serta berdaya saing nasional. :contentReference[oaicite:21]{index=21}
+A: Lulusan UNSIQ memiliki keseimbangan ilmu, iman, dan etika kerja, dikenal berkarakter Qur’ani serta berdaya saing nasional. 
 Q: Apakah dosen di UNSIQ berkualifikasi tinggi?
-A: Ya. Lebih dari 70 % dosen bergelar S2 dan S3, banyak di antaranya lulusan UIN, UGM, UNDIP, serta universitas timur tengah berstandar internasional. :contentReference[oaicite:0]{index=0}
+A: Ya. Lebih dari 70 % dosen bergelar S2 dan S3, banyak di antaranya lulusan UIN, UGM, UNDIP, serta universitas timur tengah berstandar internasional. 
 
 Q: Apakah UNSIQ memiliki dosen bergelar doktor?
-A: Ada. Setiap fakultas minimal memiliki satu hingga dua dosen doktor yang aktif dalam riset dan publikasi ilmiah. :contentReference[oaicite:1]{index=1}
+A: Ada. Setiap fakultas minimal memiliki satu hingga dua dosen doktor yang aktif dalam riset dan publikasi ilmiah. 
 
 Q: Bagaimana kualitas pengajaran dosen UNSIQ?
-A: Proses belajar menekankan interaksi langsung, diskusi terbimbing, serta pendekatan integratif antara teori, praktik, dan nilai-nilai Al-Qur’an. :contentReference[oaicite:2]{index=2}
+A: Proses belajar menekankan interaksi langsung, diskusi terbimbing, serta pendekatan integratif antara teori, praktik, dan nilai-nilai Al-Qur’an. 
 
 Q: Apakah dosen UNSIQ aktif dalam penelitian?
-A: Sangat aktif. Banyak riset diterbitkan di jurnal Sinta dan Scopus, terutama bidang pendidikan, syariah, dan teknologi. :contentReference[oaicite:3]{index=3}
+A: Sangat aktif. Banyak riset diterbitkan di jurnal Sinta dan Scopus, terutama bidang pendidikan, syariah, dan teknologi. 
 
 Q: Apakah mahasiswa mendapat bimbingan akademik rutin?
-A: Ya, tiap dosen membimbing 10-15 mahasiswa untuk konsultasi akademik, skripsi, dan pengembangan karier. :contentReference[oaicite:4]{index=4}
+A: Ya, tiap dosen membimbing 10-15 mahasiswa untuk konsultasi akademik, skripsi, dan pengembangan karier. 
 
 Q: Apakah ada dosen tamu di UNSIQ?
-A: Ada. UNSIQ rutin menghadirkan dosen tamu dari UIN, UNNES, dan universitas mitra internasional untuk kuliah umum. :contentReference[oaicite:5]{index=5}
+A: Ada. UNSIQ rutin menghadirkan dosen tamu dari UIN, UNNES, dan universitas mitra internasional untuk kuliah umum. 
 
 Q: Fasilitas belajar apa yang tersedia di kampus?
-A: Setiap fakultas memiliki ruang kuliah multimedia, LCD projector, wifi kampus, perpustakaan digital, dan laboratorium terpadu. :contentReference[oaicite:6]{index=6}
+A: Setiap fakultas memiliki ruang kuliah multimedia, LCD projector, wifi kampus, perpustakaan digital, dan laboratorium terpadu. 
 
 Q: Apakah UNSIQ memiliki laboratorium komputer?
-A: Ya. FASTIKOM UNSIQ memiliki 5 lab komputer dengan koneksi fiber dan server sendiri untuk praktikum pemrograman. :contentReference[oaicite:7]{index=7}
+A: Ya. FASTIKOM UNSIQ memiliki 5 lab komputer dengan koneksi fiber dan server sendiri untuk praktikum pemrograman. 
 
 Q: Bagaimana fasilitas laboratorium kesehatan?
-A: FIKES memiliki lab keperawatan, kebidanan, dan anatomy model berstandar nasional untuk simulasi praktik klinik. :contentReference[oaicite:8]{index=8}
+A: FIKES memiliki lab keperawatan, kebidanan, dan anatomy model berstandar nasional untuk simulasi praktik klinik. 
 
 Q: Apakah ada laboratorium bahasa di UNSIQ?
-A: Ada Language Center dengan 30 unit komputer, headset, dan software latihan listening Bahasa Arab dan Inggris. :contentReference[oaicite:9]{index=9}
+A: Ada Language Center dengan 30 unit komputer, headset, dan software latihan listening Bahasa Arab dan Inggris. 
 
 Q: Bagaimana fasilitas asrama mahasiswa?
-A: Tersedia asrama putra dan putri dengan Wi-Fi, aula belajar, serta bimbingan tahfidz untuk mendukung disiplin dan karakter Qur’ani. :contentReference[oaicite:10]{index=10}
+A: Tersedia asrama putra dan putri dengan Wi-Fi, aula belajar, serta bimbingan tahfidz untuk mendukung disiplin dan karakter Qur’ani. 
 
 Q: Apakah UNSIQ memiliki fasilitas olahraga?
-A: Ada lapangan futsal, voli, basket, serta pusat kebugaran terpadu yang dapat digunakan mahasiswa tanpa biaya tambahan. :contentReference[oaicite:11]{index=11}
+A: Ada lapangan futsal, voli, basket, serta pusat kebugaran terpadu yang dapat digunakan mahasiswa tanpa biaya tambahan. 
 
 Q: Bagaimana fasilitas perpustakaan UNSIQ?
-A: Perpustakaan pusat UNSIQ berbasis digital dengan akses jurnal nasional dan internasional melalui repository dan e-library terintegrasi. :contentReference[oaicite:12]{index=12}
+A: Perpustakaan pusat UNSIQ berbasis digital dengan akses jurnal nasional dan internasional melalui repository dan e-library terintegrasi. 
 
 Q: Apakah UNSIQ memiliki studio media?
-A: Ada studio radio dan video dikelola FKSP untuk pelatihan broadcasting dan produksi konten dakwah digital. :contentReference[oaicite:13]{index=13}
+A: Ada studio radio dan video dikelola FKSP untuk pelatihan broadcasting dan produksi konten dakwah digital. 
 
 Q: Fasilitas apa yang dimiliki Fakultas Ekonomi?
-A: Laboratorium akuntansi, simulasi perbankan syariah, dan ruang praktik bisnis digital dilengkapi aplikasi ERP dan software keuangan. :contentReference[oaicite:14]{index=14}
+A: Laboratorium akuntansi, simulasi perbankan syariah, dan ruang praktik bisnis digital dilengkapi aplikasi ERP dan software keuangan. 
 
 Q: Apakah UNSIQ menyediakan akses internet gratis?
-A: Ya, seluruh area kampus 1–3 dilengkapi Wi-Fi gratis berkecepatan tinggi untuk mahasiswa dan dosen. :contentReference[oaicite:15]{index=15}
+A: Ya, seluruh area kampus 1–3 dilengkapi Wi-Fi gratis berkecepatan tinggi untuk mahasiswa dan dosen. 
 
 Q: Bagaimana sistem pembelajaran online di UNSIQ?
-A: UNSIQ menggunakan platform LMS berbasis Moodle dan Google Workspace untuk kelas hybrid dan manajemen materi. :contentReference[oaicite:16]{index=16}
+A: UNSIQ menggunakan platform LMS berbasis Moodle dan Google Workspace untuk kelas hybrid dan manajemen materi. 
 
 Q: Apakah UNSIQ memiliki fasilitas riset?
-A: Ada Lembaga Penelitian dan Pengabdian kepada Masyarakat (LPPM) dengan laboratorium riset terapan multi-fakultas. :contentReference[oaicite:17]{index=17}
+A: Ada Lembaga Penelitian dan Pengabdian kepada Masyarakat (LPPM) dengan laboratorium riset terapan multi-fakultas. 
 
 Q: Bagaimana fasilitas untuk mahasiswa difabel?
-A: Kampus menyediakan ramp akses, lift utama, dan dukungan pendamping akademik bagi mahasiswa berkebutuhan khusus. :contentReference[oaicite:18]{index=18}
+A: Kampus menyediakan ramp akses, lift utama, dan dukungan pendamping akademik bagi mahasiswa berkebutuhan khusus. 
 
 Q: Apakah UNSIQ memiliki musholla atau masjid kampus?
-A: Ya. Masjid Al-Ittihad menjadi pusat kegiatan tahfidz, kajian rutin, dan sholat jamaah seluruh civitas akademika. :contentReference[oaicite:19]{index=19}
+A: Ya. Masjid Al-Ittihad menjadi pusat kegiatan tahfidz, kajian rutin, dan sholat jamaah seluruh civitas akademika. 
 
 Q: Bagaimana fasilitas parkir di kampus?
-A: Area parkir luas tersedia untuk mobil dan motor mahasiswa, lengkap dengan pengawasan CCTV 24 jam. :contentReference[oaicite:20]{index=20}
+A: Area parkir luas tersedia untuk mobil dan motor mahasiswa, lengkap dengan pengawasan CCTV 24 jam. 
 
 Q: Apakah setiap fakultas punya ruang organisasi mahasiswa?
-A: Ya. Tiap fakultas menyediakan sekretariat BEM dan UKM dengan fasilitas komputer serta ruang rapat. :contentReference[oaicite:21]{index=21}
+A: Ya. Tiap fakultas menyediakan sekretariat BEM dan UKM dengan fasilitas komputer serta ruang rapat. 
 
 Q: Fasilitas teknologi apa yang mendukung perkuliahan?
-A: Kampus memiliki server cloud sendiri untuk database akademik, presensi digital, dan e-learning kampus. :contentReference[oaicite:22]{index=22}
+A: Kampus memiliki server cloud sendiri untuk database akademik, presensi digital, dan e-learning kampus. 
 
 Q: Apakah tersedia klinik kesehatan di kampus?
-A: Ya, Klinik UNSIQ melayani mahasiswa dan dosen untuk konsultasi kesehatan gratis serta pemeriksaan rutin. :contentReference[oaicite:23]{index=23}
+A: Ya, Klinik UNSIQ melayani mahasiswa dan dosen untuk konsultasi kesehatan gratis serta pemeriksaan rutin. 
 
 Q: Bagaimana fasilitas keamanan di UNSIQ?
-A: Tersedia petugas keamanan 24 jam, CCTV di setiap gedung, dan sistem tamu terintegrasi untuk menjaga kenyamanan belajar. :contentReference[oaicite:24]{index=24}
+A: Tersedia petugas keamanan 24 jam, CCTV di setiap gedung, dan sistem tamu terintegrasi untuk menjaga kenyamanan belajar. 
 Q: Bagaimana karakter umum kurikulum di UNSIQ?
 A: Kurikulum UNSIQ mengintegrasikan nilai-nilai Al-Qur’an dengan ilmu pengetahuan modern, menekankan keseimbangan antara teori, praktik, dan pembentukan akhlak.
 
 Q: Apa keunggulan kurikulum UNSIQ dibanding kampus lain?
-A: Setiap kurikulum dirancang berbasis outcome learning, menanamkan nilai Qur’ani, kewirausahaan, dan kompetensi teknologi informasi. :contentReference[oaicite:0]{index=0}
+A: Setiap kurikulum dirancang berbasis outcome learning, menanamkan nilai Qur’ani, kewirausahaan, dan kompetensi teknologi informasi. 
 
 Q: Kurikulum prodi Pendidikan Agama Islam UNSIQ seperti apa?
-A: Fokus pada metodologi pembelajaran Islam, teknologi pendidikan, dan praktik mengajar langsung di sekolah mitra madrasah UNSIQ. :contentReference[oaicite:1]{index=1}
+A: Fokus pada metodologi pembelajaran Islam, teknologi pendidikan, dan praktik mengajar langsung di sekolah mitra madrasah UNSIQ. 
 
 Q: Apakah kurikulum Informatika UNSIQ memuat praktik pemrograman?
-A: Ya. Mahasiswa belajar algoritma, rekayasa perangkat lunak, data science, dan proyek akhir berbasis aplikasi Islami. :contentReference[oaicite:2]{index=2}
+A: Ya. Mahasiswa belajar algoritma, rekayasa perangkat lunak, data science, dan proyek akhir berbasis aplikasi Islami. 
 
 Q: Kurikulum Fakultas Kesehatan UNSIQ berisi apa saja?
-A: Menggabungkan teori keperawatan, etika medis Islam, praktik klinik, dan pelatihan di rumah sakit mitra UNSIQ. :contentReference[oaicite:3]{index=3}
+A: Menggabungkan teori keperawatan, etika medis Islam, praktik klinik, dan pelatihan di rumah sakit mitra UNSIQ. 
 
 Q: Apa mata kuliah khas di UNSIQ yang tidak ada di kampus lain?
-A: Semua mahasiswa wajib mengambil “Studi Al-Qur’an dan Integrasi Ilmu” untuk menginternalisasi nilai Islam di bidang masing-masing. :contentReference[oaicite:4]{index=4}
+A: Semua mahasiswa wajib mengambil “Studi Al-Qur’an dan Integrasi Ilmu” untuk menginternalisasi nilai Islam di bidang masing-masing. 
 
 Q: Apakah setiap fakultas punya mata kuliah wajib universitas?
-A: Ya, seperti Al-Islam Kemuhammadiyahan, Bahasa Arab, Pancasila, dan Kewirausahaan berbasis nilai Qur’ani. :contentReference[oaicite:5]{index=5}
+A: Ya, seperti Al-Islam Kemuhammadiyahan, Bahasa Arab, Pancasila, dan Kewirausahaan berbasis nilai Qur’ani. 
 
 Q: Apakah kurikulum UNSIQ mengikuti standar nasional?
-A: Ya. Kurikulum mengacu pada KKNI dan SN-Dikti dengan muatan lokal khas kampus Qur’ani. :contentReference[oaicite:6]{index=6}
+A: Ya. Kurikulum mengacu pada KKNI dan SN-Dikti dengan muatan lokal khas kampus Qur’ani. 
 
 Q: Adakah program praktik lapangan di kurikulum UNSIQ?
-A: Ada. Semua prodi memiliki mata kuliah Magang, PKL, atau PPL di lembaga mitra dan instansi terkait. :contentReference[oaicite:7]{index=7}
+A: Ada. Semua prodi memiliki mata kuliah Magang, PKL, atau PPL di lembaga mitra dan instansi terkait. 
 
 Q: Apakah kurikulum UNSIQ diperbarui secara berkala?
-A: Ya. Evaluasi dilakukan setiap empat tahun melalui audit akademik dan masukan pengguna lulusan. :contentReference[oaicite:8]{index=8}
+A: Ya. Evaluasi dilakukan setiap empat tahun melalui audit akademik dan masukan pengguna lulusan. 
 
 Q: Kurikulum Fakultas Ekonomi UNSIQ seperti apa?
-A: Menekankan etika bisnis Islam, akuntansi syariah, dan praktik kewirausahaan berbasis digital. :contentReference[oaicite:9]{index=9}
+A: Menekankan etika bisnis Islam, akuntansi syariah, dan praktik kewirausahaan berbasis digital. 
 
 Q: Apakah ada mata kuliah digital di UNSIQ?
-A: Ada. Hampir semua prodi sudah menerapkan pembelajaran berbasis teknologi, seperti e-learning, multimedia, dan data analisis. :contentReference[oaicite:10]{index=10}
+A: Ada. Hampir semua prodi sudah menerapkan pembelajaran berbasis teknologi, seperti e-learning, multimedia, dan data analisis. 
 
 Q: Kurikulum Sastra Inggris UNSIQ menekankan apa?
-A: Fokus pada literasi global, penerjemahan teks Islami, dan keterampilan komunikasi lintas budaya. :contentReference[oaicite:11]{index=11}
+A: Fokus pada literasi global, penerjemahan teks Islami, dan keterampilan komunikasi lintas budaya. 
 
 Q: Apakah UNSIQ memiliki kurikulum MBKM?
-A: Ya. Mahasiswa bisa mengikuti program Kampus Merdeka: magang, riset, atau proyek sosial hingga dua semester. :contentReference[oaicite:12]{index=12}
+A: Ya. Mahasiswa bisa mengikuti program Kampus Merdeka: magang, riset, atau proyek sosial hingga dua semester. 
 
 Q: Kurikulum Arsitektur UNSIQ berorientasi ke apa?
-A: Berbasis desain hijau dan estetika Islam, menggabungkan fungsi, nilai spiritual, serta teknologi bangunan modern. :contentReference[oaicite:13]{index=13}
+A: Berbasis desain hijau dan estetika Islam, menggabungkan fungsi, nilai spiritual, serta teknologi bangunan modern. 
 
 Q: Apakah kurikulum Keperawatan mengikuti SK Kemenkes?
-A: Ya. Kurikulum disusun bersama asosiasi profesi keperawatan dan mengikuti panduan kompetensi nasional. :contentReference[oaicite:14]{index=14}
+A: Ya. Kurikulum disusun bersama asosiasi profesi keperawatan dan mengikuti panduan kompetensi nasional. 
 
 Q: Apa yang membedakan kurikulum Tahfidz UNSIQ?
-A: Mengintegrasikan hafalan Al-Qur’an dengan riset dan penulisan ilmiah agar mahasiswa unggul akademik dan spiritual. :contentReference[oaicite:15]{index=15}
+A: Mengintegrasikan hafalan Al-Qur’an dengan riset dan penulisan ilmiah agar mahasiswa unggul akademik dan spiritual. 
 
 Q: Kurikulum Hukum Syariah UNSIQ mencakup apa?
-A: Materinya meliputi fiqh muamalah, hukum positif Indonesia, perbandingan hukum Islam, dan praktik pengadilan simulatif. :contentReference[oaicite:16]{index=16}
+A: Materinya meliputi fiqh muamalah, hukum positif Indonesia, perbandingan hukum Islam, dan praktik pengadilan simulatif. 
 
 Q: Apakah UNSIQ menilai kurikulum berdasarkan masukan alumni?
-A: Ya. Tiap tahun UNSIQ melakukan tracer study untuk memperbarui konten kurikulum sesuai kebutuhan dunia kerja. :contentReference[oaicite:17]{index=17}
+A: Ya. Tiap tahun UNSIQ melakukan tracer study untuk memperbarui konten kurikulum sesuai kebutuhan dunia kerja. 
 
 Q: Apakah mahasiswa terlibat dalam evaluasi kurikulum?
-A: Ya, melalui forum akademik fakultas dan survei kepuasan mahasiswa setiap akhir semester. :contentReference[oaicite:18]{index=18}
+A: Ya, melalui forum akademik fakultas dan survei kepuasan mahasiswa setiap akhir semester. 
 Q: Lulusan Pendidikan Agama Islam UNSIQ bisa kerja di mana?
 A: Dapat menjadi guru PAI, dosen, penyuluh agama, konselor pendidikan Islam, atau staf di lembaga dakwah dan Kemenag.
 
@@ -925,108 +925,108 @@ A: Bisa setelah lulus uji kompetensi nasional dan mengikuti pelatihan bahasa ser
 Q: Apakah UNSIQ menyediakan pelatihan karier?
 A: Ya. Setiap tahun UNSIQ mengadakan “Career Days” dan pelatihan soft skills bagi mahasiswa akhir.
 Q: Apakah semua program studi di UNSIQ sudah terakreditasi?
-A: Ya. Seluruh prodi UNSIQ telah terakreditasi oleh BAN-PT dengan peringkat mulai dari Baik hingga Unggul sesuai evaluasi terakhir 2023. :contentReference[oaicite:0]{index=0}
+A: Ya. Seluruh prodi UNSIQ telah terakreditasi oleh BAN-PT dengan peringkat mulai dari Baik hingga Unggul sesuai evaluasi terakhir 2023. 
 
 Q: Prodi mana di UNSIQ yang berakreditasi Unggul?
-A: Pendidikan Agama Islam, Hukum Ekonomi Syariah, dan Ilmu Keperawatan mendapat akreditasi Unggul karena rekam jejak lulusan dan kinerja akademiknya. :contentReference[oaicite:1]{index=1}
+A: Pendidikan Agama Islam, Hukum Ekonomi Syariah, dan Ilmu Keperawatan mendapat akreditasi Unggul karena rekam jejak lulusan dan kinerja akademiknya. 
 
 Q: Apakah prodi Teknik Informatika UNSIQ sudah terakreditasi?
-A: Sudah. Prodi Teknik Informatika FASTIKOM UNSIQ memiliki akreditasi “Baik Sekali” dari BAN-PT periode 2022 – 2027. :contentReference[oaicite:2]{index=2}
+A: Sudah. Prodi Teknik Informatika FASTIKOM UNSIQ memiliki akreditasi “Baik Sekali” dari BAN-PT periode 2022 – 2027. 
 
 Q: Fakultas Ilmu Kesehatan memiliki akreditasi apa?
-A: FIKES memiliki akreditasi B dan Baik Sekali untuk D3 Keperawatan serta Profesi Ners berdasarkan SK BAN-PT terbaru. :contentReference[oaicite:3]{index=3}
+A: FIKES memiliki akreditasi B dan Baik Sekali untuk D3 Keperawatan serta Profesi Ners berdasarkan SK BAN-PT terbaru. 
 
 Q: Akreditasi program Pendidikan Bahasa Arab berapa?
-A: S1 Pendidikan Bahasa Arab FITK UNSIQ terakreditasi Unggul karena mutu kurikulum dan kerja sama internasional yang aktif. :contentReference[oaicite:4]{index=4}
+A: S1 Pendidikan Bahasa Arab FITK UNSIQ terakreditasi Unggul karena mutu kurikulum dan kerja sama internasional yang aktif. 
 
 Q: Akreditasi prodi Pendidikan Agama Islam berapa?
-A: PAI terakreditasi Unggul dan menjadi salah satu prodi terbaik di Jawa Tengah dalam bidang pendidikan Islam. :contentReference[oaicite:5]{index=5}
+A: PAI terakreditasi Unggul dan menjadi salah satu prodi terbaik di Jawa Tengah dalam bidang pendidikan Islam. 
 
 Q: Program Magister PAI UNSIQ akreditasinya apa?
-A: S2 Pendidikan Agama Islam berakreditasi B dari BAN-PT dan sedang proses reakreditasi menuju Baik Sekali. :contentReference[oaicite:6]{index=6}
+A: S2 Pendidikan Agama Islam berakreditasi B dari BAN-PT dan sedang proses reakreditasi menuju Baik Sekali. 
 
 Q: Apakah akreditasi di UNSIQ pernah turun?
-A: Tidak. Semua prodi menjaga atau meningkatkan peringkat melalui evaluasi mutu internal dan audit YPIQ Wonosobo. :contentReference[oaicite:7]{index=7}
+A: Tidak. Semua prodi menjaga atau meningkatkan peringkat melalui evaluasi mutu internal dan audit YPIQ Wonosobo. 
 
 Q: Kapan terakhir akreditasi diperbarui?
-A: Siklus akreditasi terakhir tahun 2022 – 2023 sesuai regulasi BAN-PT lima tahunan untuk seluruh prodi. :contentReference[oaicite:8]{index=8}
+A: Siklus akreditasi terakhir tahun 2022 – 2023 sesuai regulasi BAN-PT lima tahunan untuk seluruh prodi. 
 
 Q: Apakah prodi baru langsung terakreditasi?
-A: Ya. Setiap prodi baru mendapat akreditasi sementara (Baik) selama tiga tahun sebelum evaluasi lanjutan. :contentReference[oaicite:9]{index=9}
+A: Ya. Setiap prodi baru mendapat akreditasi sementara (Baik) selama tiga tahun sebelum evaluasi lanjutan. 
 
 Q: Akreditasi prodi Ekonomi Syariah berapa?
-A: Akreditasi Baik Sekali dari BAN-PT, menunjukkan mutu kurikulum dan daya saing lulusan di bidang keuangan syariah. :contentReference[oaicite:10]{index=10}
+A: Akreditasi Baik Sekali dari BAN-PT, menunjukkan mutu kurikulum dan daya saing lulusan di bidang keuangan syariah. 
 
 Q: Akreditasi Fakultas Teknik dan Ilmu Komputer bagaimana?
-A: FASTIKOM UNSIQ memiliki status Baik Sekali pada semua program S1 dan D3 setelah audit mutu 2023. :contentReference[oaicite:11]{index=11}
+A: FASTIKOM UNSIQ memiliki status Baik Sekali pada semua program S1 dan D3 setelah audit mutu 2023. 
 
 Q: Siapa yang menilai akreditasi UNSIQ?
-A: Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT) melalui tim asesor yang melakukan visitasi dan evaluasi lapangan. :contentReference[oaicite:12]{index=12}
+A: Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT) melalui tim asesor yang melakukan visitasi dan evaluasi lapangan. 
 
 Q: Apakah akreditasi mempengaruhi gelar lulusan?
-A: Tidak langsung, tapi akreditasi menentukan pengakuan mutu gelar oleh pemerintah dan instansi rekrutmen. :contentReference[oaicite:13]{index=13}
+A: Tidak langsung, tapi akreditasi menentukan pengakuan mutu gelar oleh pemerintah dan instansi rekrutmen. 
 
 Q: Bagaimana cara cek akreditasi prodi UNSIQ?
-A: Mahasiswa dapat mengecek di portal banpt.or.id atau melalui menu “Profil Program Studi” di pmb.unsiq.ac.id. :contentReference[oaicite:14]{index=14}
+A: Mahasiswa dapat mengecek di portal banpt.or.id atau melalui menu “Profil Program Studi” di pmb.unsiq.ac.id. 
 Q: Berapa jumlah fakultas yang ada di Universitas Sains Al-Qur’an (UNSIQ)?
-A: UNSIQ memiliki tujuh fakultas dan satu program pascasarjana yang menawarkan pendidikan dari D3, S1, profesi hingga S2 dengan akreditasi nasional. :contentReference[oaicite:2]{index=2}
+A: UNSIQ memiliki tujuh fakultas dan satu program pascasarjana yang menawarkan pendidikan dari D3, S1, profesi hingga S2 dengan akreditasi nasional. 
 
 Q: Fakultas apa saja yang ada di UNSIQ?
-A: Ada FITK, FKSP, FSH, FBS, FEB, FASTIKOM, dan FIKES serta Program Pascasarjana, mewakili bidang agama, bahasa, hukum, ekonomi, teknik, dan kesehatan. :contentReference[oaicite:3]{index=3}
+A: Ada FITK, FKSP, FSH, FBS, FEB, FASTIKOM, dan FIKES serta Program Pascasarjana, mewakili bidang agama, bahasa, hukum, ekonomi, teknik, dan kesehatan. 
 
 Q: Apa saja program studi di Fakultas Ilmu Tarbiyah dan Keguruan ( FITK )?
-A: FITK menyelenggarakan S1 Pendidikan Agama Islam, PGMI, PIAUD, Bahasa Arab, dan Fisika, semuanya berakreditasi Unggul. :contentReference[oaicite:4]{index=4}
+A: FITK menyelenggarakan S1 Pendidikan Agama Islam, PGMI, PIAUD, Bahasa Arab, dan Fisika, semuanya berakreditasi Unggul. 
 
 Q: Program studi apa yang ditawarkan Fakultas Syari’ah dan Hukum?
-A: FSH menawarkan Ilmu Hukum, Hukum Ekonomi Syariah, Hukum Keluarga Islam, dan Ilmu Al-Qur’an dan Tafsir, dengan akreditasi B hingga Unggul. :contentReference[oaicite:5]{index=5}
+A: FSH menawarkan Ilmu Hukum, Hukum Ekonomi Syariah, Hukum Keluarga Islam, dan Ilmu Al-Qur’an dan Tafsir, dengan akreditasi B hingga Unggul. 
 
 Q: Apa program di Fakultas Komunikasi dan Sosial Politik (FKSP)?
-A: FKSP memiliki S1 Komunikasi dan Penyiaran Islam serta Ilmu Politik, menyiapkan komunikator dan analis politik beretika Qur’ani. :contentReference[oaicite:6]{index=6}
+A: FKSP memiliki S1 Komunikasi dan Penyiaran Islam serta Ilmu Politik, menyiapkan komunikator dan analis politik beretika Qur’ani. 
 
 Q: Fakultas Bahasa dan Sastra memiliki program apa?
-A: Ada S1 Pendidikan Bahasa Inggris dan S1 Sastra Inggris yang berfokus pada pendidikan, penerjemahan, dan industri kreatif. :contentReference[oaicite:7]{index=7}
+A: Ada S1 Pendidikan Bahasa Inggris dan S1 Sastra Inggris yang berfokus pada pendidikan, penerjemahan, dan industri kreatif. 
 
 Q: Program apa yang tersedia di Fakultas Ekonomi dan Bisnis?
-A: FEB menyelenggarakan S1 Akuntansi, Manajemen, dan Perbankan Syariah untuk menjawab kebutuhan sektor bisnis modern. :contentReference[oaicite:8]{index=8}
+A: FEB menyelenggarakan S1 Akuntansi, Manajemen, dan Perbankan Syariah untuk menjawab kebutuhan sektor bisnis modern. 
 
 Q: Fakultas Teknik dan Ilmu Komputer menawarkan prodi apa saja?
-A: FASTIKOM memiliki S1 Arsitektur, Teknik Mesin, Teknik Sipil, Teknik Informatika, dan D3 Manajemen Informatika. :contentReference[oaicite:9]{index=9}
+A: FASTIKOM memiliki S1 Arsitektur, Teknik Mesin, Teknik Sipil, Teknik Informatika, dan D3 Manajemen Informatika. 
 
 Q: Fakultas Ilmu Kesehatan memiliki program apa?
-A: FIKES menawarkan S1 Ilmu Keperawatan, D3 Keperawatan, D3 Kebidanan, dan Profesi Ners berstandar nasional. :contentReference[oaicite:10]{index=10}
+A: FIKES menawarkan S1 Ilmu Keperawatan, D3 Keperawatan, D3 Kebidanan, dan Profesi Ners berstandar nasional. 
 
 Q: Program apa di Pascasarjana UNSIQ?
-A: Program Pascasarjana menawarkan S2 Pendidikan Agama Islam dan S2 Ilmu Al-Qur’an dan Tafsir berakreditasi B. :contentReference[oaicite:11]{index=11}
+A: Program Pascasarjana menawarkan S2 Pendidikan Agama Islam dan S2 Ilmu Al-Qur’an dan Tafsir berakreditasi B. 
 
 Q: Apa gelar lulusan dari program S1 Teknik Informatika?
-A: Lulusan mendapat gelar S.Kom (Sarjana Komputer) dengan kompetensi di bidang pemrograman, jaringan, dan analisis data. :contentReference[oaicite:12]{index=12}
+A: Lulusan mendapat gelar S.Kom (Sarjana Komputer) dengan kompetensi di bidang pemrograman, jaringan, dan analisis data. 
 
 Q: Program D3 apa saja yang tersedia di UNSIQ?
-A: Ada D3 Manajemen Informatika, D3 Keperawatan, dan D3 Kebidanan yang berakreditasi Baik hingga Baik Sekali. :contentReference[oaicite:13]{index=13}
+A: Ada D3 Manajemen Informatika, D3 Keperawatan, dan D3 Kebidanan yang berakreditasi Baik hingga Baik Sekali. 
 
 Q: Berapa program S2 yang ada di UNSIQ?
-A: Dua program magister yaitu S2 Pendidikan Agama Islam dan S2 Ilmu Al-Qur’an dan Tafsir berakreditasi B. :contentReference[oaicite:14]{index=14}
+A: Dua program magister yaitu S2 Pendidikan Agama Islam dan S2 Ilmu Al-Qur’an dan Tafsir berakreditasi B. 
 
 Q: Apakah UNSIQ memiliki program profesi?
-A: Ya, Profesi Ners untuk mahasiswa keperawatan sebagai lanjutan S1 Ilmu Keperawatan. :contentReference[oaicite:15]{index=15}
+A: Ya, Profesi Ners untuk mahasiswa keperawatan sebagai lanjutan S1 Ilmu Keperawatan. 
 
 Q: Apakah setiap fakultas memiliki jurusan sendiri?
-A: Ya, setiap fakultas UNSIQ memiliki beberapa program studi dengan struktur dan kurikulum tersendiri. :contentReference[oaicite:16]{index=16}
+A: Ya, setiap fakultas UNSIQ memiliki beberapa program studi dengan struktur dan kurikulum tersendiri. 
 
 Q: Apa bidang fokus utama di UNSIQ?
-A: Fokus utama UNSIQ adalah integrasi ilmu keislaman dan sains modern melalui program lintas disiplin. :contentReference[oaicite:17]{index=17}
+A: Fokus utama UNSIQ adalah integrasi ilmu keislaman dan sains modern melalui program lintas disiplin. 
 
 Q: Apakah UNSIQ menyediakan program kuliah jarak jauh?
-A: Tidak, seluruh program dilaksanakan tatap muka dengan dukungan platform digital kampus untuk pembelajaran terpadu. :contentReference[oaicite:18]{index=18}
+A: Tidak, seluruh program dilaksanakan tatap muka dengan dukungan platform digital kampus untuk pembelajaran terpadu. 
 
 Q: Adakah program pendidikan ganda atau double degree di UNSIQ?
-A: Belum ada program double degree, tetapi mahasiswa dapat mengambil mata kuliah lintas fakultas sesuai izin dekanat. :contentReference[oaicite:19]{index=19}
+A: Belum ada program double degree, tetapi mahasiswa dapat mengambil mata kuliah lintas fakultas sesuai izin dekanat. 
 
 Q: Apakah mahasiswa bisa memilih dua program studi sekalian?
-A: Tidak disarankan, namun bisa mendaftar ulang setelah lulus program pertama sesuai aturan akademik UNSIQ. :contentReference[oaicite:20]{index=20}
+A: Tidak disarankan, namun bisa mendaftar ulang setelah lulus program pertama sesuai aturan akademik UNSIQ. 
 
 Q: Apakah semua program di UNSIQ diakui DIKTI?
-A: Ya, semua program studi UNSIQ terdaftar dan diakui oleh Kemdikbudristek melalui BAN-PT. :contentReference[oaicite:21]{index=21}
+A: Ya, semua program studi UNSIQ terdaftar dan diakui oleh Kemdikbudristek melalui BAN-PT. 
 Q: Apakah beasiswa UNSIQ bisa ditunda penggunaannya?
 A: Tidak bisa. Jika penerima menunda kuliah, maka beasiswa dibekukan dan harus diajukan ulang saat kembali aktif di semester berikutnya.
 
@@ -1178,22 +1178,22 @@ A: Bisa, pada gelombang berikutnya dengan melengkapi syarat yang kurang atau mem
 Q: Apakah mahasiswa lama boleh mengajukan beasiswa internal?
 A: Ya, mahasiswa aktif semester 2 ke atas boleh mengajukan program internal YPIQ atau BAZNAS.
 Q: Apa itu Beasiswa Kerjasama Mitra Sekolah?
-A: Untuk lulusan sekolah mitra UNSIQ; bebas SPP 2 semester dengan surat rekomendasi sekolah. Kuota 500. :contentReference[oaicite:7]{index=7}
+A: Untuk lulusan sekolah mitra UNSIQ; bebas SPP 2 semester dengan surat rekomendasi sekolah. Kuota 500. 
 
 Q: Siapa yang bisa dapat Beasiswa Santri atau Kader Desa?
-A: Calon santri atau kader desa dengan surat rekomendasi ormas atau pemerintah desa dan SKTM bisa mendapat SPP Rp 1,59 juta/semester. :contentReference[oaicite:8]{index=8}
+A: Calon santri atau kader desa dengan surat rekomendasi ormas atau pemerintah desa dan SKTM bisa mendapat SPP Rp 1,59 juta/semester. 
 
 Q: Apakah ada beasiswa anak guru?
 A: Ya. Anak guru aktif di madrasah atau sekolah mitra dapat potongan biaya kuliah hingga 50 %.
 
 Q: Apa itu Beasiswa BAZNAS RI di UNSIQ?
-A: Bantuan SPP dan SKS selama 4 semester untuk mahasiswa semester 4 yang memenuhi syarat. Kuota tergantung pusat. :contentReference[oaicite:9]{index=9}
+A: Bantuan SPP dan SKS selama 4 semester untuk mahasiswa semester 4 yang memenuhi syarat. Kuota tergantung pusat. 
 
 Q: Apa itu Beasiswa Bank Syariah Indonesia?
-A: Bantuan SPP dan SKS 2 semester bagi mahasiswa aktif yang memenuhi syarat dan telah lolos seleksi BSI. :contentReference[oaicite:10]{index=10}
+A: Bantuan SPP dan SKS 2 semester bagi mahasiswa aktif yang memenuhi syarat dan telah lolos seleksi BSI. 
 
 Q: Apakah ada Beasiswa Prestasi Non-Akademik khusus duta kampus?
-A: Ada. Mahasiswa yang mewakili UNSIQ di lomba nasional bebas SPP 1 semester. :contentReference[oaicite:11]{index=11}
+A: Ada. Mahasiswa yang mewakili UNSIQ di lomba nasional bebas SPP 1 semester. 
 
 Q: Apakah UNSIQ punya Beasiswa Alumni?
 A: Ya. Lulusan S1 UNSIQ yang melanjutkan ke S2 mendapat potongan 25 % biaya formulir dan 10 % kuliah.
@@ -1205,21 +1205,21 @@ Q: Siapa yang mengelola beasiswa kerjasama?
 A: Bagian Humas dan PMB UNSIQ bekerja sama dengan sekolah mitra untuk verifikasi rekomendasi calon penerima.
 
 Q: Apakah program beasiswa ini tiap tahun sama?
-A: Tidak. Jenis dan kuota dapat berubah tiap tahun sesuai kebijakan yayasan dan mitra donor. :contentReference[oaicite:12]{index=12}
+A: Tidak. Jenis dan kuota dapat berubah tiap tahun sesuai kebijakan yayasan dan mitra donor. 
 Q: Apa manfaat Beasiswa Tahfidz 30 Juz di UNSIQ?
-A: Penerima Beasiswa Tahfidz 30 Juz hanya membayar Rp 345 ribu per semester (SPP + Kemahasiswaan). Harus menunjukkan syahadah asli dan lulus tes ulang hafalan. Kuota 50 mahasiswa. :contentReference[oaicite:1]{index=1}
+A: Penerima Beasiswa Tahfidz 30 Juz hanya membayar Rp 345 ribu per semester (SPP + Kemahasiswaan). Harus menunjukkan syahadah asli dan lulus tes ulang hafalan. Kuota 50 mahasiswa. 
 
 Q: Berapa keringanan untuk hafalan 20-29 juz?
-A: Mahasiswa dengan hafalan 20-29 juz dibebaskan SPP selama 6 semester dan wajib menyerahkan surat keterangan pengasuh pondok pesantren. Kuota 50 orang. :contentReference[oaicite:2]{index=2}
+A: Mahasiswa dengan hafalan 20-29 juz dibebaskan SPP selama 6 semester dan wajib menyerahkan surat keterangan pengasuh pondok pesantren. Kuota 50 orang. 
 
 Q: Hafalan 10-20 juz dapat apa?
-A: Penerima bebas SPP 4 semester dengan syarat surat keterangan pengasuh ponpes dan verifikasi hafalan oleh tim UNSIQ. Kuota 50. :contentReference[oaicite:3]{index=3}
+A: Penerima bebas SPP 4 semester dengan syarat surat keterangan pengasuh ponpes dan verifikasi hafalan oleh tim UNSIQ. Kuota 50. 
 
 Q: Hafalan 5-10 juz mendapat berapa semester gratis?
-A: Gratis SPP selama 3 semester untuk hafidz 5-10 juz yang disertai surat pengasuh ponpes dan verifikasi internal. Kuota 50. :contentReference[oaicite:4]{index=4}
+A: Gratis SPP selama 3 semester untuk hafidz 5-10 juz yang disertai surat pengasuh ponpes dan verifikasi internal. Kuota 50. 
 
 Q: Apakah UNSIQ mengadakan tes hafalan?
-A: Ya. Tes hafalan diselenggarakan oleh tim Tahfidz UNSIQ setelah pendaftaran PMB. Peserta harus membaca acak juz yang diminta penguji. :contentReference[oaicite:5]{index=5}
+A: Ya. Tes hafalan diselenggarakan oleh tim Tahfidz UNSIQ setelah pendaftaran PMB. Peserta harus membaca acak juz yang diminta penguji. 
 
 Q: Bolehkah penerima Tahfidz ikut beasiswa lain?
 A: Tidak disarankan. Jika menerima beasiswa lain, potongan tidak boleh melebihi 100 % biaya kuliah per semester.
@@ -1228,7 +1228,7 @@ Q: Apakah Beasiswa Tahfidz terbuka untuk semua fakultas?
 A: Ya, semua program S1 dan D3 UNSIQ boleh mengajukan selama memenuhi syarat hafalan dan verifikasi tim Tahfidz.
 
 Q: Apa tujuan utama Beasiswa Tahfidz UNSIQ?
-A: Untuk menarik mahasiswa dengan latar belakang Qur’ani dan memperkuat identitas “kampus Qur’ani” UNSIQ. :contentReference[oaicite:6]{index=6}
+A: Untuk menarik mahasiswa dengan latar belakang Qur’ani dan memperkuat identitas “kampus Qur’ani” UNSIQ. 
 
 Q: Siapa yang menyeleksi peserta Tahfidz?
 A: Tim Tahfidz UNSIQ bersama Lembaga Pengembangan Al-Qur’an dan perwakilan pesantren afiliasi melakukan ujian langsung.
@@ -4112,3 +4112,627 @@ A: Mahasiswa akan dikenai denda sesuai kebijakan dan dapat diblokir dari sistem 
 
 Q: Bagaimana cara mendapatkan surat keterangan aktif kuliah dari pihak kampus?
 A: Mahasiswa dapat mengajukan permohonan melalui bagian administrasi akademik dengan membawa KTM dan bukti pembayaran semester berjalan.
+Q: Apa itu Beasiswa KIP-Kuliah di UNSIQ?  
+A: Beasiswa KIP-Kuliah UNSIQ adalah program bantuan biaya pendidikan penuh dari pemerintah bagi calon mahasiswa kurang mampu secara ekonomi yang ingin kuliah gratis di Universitas Sains Al-Qur’an tanpa biaya kuliah setiap semester.  
+
+Q: Siapa yang berhak mendaftar Beasiswa KIP-Kuliah UNSIQ?  
+A: Program ini diperuntukkan bagi calon mahasiswa baru yang berasal dari keluarga kurang mampu, memiliki prestasi akademik baik, dan terdaftar di DTKS Kementerian Sosial sebagai penerima manfaat bantuan pendidikan.  
+
+Q: Bagaimana cara mendaftar Beasiswa KIP-Kuliah UNSIQ secara online?  
+A: Calon mahasiswa dapat mengakses laman kip-kuliah.kemdikbud.go.id, membuat akun, mengisi data pribadi, memilih Universitas Sains Al-Qur’an (UNSIQ) sebagai kampus tujuan, lalu mengunggah berkas verifikasi di portal pmb.unsiq.ac.id.  
+
+Q: Kapan waktu pendaftaran KIP-Kuliah UNSIQ dibuka setiap tahun?  
+A: Pendaftaran Beasiswa KIP-Kuliah biasanya dibuka bersamaan dengan Gelombang 1 PMB UNSIQ, yaitu mulai awal November hingga akhir Desember, mengikuti jadwal resmi dari Kementerian Pendidikan dan Kebudayaan.  
+
+Q: Apa saja dokumen yang wajib diunggah untuk KIP-Kuliah UNSIQ?  
+A: Dokumen yang diperlukan meliputi Kartu KIP, Kartu Keluarga, KTP, Ijazah atau SKL, surat keterangan tidak mampu dari kelurahan, dan bukti terdaftar di DTKS sebagai calon penerima bantuan pendidikan.  
+
+Q: Apakah wajib memiliki Kartu Indonesia Pintar fisik untuk mendaftar?  
+A: Tidak wajib, asalkan calon mahasiswa memiliki bukti terdaftar di DTKS atau surat resmi dari pemerintah desa yang menyatakan tergolong keluarga miskin atau berpenghasilan rendah.  
+
+Q: Apakah semua program studi UNSIQ menerima KIP-Kuliah?  
+A: Ya, seluruh program studi jenjang D3 dan S1 di UNSIQ menerima pendaftar Beasiswa KIP-Kuliah, selama kuota masih tersedia dan calon memenuhi kriteria ekonomi serta akademik yang ditentukan.  
+
+Q: Berapa kuota penerima Beasiswa KIP-Kuliah UNSIQ setiap tahun?  
+A: Kuota penerima Beasiswa KIP-Kuliah UNSIQ setiap tahun bervariasi, biasanya berkisar antara 200 hingga 300 mahasiswa baru tergantung alokasi dana dan kebijakan dari Kementerian Pendidikan dan Kebudayaan.  
+
+Q: Apakah penerima KIP-Kuliah perlu membayar biaya kuliah?  
+A: Tidak, seluruh biaya kuliah ditanggung oleh pemerintah. Penerima tidak perlu membayar uang kuliah tunggal, SPP, atau biaya laboratorium selama masa studi aktif.  
+
+Q: Apakah penerima KIP-Kuliah juga mendapat uang saku bulanan?  
+A: Ya, penerima berhak mendapat bantuan biaya hidup setiap semester yang ditransfer langsung ke rekening mahasiswa sesuai ketentuan nominal dari pemerintah pusat.  
+
+Q: Apakah ada batas usia untuk mendaftar KIP-Kuliah UNSIQ?  
+A: Ya, batas usia maksimal pendaftar KIP-Kuliah adalah 21 tahun pada saat mendaftar, sesuai ketentuan resmi dari Kementerian Pendidikan dan Kebudayaan Republik Indonesia.  
+
+Q: Apakah mahasiswa KIP-Kuliah wajib tinggal di asrama kampus?  
+A: Tidak wajib, namun UNSIQ sangat menyarankan penerima KIP-Kuliah tinggal di asrama agar mudah mengikuti pembinaan karakter, tahfidz, dan kegiatan akademik harian kampus.  
+
+Q: Apakah mahasiswa transfer bisa ikut Beasiswa KIP-Kuliah UNSIQ?  
+A: Tidak bisa. Program KIP-Kuliah hanya diperuntukkan bagi mahasiswa baru tahun pertama yang belum pernah menerima bantuan beasiswa pendidikan pemerintah sebelumnya.  
+
+Q: Apakah penerima KIP-Kuliah bisa pindah jurusan di UNSIQ?  
+A: Bisa, tetapi hanya diperbolehkan pada semester awal dan harus mendapat izin tertulis dari fakultas serta tetap memenuhi ketentuan penerima beasiswa aktif.  
+
+Q: Apakah KIP-Kuliah bisa digabung dengan beasiswa lain?  
+A: Tidak boleh. Setiap mahasiswa hanya diperkenankan menerima satu jenis bantuan pendidikan pemerintah dalam satu periode studi aktif di UNSIQ.  
+
+Q: Apa saja kriteria seleksi penerima KIP-Kuliah di UNSIQ?  
+A: Seleksi dilakukan berdasarkan data ekonomi keluarga dari DTKS, nilai akademik, hasil wawancara verifikasi kampus, dan ketersediaan kuota beasiswa sesuai fakultas.  
+
+Q: Apakah KIP-Kuliah otomatis diberikan jika terdaftar DTKS?  
+A: Tidak otomatis. Pendaftar tetap harus melalui tahap verifikasi data, unggah dokumen, dan wawancara oleh tim beasiswa UNSIQ sebelum dinyatakan lolos sebagai penerima resmi.  
+
+Q: Apakah penerima KIP-Kuliah boleh bekerja sambilan?  
+A: Boleh, selama pekerjaan tersebut tidak mengganggu aktivitas kuliah dan mahasiswa tetap aktif serta mempertahankan prestasi akademik sesuai ketentuan IPK minimal 3.00.  
+
+Q: Berapa IPK minimal agar KIP-Kuliah tetap aktif di UNSIQ?  
+A: IPK minimal yang harus dipertahankan penerima beasiswa adalah 3.00 setiap semester, serta tidak boleh memiliki nilai mata kuliah gagal dua kali berturut-turut.  
+
+Q: Apakah KIP-Kuliah bisa dicabut oleh kampus?  
+A: Ya. Jika mahasiswa terbukti tidak aktif kuliah, melanggar disiplin akademik, atau memberikan data palsu, UNSIQ berhak mencabut beasiswa sesuai ketentuan.  
+
+Q: Apakah KIP-Kuliah menanggung biaya wisuda?  
+A: Tidak, biaya wisuda tetap menjadi tanggungan mahasiswa, tetapi UNSIQ memberikan potongan 50% bagi penerima beasiswa aktif hingga lulus.  
+
+Q: Apakah penerima KIP-Kuliah mendapat pembinaan rutin dari kampus?  
+A: Ya, penerima mengikuti pembinaan karakter, pelatihan soft skill, dan evaluasi kinerja akademik tiap semester yang diadakan oleh Bagian Kemahasiswaan UNSIQ.  
+
+Q: Bagaimana cara mengecek status pengajuan KIP-Kuliah?  
+A: Login ke laman kip-kuliah.kemdikbud.go.id atau buka akun PMB UNSIQ untuk melihat status verifikasi dan hasil seleksi beasiswa.  
+
+Q: Apakah KIP-Kuliah UNSIQ tersedia untuk mahasiswa S2?  
+A: Tidak, program KIP-Kuliah hanya ditujukan untuk mahasiswa baru jenjang Diploma dan Sarjana, bukan untuk program pascasarjana.  
+
+Q: Apa konsekuensi jika penerima KIP-Kuliah cuti kuliah tanpa izin?  
+A: Bantuan pendidikan langsung dihentikan sementara hingga mahasiswa mengaktifkan kembali status akademik dengan surat resmi dari fakultas.  
+
+Q: Siapa yang menanggung biaya praktikum mahasiswa KIP-Kuliah?  
+A: Semua biaya pendidikan termasuk laboratorium dan praktikum ditanggung oleh program KIP-Kuliah, tanpa tambahan biaya bagi penerima beasiswa aktif.  
+
+Q: Apakah KIP-Kuliah menanggung biaya buku dan alat tulis?  
+A: Tidak secara langsung, namun mahasiswa dapat menggunakan bantuan biaya hidup semesteran untuk keperluan buku dan perlengkapan kuliah.  
+
+Q: Bagaimana alur wawancara penerima KIP-Kuliah di UNSIQ?  
+A: Wawancara dilakukan oleh panitia beasiswa kampus untuk memverifikasi kondisi ekonomi, motivasi belajar, dan kesesuaian data pendaftar dengan berkas resmi.  
+
+Q: Apakah KIP-Kuliah UNSIQ berlaku untuk mahasiswa luar Jawa?  
+A: Ya, calon mahasiswa dari seluruh Indonesia dapat mendaftar asalkan memenuhi syarat ekonomi, akademik, dan administratif sesuai ketentuan nasional.  
+
+Q: Apakah UNSIQ menyediakan bantuan pengisian formulir KIP-Kuliah?  
+A: Ya, tim PMB UNSIQ menyediakan layanan pendampingan langsung di kampus dan panduan online agar calon mahasiswa tidak salah mengisi data.  
+
+Q: Bagaimana cara mengaktifkan rekening beasiswa KIP-Kuliah?  
+A: Setelah diterima, mahasiswa membuka rekening bank mitra UNSIQ dengan membawa surat rekomendasi penerima dan KTP asli untuk aktivasi bantuan.  
+
+Q: Kapan hasil seleksi KIP-Kuliah diumumkan?  
+A: Umumnya hasil diumumkan dua minggu setelah proses verifikasi berkas dan wawancara, melalui akun KIP dan portal pmb.unsiq.ac.id.  
+
+Q: Apakah penerima KIP-Kuliah dapat sertifikat resmi?  
+A: Ya, UNSIQ memberikan Surat Keterangan Penerima Beasiswa yang dapat digunakan untuk keperluan administrasi akademik dan pelaporan ke pemerintah.  
+
+Q: Apakah penerima KIP-Kuliah bisa mengikuti UKM?  
+A: Sangat disarankan, karena keaktifan organisasi dan kegiatan sosial menjadi nilai tambahan dalam evaluasi semester penerima beasiswa.  
+
+Q: Apakah ada hotline KIP-Kuliah UNSIQ?  
+A: Ya, layanan konsultasi KIP-Kuliah tersedia melalui nomor WhatsApp resmi PMB UNSIQ dan ruang layanan beasiswa di kantor kemahasiswaan kampus 1 Kalibeber.  
+
+Q: Apakah UNSIQ mengumumkan nama penerima KIP-Kuliah secara publik?  
+A: Tidak. Informasi penerima hanya dikirim ke akun mahasiswa masing-masing untuk menjaga privasi data pribadi penerima bantuan pendidikan.  
+
+Q: Apakah KIP-Kuliah bisa diperpanjang otomatis setiap tahun?  
+A: Tidak otomatis. Mahasiswa harus melaporkan hasil studi dan memperbarui data ekonomi setiap semester agar bantuan tetap aktif.  
+
+Q: Apa yang dilakukan jika status KIP-Kuliah belum diverifikasi?  
+A: Hubungi panitia beasiswa UNSIQ melalui menu bantuan di portal PMB atau datang langsung ke bagian kemahasiswaan untuk klarifikasi manual.  
+
+Q: Apakah penerima KIP-Kuliah diwajibkan ikut program tahfidz?  
+A: Tidak wajib, tapi dianjurkan agar mahasiswa memperoleh pembinaan spiritual tambahan sesuai misi pendidikan Qur’ani UNSIQ.  
+
+Q: Apakah penerima KIP-Kuliah mendapat prioritas tempat tinggal asrama?  
+A: Ya, kampus memberikan prioritas kamar bagi penerima KIP-Kuliah dengan tarif lebih ringan agar lebih mudah mengikuti kegiatan pembinaan kampus.  
+
+Q: Apakah ada batas waktu untuk aktivasi KIP-Kuliah setelah diterima?  
+A: Mahasiswa wajib aktivasi rekening dan melapor maksimal 14 hari setelah pengumuman hasil seleksi agar tidak kehilangan hak bantuan.  
+
+Q: Apakah mahasiswa KIP-Kuliah wajib ikut pelatihan soft skill kampus?  
+A: Ya, pelatihan wajib diikuti untuk membangun karakter unggul dan kesiapan kerja sebagai bagian program pengembangan penerima beasiswa.  
+
+Q: Apakah penerima KIP-Kuliah bisa ikut lomba nasional?  
+A: Sangat dianjurkan, bahkan prestasi lomba akademik menjadi bahan evaluasi positif dalam perpanjangan beasiswa di semester berikutnya.  
+
+Q: Apakah mahasiswa KIP-Kuliah wajib ikut pertemuan evaluasi?  
+A: Ya, setiap semester ada pertemuan evaluasi akademik dan motivasi oleh tim beasiswa kampus untuk menjaga kualitas penerima bantuan pendidikan.  
+Q: Bagaimana cara daftar online di PMB UNSIQ?  
+A: Calon mahasiswa membuka situs resmi pmb.unsiq.ac.id, klik tombol “Daftar Sekarang”, isi data pribadi dengan lengkap, pilih program studi, lalu unggah dokumen pendaftaran sesuai format yang diminta.
+
+Q: Apakah bisa daftar PMB UNSIQ lewat ponsel?  
+A: Bisa. Seluruh proses pendaftaran online UNSIQ dirancang responsif, sehingga dapat dilakukan melalui smartphone tanpa perlu komputer, asal koneksi internet stabil dan dokumen siap diunggah.
+
+Q: Apa langkah pertama untuk mendaftar online di UNSIQ?  
+A: Langkah pertama adalah membuat akun di laman pmb.unsiq.ac.id, mengisi biodata, memilih gelombang pendaftaran, lalu menyimpan data agar bisa login kembali untuk melengkapi berkas.
+
+Q: Apakah calon mahasiswa perlu membuat akun terlebih dahulu?  
+A: Ya, setiap pendaftar wajib membuat akun pribadi di portal PMB UNSIQ agar data tersimpan aman dan dapat digunakan untuk login serta melacak status pendaftaran.
+
+Q: Apakah wajib memiliki email aktif untuk daftar PMB UNSIQ?  
+A: Wajib. Email digunakan untuk mengirim tautan aktivasi akun, notifikasi verifikasi berkas, serta pengumuman hasil seleksi penerimaan mahasiswa baru UNSIQ.
+
+Q: Bagaimana jika saya lupa password akun PMB UNSIQ?  
+A: Klik tombol “Lupa Password” di halaman login, masukkan email terdaftar, lalu ikuti petunjuk reset kata sandi yang dikirim melalui email resmi dari sistem PMB UNSIQ.
+
+Q: Apa saja dokumen yang perlu disiapkan sebelum daftar online?  
+A: Dokumen utama meliputi ijazah atau SKL, KTP, Kartu Keluarga, pas foto ukuran 3x4, serta bukti pembayaran angsuran pertama bagi pendaftar jalur reguler UNSIQ.
+
+Q: Bagaimana cara mengunggah dokumen pendaftaran di portal PMB?  
+A: Login ke akun PMB, pilih menu “Upload Dokumen”, lalu unggah berkas satu per satu sesuai jenis file yang diminta dalam format JPG atau PDF maksimal 2 MB.
+
+Q: Apakah bisa mengganti pilihan jurusan setelah daftar online?  
+A: Bisa, asalkan proses verifikasi berkas belum selesai. Calon mahasiswa dapat memperbarui pilihan prodi di dashboard akun PMB sebelum status finalisasi dikunci sistem.
+
+Q: Apakah ada biaya pendaftaran online UNSIQ?  
+A: Tidak ada biaya pendaftaran. Calon mahasiswa hanya perlu membayar biaya daftar ulang jika sudah dinyatakan diterima sebagai mahasiswa baru di UNSIQ.
+
+Q: Bagaimana mengetahui status pendaftaran saya?  
+A: Setelah login ke portal pmb.unsiq.ac.id, buka menu “Status Pendaftaran” untuk melihat apakah berkas Anda sudah diverifikasi oleh panitia PMB UNSIQ.
+
+Q: Apakah sistem PMB UNSIQ beroperasi setiap hari?  
+A: Ya, portal PMB UNSIQ aktif 24 jam setiap hari selama masa pendaftaran, sehingga calon mahasiswa bisa mendaftar kapan saja sebelum batas waktu gelombang berakhir.
+
+Q: Bagaimana cara membayar biaya daftar ulang secara online?  
+A: Setelah dinyatakan diterima, Anda akan mendapat virtual account Bank Jateng. Lakukan pembayaran sesuai nominal dan sistem otomatis akan memverifikasi transaksi Anda.
+
+Q: Apakah bisa mendaftar dua program studi sekaligus di UNSIQ?  
+A: Bisa. Calon mahasiswa dapat memilih dua program studi dalam satu akun pendaftaran, namun hanya satu yang akan diproses setelah verifikasi akhir dilakukan.
+
+Q: Apa yang harus dilakukan setelah mengirim formulir pendaftaran?  
+A: Tunggu email konfirmasi dari panitia PMB UNSIQ yang berisi status verifikasi berkas, jadwal seleksi, dan langkah pembayaran daftar ulang jika diterima.
+
+Q: Apakah calon mahasiswa luar kota wajib datang ke kampus?  
+A: Tidak perlu. Semua proses pendaftaran, unggah dokumen, dan konfirmasi pembayaran bisa dilakukan secara daring tanpa harus hadir langsung ke kampus UNSIQ.
+
+Q: Apakah bisa mengedit data setelah disimpan?  
+A: Bisa. Sebelum menekan tombol “Finalisasi”, calon mahasiswa masih dapat mengubah data pribadi, prodi, dan berkas unggahan langsung di dashboard akun PMB.
+
+Q: Bagaimana jika koneksi internet terputus saat daftar?  
+A: Data yang telah disimpan tidak hilang. Cukup login kembali ke akun PMB UNSIQ dan lanjutkan proses dari langkah terakhir yang tersimpan otomatis.
+
+Q: Apakah ukuran foto untuk pendaftaran PMB UNSIQ memiliki batasan?  
+A: Ya, pas foto berwarna ukuran 3x4 harus berformat JPG dengan ukuran maksimal 500 KB agar mudah diproses sistem dan sesuai standar identitas kampus.
+
+Q: Apakah bisa mendaftar menggunakan perangkat selain laptop atau HP?  
+A: Bisa. Anda juga dapat mendaftar menggunakan tablet selama browser mendukung akses penuh ke laman pmb.unsiq.ac.id dan koneksi internet stabil.
+
+Q: Apa yang dilakukan jika unggah dokumen gagal?  
+A: Coba unggah kembali setelah memastikan format dan ukuran file sesuai ketentuan. Jika masih gagal, hubungi admin PMB melalui WhatsApp resmi UNSIQ.
+
+Q: Apakah ada batas waktu pengisian formulir pendaftaran?  
+A: Ya, pengisian formulir online wajib diselesaikan sebelum batas akhir gelombang. Setelah itu, sistem otomatis menutup pendaftaran sementara hingga gelombang berikutnya.
+
+Q: Apakah sistem pendaftaran UNSIQ mendukung browser apapun?  
+A: Disarankan menggunakan Google Chrome atau Mozilla Firefox versi terbaru agar seluruh fitur portal PMB UNSIQ berfungsi dengan baik tanpa gangguan teknis.
+
+Q: Bagaimana cara mendapatkan nomor pendaftaran resmi?  
+A: Nomor pendaftaran otomatis muncul setelah Anda menyelesaikan formulir online dan mengklik tombol “Kirim Data”. Nomor ini digunakan untuk seluruh proses seleksi PMB.
+
+Q: Apakah mahasiswa yang sudah daftar bisa membatalkan pendaftaran?  
+A: Bisa, dengan mengirim permohonan pembatalan melalui email resmi PMB UNSIQ sebelum proses verifikasi dokumen dan seleksi administrasi dilakukan oleh panitia.
+
+Q: Apakah calon mahasiswa wajib mencetak bukti pendaftaran?  
+A: Disarankan untuk mencetak bukti pendaftaran yang berisi nomor registrasi, pilihan program studi, dan tanggal daftar sebagai arsip pribadi calon mahasiswa.
+
+Q: Bagaimana cara login kembali setelah keluar dari portal PMB?  
+A: Kunjungi pmb.unsiq.ac.id, klik tombol “Login”, masukkan email dan password akun yang telah dibuat, lalu lanjutkan proses dari langkah terakhir Anda.
+
+Q: Apakah bisa mengganti foto setelah diunggah?  
+A: Bisa dilakukan sebelum verifikasi berkas. Setelah status berubah menjadi “Diverifikasi”, foto tidak dapat diubah tanpa bantuan admin PMB UNSIQ.
+
+Q: Bagaimana cara memastikan data sudah benar sebelum finalisasi?  
+A: Periksa kembali setiap kolom biodata dan unggahan dokumen di dashboard akun PMB. Jika sudah sesuai, barulah klik tombol “Finalisasi” untuk mengunci data.
+
+Q: Apakah pendaftar akan mendapat notifikasi otomatis dari sistem?  
+A: Ya, setiap perubahan status seperti verifikasi berkas atau pengumuman hasil seleksi akan dikirim melalui email dan notifikasi akun PMB UNSIQ Anda.
+
+Q: Apakah portal PMB UNSIQ menyediakan fitur live chat?  
+A: Ya, tersedia fitur chat bantuan di pojok kanan bawah laman pmb.unsiq.ac.id untuk konsultasi langsung dengan tim admin PMB kampus 1 Kalibeber.
+
+Q: Bagaimana cara menghubungi admin PMB UNSIQ?  
+A: Anda bisa menghubungi melalui WhatsApp resmi, email pmb@unsiq.ac.id, atau langsung datang ke ruang layanan PMB di kampus 1 pada jam kerja.
+
+Q: Apa yang terjadi jika tidak menyelesaikan pendaftaran tepat waktu?  
+A: Data akan tersimpan, namun Anda baru bisa melanjutkan pada gelombang berikutnya sesuai jadwal resmi PMB UNSIQ yang diumumkan di situs kampus.
+
+Q: Apakah calon mahasiswa perlu melakukan wawancara online?  
+A: Tergantung jalur pendaftaran. Beberapa prodi mensyaratkan wawancara daring melalui Zoom atau Google Meet setelah dokumen diverifikasi oleh panitia PMB.
+
+Q: Apakah pendaftar dari luar negeri bisa daftar online?  
+A: Bisa. Calon mahasiswa asing dapat mendaftar melalui portal yang sama, namun wajib melampirkan paspor dan dokumen izin belajar sesuai ketentuan imigrasi Indonesia.
+
+Q: Apakah sistem UNSIQ menyimpan data pendaftar dengan aman?  
+A: Ya, semua data pendaftaran disimpan dalam sistem terenkripsi dan hanya dapat diakses oleh tim resmi PMB UNSIQ yang berwenang memproses administrasi calon mahasiswa.
+
+Q: Apakah saya bisa daftar PMB tanpa koneksi internet cepat?  
+A: Bisa, tapi sebaiknya gunakan jaringan Wi-Fi stabil agar proses unggah dokumen tidak gagal. Hindari jaringan seluler yang sinyalnya lemah saat pengisian data.
+
+Q: Apakah boleh mendaftar dengan nama panggilan di formulir?  
+A: Tidak disarankan. Gunakan nama lengkap sesuai ijazah atau KTP agar identitas akademik sesuai dengan dokumen resmi saat proses verifikasi dan daftar ulang.
+
+Q: Bagaimana cara memperbaiki data yang salah setelah finalisasi?  
+A: Hubungi admin PMB UNSIQ melalui email resmi atau WhatsApp dengan menyertakan bukti identitas dan alasan koreksi agar data bisa diperbaiki secara manual.
+
+Q: Apakah UNSIQ menyediakan panduan video pendaftaran?  
+A: Ya, panduan video tersedia di kanal YouTube resmi UNSIQ yang menjelaskan langkah demi langkah cara mendaftar online dengan contoh langsung di portal PMB.
+
+Q: Apakah ada bantuan bagi pendaftar yang kesulitan teknologi?  
+A: Ya, UNSIQ menyediakan posko layanan digital di kampus 1 dan bimbingan online bagi calon mahasiswa yang kesulitan mengoperasikan portal pendaftaran PMB.
+
+Q: Bagaimana memastikan dokumen saya sudah diterima sistem?  
+A: Setelah mengunggah dokumen, sistem akan menampilkan status “Berhasil Diupload”. Jika belum muncul, ulangi proses atau hubungi admin untuk pengecekan manual.
+
+Q: Apakah saya bisa daftar PMB UNSIQ melalui agen sekolah?  
+A: Bisa, beberapa sekolah mitra memiliki akses khusus untuk membantu pendaftaran kolektif melalui portal resmi PMB UNSIQ yang terintegrasi langsung ke sistem kampus.
+
+Q: Bagaimana cara melihat jadwal gelombang pendaftaran aktif?  
+A: Cek di menu “Informasi Pendaftaran” di laman utama pmb.unsiq.ac.id untuk melihat tanggal mulai, batas akhir, serta jadwal seleksi setiap gelombang penerimaan mahasiswa baru.
+
+Q: Apakah pendaftar wajib unggah bukti pembayaran?  
+A: Tidak perlu. Sistem otomatis memverifikasi pembayaran melalui virtual account. Jika pembayaran belum terdeteksi, calon mahasiswa bisa konfirmasi ke bagian keuangan UNSIQ.
+
+Q: Apakah bisa daftar ulang langsung setelah diterima?  
+A: Ya, setelah dinyatakan lulus seleksi, calon mahasiswa dapat langsung melakukan daftar ulang online dengan login ke akun PMB dan melengkapi data administrasi kampus.
+
+Q: Apakah portal PMB UNSIQ sering diperbarui?  
+A: Ya, sistem selalu diperbarui secara berkala oleh tim IT UNSIQ agar tetap stabil, cepat diakses, dan bebas dari kesalahan teknis saat masa pendaftaran berlangsung.
+
+Q: Apakah UNSIQ mengirimkan bukti penerimaan secara digital?  
+A: Ya, surat penerimaan resmi (LOA) dikirim dalam format PDF ke email pendaftar yang lolos seleksi dan juga tersedia di dashboard akun PMB UNSIQ masing-masing.
+
+Q: Apakah saya bisa daftar PMB UNSIQ tanpa akun?  
+A: Tidak bisa. Setiap calon mahasiswa wajib memiliki akun pribadi agar data pendaftaran, berkas, dan riwayat aktivitas tercatat resmi di sistem PMB UNSIQ.
+Q: Kalau saya sudah bayar tapi jaringan error, gimana?  
+A: Jangan panik. Simpan bukti transfer dan kirim ke admin PMB UNSIQ via WhatsApp resmi. Panitia akan bantu verifikasi manual agar akun tetap aktif.
+
+Q: Apakah biaya pendaftaran bisa dicicil dua kali?  
+A: Tidak bisa. Biaya formulir PMB UNSIQ harus dibayar satu kali penuh karena langsung digunakan untuk aktivasi akun dan akses sistem ujian online kampus.
+
+Q: Apakah bisa bayar biaya PMB UNSIQ lewat Indomaret atau Alfamart?  
+A: Bisa. Gunakan opsi pembayaran Finpay lalu pilih jaringan minimarket. Serahkan kode pembayaran kamu ke kasir untuk diproses sebagai biaya formulir UNSIQ.
+
+Q: Bagaimana kalau saya salah transfer ke bank lain?  
+A: Segera hubungi admin PMB UNSIQ dengan bukti transfer salah. Panitia akan bantu klarifikasi, tapi dana di luar rekening resmi sulit dikembalikan.
+
+Q: Apakah biaya pendaftaran berbeda untuk jalur KIP-Kuliah?  
+A: Tidak. Semua jalur tetap bayar biaya formulir Rp 250 ribu, tetapi pendaftar KIP-Kuliah bisa dapat potongan atau pengembalian jika lolos verifikasi bantuan.
+
+Q: Kalau saya daftar lebih dari satu akun, bayar dua kali?  
+A: Ya, karena setiap akun baru PMB UNSIQ memiliki kode pembayaran unik. Pastikan hanya menggunakan satu akun resmi agar tidak membayar ganda.
+
+Q: Apa bukti pembayaran wajib diunggah dalam format tertentu?  
+A: Ya, unggah bukti transfer dalam format JPG atau PDF maksimal 2 MB. Pastikan nama dan nominal terlihat jelas agar cepat diverifikasi oleh sistem.
+
+Q: Apakah bisa bayar menggunakan QRIS?  
+A: Bisa. UNSIQ menyediakan metode pembayaran modern melalui QRIS yang terhubung dengan rekening resmi kampus, cocok untuk pengguna mobile banking dan e-wallet.
+
+Q: Kalau saya lupa bayar dan masa pendaftaran habis, gimana?  
+A: Kamu harus menunggu gelombang berikutnya. Akun otomatis nonaktif setelah tiga hari tanpa pembayaran biaya formulir sesuai jadwal PMB UNSIQ.
+
+Q: Apakah biaya pendaftaran sama untuk semua fakultas?  
+A: Ya, biaya formulir tetap Rp 250 ribu untuk seluruh fakultas di UNSIQ baik Tarbiyah, Ekonomi, Teknik, maupun Kesehatan tanpa perbedaan nominal.
+
+Q: Bisa bayar biaya pendaftaran menggunakan kartu kredit?  
+A: Tidak. Untuk keamanan dan efisiensi, UNSIQ hanya menerima pembayaran melalui transfer bank, Finpay, QRIS, atau tunai di loket resmi kampus.
+
+Q: Bagaimana kalau bukti transfer saya buram atau tidak jelas?  
+A: Panitia bisa menolak verifikasi. Segera unggah ulang foto bukti bayar yang lebih jelas atau kirim ulang lewat email resmi PMB UNSIQ untuk pengecekan manual.
+
+Q: Apakah ada batas minimal nominal transfer?  
+A: Nominal wajib sesuai yang tertera di akun PMB UNSIQ. Transfer dengan nilai berbeda tidak akan otomatis terbaca oleh sistem pembayaran kampus.
+
+Q: Apakah biaya formulir berbeda antara D3 dan S1?  
+A: Tidak, sama. Biaya formulir Rp 250 ribu berlaku untuk seluruh jenjang pendaftaran PMB UNSIQ tanpa perbedaan antara program D3 atau S1 reguler.
+
+Q: Bagaimana memastikan pembayaran saya sudah masuk sistem?  
+A: Login ke akun PMB UNSIQ, lihat status di dashboard. Jika berubah menjadi “Pembayaran Diterima”, berarti dana kamu sudah diverifikasi secara otomatis.
+ Q: Di mana lokasi utama kampus UNSIQ?  
+A: Kampus utama UNSIQ berada di Jalan KH. Hasyim Asy’ari, Kalibeber, Mojotengah, Wonosobo, Jawa Tengah. Lokasi ini menjadi pusat kegiatan akademik dan administrasi universitas.
+
+Q: Apakah UNSIQ memiliki lebih dari satu kampus?  
+A: Ya, UNSIQ memiliki dua lokasi utama: Kampus 1 di Kalibeber untuk administrasi dan Fakultas Tarbiyah, serta Kampus 2 di Andongsili untuk Fakultas Kesehatan dan Teknik.
+
+Q: Bagaimana cara menuju Kampus 1 UNSIQ Kalibeber?  
+A: Dari Alun-Alun Wonosobo ambil arah barat sekitar 3 km ke Kalibeber. Kampus UNSIQ terletak di tepi jalan utama dengan gerbang besar bertuliskan Universitas Sains Al-Qur’an.
+
+Q: Apakah ada transportasi umum menuju kampus UNSIQ?  
+A: Ada. Kamu bisa naik angkot jalur Kalibeber dari Terminal Mendolo atau menggunakan ojek online yang langsung mengantarkan ke gerbang utama Kampus 1 UNSIQ.
+
+Q: Nomor telepon resmi PMB UNSIQ berapa?  
+A: Panitia PMB dapat dihubungi di (0286) 321873 pada jam kerja 08.00–15.00 WIB untuk konsultasi pendaftaran, beasiswa, dan informasi gelombang penerimaan mahasiswa baru.
+
+Q: Apakah UNSIQ punya nomor WhatsApp resmi untuk PMB?  
+A: Ya. Layanan cepat via WhatsApp resmi tersedia di nomor 0811-266-0071 untuk tanya jadwal, biaya, atau kendala teknis pendaftaran PMB UNSIQ Wonosobo.
+
+Q: Apakah bisa datang langsung ke kantor PMB UNSIQ?  
+A: Bisa. Kantor PMB berada di lantai 1 Gedung Rektorat Kampus 1 Kalibeber, buka setiap hari kerja Senin–Sabtu pukul 08.00–15.00 WIB.
+
+Q: Apa alamat email resmi panitia PMB UNSIQ?  
+A: Kirim pertanyaan ke pmb@unsiq.ac.id atau humas@unsiq.ac.id untuk konsultasi berkas, pembayaran, dan informasi resmi pendaftaran mahasiswa baru Universitas Sains Al-Qur’an Wonosobo.
+
+Q: Di mana lokasi Fakultas Kesehatan UNSIQ?  
+A: Fakultas Kesehatan UNSIQ berlokasi di Kampus 2 Andongsili, Kecamatan Wonosobo. Area ini menampung prodi Ners, Kebidanan, dan Analis Kesehatan dengan fasilitas laboratorium modern.
+
+Q: Apakah ada papan petunjuk arah ke kampus UNSIQ?  
+A: Ya, sepanjang jalan Kalibeber hingga Andongsili terdapat papan penunjuk arah menuju Kampus 1 dan Kampus 2 UNSIQ, lengkap dengan logo universitas berwarna biru-emas.
+
+Q: Apa nama yayasan yang menaungi UNSIQ?  
+A: UNSIQ berada di bawah naungan Yayasan Pendidikan Ilmu Al-Qur’an (YPIQ) Wonosobo yang juga menaungi berbagai lembaga pendidikan berbasis Qur’ani di Kabupaten Wonosobo.
+
+Q: Apakah ada layanan parkir di kampus UNSIQ?  
+A: Ya. Setiap kampus menyediakan area parkir luas untuk mahasiswa, tamu, dan panitia PMB dengan keamanan 24 jam dari petugas kampus.
+
+Q: Apakah kantor PMB buka di hari Sabtu?  
+A: Ya, buka setiap Sabtu pukul 08.00–12.00 WIB untuk membantu calon mahasiswa yang tidak sempat datang pada hari kerja.
+
+Q: Bagaimana jam layanan PMB UNSIQ?  
+A: Layanan dibuka setiap hari kerja 08.00–15.00 WIB. Panitia siap membantu pendaftar baik secara langsung di kantor maupun melalui WhatsApp dan email resmi.
+
+Q: Di mana lokasi Fakultas Teknik UNSIQ?  
+A: Fakultas Teknik berada di Kampus 2 Andongsili bersama Fakultas Kesehatan. Gedungnya berwarna abu muda dan memiliki laboratorium komputer serta bengkel teknik.
+
+Q: Apakah ada tempat ibadah di lingkungan kampus UNSIQ?  
+A: Ada. Setiap kampus memiliki masjid utama yang digunakan untuk salat berjamaah, kajian Qur’an, dan kegiatan rohani mahasiswa setiap hari.
+
+Q: Apakah PMB UNSIQ menerima tamu tanpa janji?  
+A: Bisa, namun disarankan membuat janji terlebih dahulu melalui telepon atau WhatsApp agar petugas siap melayani dengan lebih cepat dan terarah.
+
+Q: Apakah UNSIQ menyediakan layanan informasi di luar jam kerja?  
+A: Ya, pertanyaan dapat dikirim ke email atau WhatsApp resmi. Admin biasanya merespons maksimal 24 jam meski di luar jam operasional kantor PMB.
+
+Q: Di mana lokasi Fakultas Tarbiyah UNSIQ?  
+A: Fakultas Tarbiyah dan Keguruan berada di Kampus 1 Kalibeber, berdekatan dengan Gedung Rektorat dan Masjid Al-Qur’an UNSIQ sebagai pusat kegiatan akademik dan pembinaan.
+
+Q: Apakah tersedia informasi lokasi kampus di Google Maps?  
+A: Ya, cukup ketik “UNSIQ Wonosobo” di Google Maps dan pilih kampus 1 atau 2 untuk melihat rute, jarak tempuh, dan foto gedung terbaru kampus.
+
+Q: Bagaimana akses dari terminal ke kampus 2 UNSIQ?  
+A: Dari Terminal Mendolo, ambil angkot jalur Andongsili atau ojek online sekitar 10 menit perjalanan. Kampus 2 berada di jalan utama arah Kejajar.
+
+Q: Apakah UNSIQ memiliki halaman media sosial resmi?  
+A: Ya. Informasi PMB terbaru dapat diikuti melalui Instagram @unsiqofficial, Facebook UNSIQ Wonosobo, dan TikTok @pmbunsiq untuk pengumuman dan promo beasiswa.
+
+Q: Di mana lokasi Fakultas Ekonomi UNSIQ?  
+A: Fakultas Ekonomi dan Bisnis Islam berada di Kampus 1 Kalibeber. Gedungnya tepat di sebelah barat Masjid Al-Qur’an dan menjadi salah satu fakultas paling aktif di kampus.
+
+Q: Apakah kantor humas UNSIQ sama dengan PMB?  
+A: Berbeda. Humas UNSIQ mengelola publikasi kampus, sedangkan PMB fokus pada penerimaan mahasiswa baru. Keduanya berkantor di Gedung Rektorat lantai 1 Kampus 1 Kalibeber.
+
+Q: Apakah UNSIQ punya kantor cabang di luar Wonosobo?  
+A: Tidak. Semua layanan resmi UNSIQ, termasuk PMB, berpusat di Wonosobo. Hati-hati terhadap pihak luar yang mengaku sebagai perwakilan kampus.
+
+Q: Apakah UNSIQ memiliki layanan untuk tamu luar kota?  
+A: Ya, tersedia guest house di sekitar Kampus 1 Kalibeber bagi orang tua atau tamu yang berkunjung saat periode penerimaan mahasiswa baru.
+
+Q: Apakah ada peta lokasi kampus di situs resmi?  
+A: Ada. Peta digital kedua kampus UNSIQ dapat diakses di halaman Kontak pmb.unsiq.ac.id yang menampilkan alamat lengkap dan petunjuk arah menuju lokasi.
+
+Q: Bagaimana cara menghubungi rektorat UNSIQ?  
+A: Rektorat UNSIQ dapat dihubungi melalui telepon (0286) 321873 atau email rektorat@unsiq.ac.id pada jam kerja untuk keperluan resmi dan administratif kampus.
+
+Q: Apakah UNSIQ menyediakan pusat informasi di bandara terdekat?  
+A: Belum. Namun dari Bandara Ahmad Yani Semarang tersedia travel langsung ke Wonosobo yang bisa mengantar sampai Kampus 1 Kalibeber UNSIQ dalam waktu sekitar 4 jam.
+
+Q: Apakah ada nomor darurat kampus UNSIQ?  
+A: Ya, pos keamanan kampus dapat dihubungi melalui nomor (0286) 321873 ext 2 jika terjadi keadaan darurat atau membutuhkan bantuan saat berada di lingkungan kampus.
+
+Q: Apakah kampus UNSIQ mudah dijangkau kendaraan besar?  
+A: Sangat mudah. Akses menuju kampus dapat dilalui bus dan mobil besar karena berada di jalan utama Kalibeber–Wonosobo yang beraspal lebar dan ramai dilalui angkutan umum.
+Q: Apa itu Beasiswa Prestasi di UNSIQ?  
+A: Beasiswa Prestasi UNSIQ adalah program penghargaan bagi calon mahasiswa berprestasi akademik atau non-akademik tingkat kabupaten hingga nasional dengan pembebasan SPP hingga 5 semester sesuai kategori prestasi.
+
+Q: Siapa yang berhak mendapatkan Beasiswa Prestasi UNSIQ?  
+A: Calon mahasiswa baru dengan nilai rata-rata rapor minimal 85 atau juara lomba akademik maupun non-akademik minimal tingkat kabupaten bisa mengajukan Beasiswa Prestasi di UNSIQ.
+
+Q: Berapa besar potongan biaya kuliah dari Beasiswa Prestasi UNSIQ?  
+A: Penerima Beasiswa Prestasi dapat potongan biaya SPP mulai dari 50% hingga 100% untuk 3 sampai 5 semester pertama, tergantung jenis prestasi dan tingkat kejuaraan.
+
+Q: Apa saja jenis prestasi yang diterima UNSIQ untuk beasiswa?  
+A: UNSIQ menerima prestasi akademik seperti olimpiade sains, serta non-akademik seperti MTQ, olahraga, seni, atau hafalan Qur’an dengan bukti sertifikat resmi minimal tingkat kabupaten.
+
+Q: Apakah Beasiswa Prestasi UNSIQ hanya untuk nilai akademik tinggi?  
+A: Tidak. Beasiswa juga diberikan untuk prestasi non-akademik seperti lomba keagamaan, olahraga, atau seni dengan bukti piagam penghargaan dari lembaga resmi penyelenggara lomba.
+
+Q: Bagaimana cara daftar Beasiswa Prestasi UNSIQ?  
+A: Calon mahasiswa mengunggah sertifikat prestasi atau rapor di portal pmb.unsiq.ac.id, lalu pilih opsi “Beasiswa Prestasi” pada tahap pendaftaran online sebelum verifikasi berkas.
+
+Q: Kapan waktu pendaftaran Beasiswa Prestasi dibuka?  
+A: Pendaftaran beasiswa ini dibuka bersamaan dengan Gelombang 1 PMB UNSIQ, yaitu mulai awal November sampai akhir Desember setiap tahun akademik baru.
+
+Q: Apakah Beasiswa Prestasi tersedia untuk semua fakultas di UNSIQ?  
+A: Ya, seluruh fakultas dan program studi UNSIQ menerima pendaftar jalur Beasiswa Prestasi, selama memenuhi syarat nilai dan bukti kejuaraan yang sah.
+
+Q: Apa saja dokumen yang harus diunggah untuk Beasiswa Prestasi?  
+A: Dokumen yang diperlukan meliputi rapor semester terakhir, ijazah, sertifikat prestasi, dan surat rekomendasi dari sekolah atau lembaga penyelenggara kompetisi.
+
+Q: Apakah ada batas usia untuk Beasiswa Prestasi?  
+A: Tidak ada batas usia khusus, asalkan peserta masih termasuk dalam kategori calon mahasiswa baru UNSIQ pada tahun berjalan dan belum pernah kuliah sebelumnya.
+
+Q: Apakah penerima Beasiswa Prestasi wajib mempertahankan IPK tertentu?  
+A: Ya, mahasiswa penerima beasiswa wajib mempertahankan IPK minimal 3.25 setiap semester agar bantuan biaya tetap aktif hingga periode beasiswa berakhir.
+
+Q: Apakah Beasiswa Prestasi UNSIQ dapat digabung dengan KIP-Kuliah?  
+A: Tidak. Mahasiswa hanya boleh menerima satu jenis beasiswa aktif dalam satu periode agar pemerataan bantuan pendidikan tetap terjaga di lingkungan UNSIQ.
+
+Q: Apa yang terjadi jika IPK penerima turun di bawah syarat?  
+A: Jika IPK turun di bawah 3.25 selama dua semester berturut-turut, maka hak Beasiswa Prestasi otomatis dihentikan sesuai kebijakan akademik UNSIQ.
+
+Q: Apakah ada wawancara untuk penerima Beasiswa Prestasi?  
+A: Ya, beberapa fakultas menyelenggarakan wawancara singkat untuk memverifikasi keaslian sertifikat dan menilai motivasi belajar calon penerima beasiswa.
+
+Q: Apakah sertifikat kejuaraan tingkat sekolah bisa digunakan?  
+A: Bisa, jika diterbitkan oleh lembaga resmi dan disertai surat rekomendasi dari kepala sekolah yang menjelaskan prestasi dan capaian akademik pendaftar.
+
+Q: Apakah Beasiswa Prestasi UNSIQ mencakup biaya praktikum?  
+A: Tidak semua. Hanya beasiswa kategori penuh (100%) yang mencakup biaya SPP dan praktikum, sementara beasiswa parsial hanya menanggung biaya SPP reguler.
+
+Q: Apakah prestasi organisasi bisa digunakan untuk daftar beasiswa?  
+A: Bisa, jika prestasi bersifat kompetitif dan diakui lembaga resmi, misalnya lomba debat, karya ilmiah, atau kejuaraan nasional antar kampus dan pelajar.
+
+Q: Apakah penerima Beasiswa Prestasi mendapat pembinaan khusus?  
+A: Ya, mahasiswa penerima beasiswa akan dibimbing langsung oleh dosen pembina fakultas untuk menjaga prestasi akademik dan konsistensi kegiatan kampus.
+
+Q: Apakah Beasiswa Prestasi UNSIQ diberikan otomatis kepada siswa berprestasi?  
+A: Tidak otomatis. Calon mahasiswa tetap harus mendaftar melalui sistem PMB UNSIQ dan mengunggah dokumen pendukung agar dapat diverifikasi panitia kampus.
+
+Q: Apakah mahasiswa lama UNSIQ bisa ikut Beasiswa Prestasi?  
+A: Tidak. Beasiswa ini hanya diperuntukkan bagi calon mahasiswa baru yang mendaftar melalui jalur PMB UNSIQ tahun berjalan.
+
+Q: Apakah Beasiswa Prestasi memiliki kuota terbatas?  
+A: Ya, jumlah penerima dibatasi setiap tahun tergantung anggaran kampus. Biasanya tiap fakultas hanya menerima 10–20 mahasiswa penerima baru.
+
+Q: Bagaimana pengumuman hasil seleksi Beasiswa Prestasi?  
+A: Hasil seleksi diumumkan dua minggu setelah pendaftaran ditutup melalui email dan dashboard akun PMB UNSIQ masing-masing peserta.
+
+Q: Apakah bisa mendaftar Beasiswa Prestasi tanpa ikut PMB UNSIQ?  
+A: Tidak bisa. Semua pendaftar harus melalui portal resmi pmb.unsiq.ac.id agar sistem kampus mencatat data dan verifikasi dilakukan secara sah.
+
+Q: Apakah prestasi tingkat provinsi mendapat keistimewaan?  
+A: Ya, juara tingkat provinsi atau nasional berhak mendapat beasiswa penuh hingga lima semester sesuai ketentuan Rektor UNSIQ tentang penghargaan prestasi.
+
+Q: Apakah beasiswa berlaku hingga lulus kuliah?  
+A: Tidak. Beasiswa berlaku maksimal 5 semester pertama. Setelah itu, mahasiswa wajib menanggung biaya kuliah reguler atau mengajukan beasiswa baru.
+
+Q: Bagaimana cara memperpanjang Beasiswa Prestasi?  
+A: Mahasiswa harus melapor setiap semester, menyerahkan KHS terbaru, dan mengikuti evaluasi akademik untuk perpanjangan otomatis selama memenuhi syarat IPK minimal.
+
+Q: Apakah ada syarat kehadiran kuliah untuk beasiswa?  
+A: Ada. Mahasiswa penerima harus hadir minimal 85% di setiap mata kuliah dan aktif dalam kegiatan kampus agar beasiswa tidak dicabut.
+
+Q: Apakah penerima Beasiswa Prestasi boleh pindah jurusan?  
+A: Boleh, tetapi hanya dengan izin Dekan dan setelah melalui evaluasi ulang kelayakan prestasi di program studi baru yang dipilih.
+
+Q: Apakah Beasiswa Prestasi UNSIQ hanya untuk siswa SMA?  
+A: Tidak, juga terbuka bagi lulusan MA dan SMK yang memiliki nilai akademik tinggi atau prestasi kompetitif sesuai bidang keahlian masing-masing.
+
+Q: Bagaimana jika sertifikat prestasi hilang?  
+A: Lampirkan surat keterangan dari sekolah atau lembaga penyelenggara lomba yang menyatakan pernah menjadi juara. Panitia PMB akan mempertimbangkan berdasarkan bukti pendukung lainnya.
+
+Q: Apakah ada biaya pendaftaran tambahan untuk Beasiswa Prestasi?  
+A: Tidak. Semua pendaftar beasiswa cukup membayar biaya formulir PMB sebesar Rp 250 ribu tanpa tambahan biaya evaluasi berkas.
+
+Q: Apakah Beasiswa Prestasi UNSIQ bisa dialihkan ke adik kelas?  
+A: Tidak bisa. Beasiswa bersifat pribadi dan hanya berlaku untuk penerima terdaftar di tahun akademik yang sama dengan pendaftaran awal.
+
+Q: Apakah ada surat keputusan resmi penerima beasiswa?  
+A: Ya, penerima Beasiswa Prestasi akan mendapat SK Rektor UNSIQ yang berisi nama, fakultas, besaran potongan, dan periode berlaku beasiswa.
+
+Q: Apakah mahasiswa Beasiswa Prestasi wajib ikut lomba baru tiap tahun?  
+A: Tidak wajib, tetapi disarankan tetap aktif di kegiatan kampus agar prestasi akademik dan non-akademik tetap meningkat sesuai semangat UNSIQ Qur’ani.
+
+Q: Apakah Beasiswa Prestasi mencakup biaya wisuda?  
+A: Tidak, biaya wisuda tetap menjadi tanggungan mahasiswa. Namun beberapa penerima prestasi nasional mendapat potongan tambahan dari fakultas.
+
+Q: Apakah Beasiswa Prestasi bisa dicabut karena pelanggaran etika?  
+A: Ya. Jika mahasiswa melanggar kode etik atau tidak menunjukkan sikap baik di kampus, UNSIQ berhak mencabut beasiswa meskipun prestasi akademiknya baik.
+
+Q: Apakah beasiswa bisa dialihkan antar fakultas?  
+A: Bisa dengan persetujuan Wakil Rektor Bidang Akademik, selama prestasi relevan dan kuota beasiswa di fakultas tujuan masih tersedia.
+
+Q: Apakah ada sesi pelatihan penerima Beasiswa Prestasi?  
+A: Ya, UNSIQ mengadakan pelatihan kepemimpinan dan motivasi belajar untuk penerima beasiswa agar mampu menjadi teladan akademik di lingkungan kampus.
+
+Q: Apakah penerima Beasiswa Prestasi wajib ikut organisasi kampus?  
+A: Tidak wajib, tetapi dianjurkan karena keaktifan di organisasi menjadi nilai tambahan dalam evaluasi perpanjangan beasiswa tiap semester.
+
+Q: Apakah mahasiswa Beasiswa Prestasi mendapat sertifikat tambahan?  
+A: Ya, kampus memberikan sertifikat penghargaan resmi dari Rektor UNSIQ sebagai bentuk pengakuan atas capaian prestasi akademik dan kontribusi positif mahasiswa.
+Q: Apa itu Beasiswa Tahfidz UNSIQ?  
+A: Beasiswa Tahfidz UNSIQ adalah program penghargaan bagi calon mahasiswa penghafal Al-Qur’an dengan pembebasan biaya kuliah 3–6 semester sesuai jumlah hafalan yang telah diverifikasi oleh tim kampus.
+
+Q: Siapa yang bisa mendaftar Beasiswa Tahfidz UNSIQ?  
+A: Calon mahasiswa baru dengan hafalan minimal 5 juz Al-Qur’an dapat mendaftar jalur Beasiswa Tahfidz melalui portal pmb.unsiq.ac.id dengan melampirkan surat keterangan hafalan dari lembaga resmi.
+
+Q: Berapa minimal hafalan untuk mendapatkan Beasiswa Tahfidz UNSIQ?  
+A: Minimal hafalan 5 juz mendapat bebas SPP 3 semester, 10 juz bebas 4 semester, dan 20 juz bebas 6 semester penuh sesuai ketentuan Rektor UNSIQ.
+
+Q: Apakah ada tes hafalan untuk Beasiswa Tahfidz UNSIQ?  
+A: Ya, calon penerima wajib mengikuti tes tahsin dan tahfidz di depan tim penguji Lembaga Pengembangan Al-Qur’an UNSIQ untuk memastikan keaslian dan kelancaran hafalan.
+
+Q: Apakah Beasiswa Tahfidz UNSIQ berlaku untuk semua program studi?  
+A: Ya, semua program studi di UNSIQ dapat diikuti jalur tahfidz, termasuk Fakultas Tarbiyah, Ekonomi, Teknik, dan Kesehatan selama kuota beasiswa masih tersedia.
+
+Q: Bagaimana cara daftar Beasiswa Tahfidz secara online?  
+A: Buka pmb.unsiq.ac.id, buat akun, isi data pendaftaran, unggah surat keterangan hafalan dari guru tahfidz, lalu pilih jalur “Beasiswa Tahfidz” saat pendaftaran.
+
+Q: Apakah hafalan harus diverifikasi langsung di UNSIQ?  
+A: Ya, setiap calon penerima wajib hadir atau mengikuti uji hafalan online dengan penguji resmi UNSIQ untuk memastikan kebenaran jumlah dan kelancaran hafalannya.
+
+Q: Apakah ada batas usia untuk Beasiswa Tahfidz?  
+A: Tidak ada batas usia khusus, namun calon mahasiswa harus baru lulus SMA/MA/SMK dan belum pernah kuliah di perguruan tinggi lain.
+
+Q: Apakah ada kuota Beasiswa Tahfidz setiap tahun?  
+A: Ya, UNSIQ membatasi sekitar 50–100 penerima baru per tahun akademik untuk menjaga kualitas seleksi dan pembinaan hafidz di lingkungan kampus.
+
+Q: Apa saja dokumen yang perlu disiapkan untuk jalur Tahfidz?  
+A: Calon mahasiswa harus menyiapkan KTP, ijazah/SKL, pas foto, dan surat keterangan hafalan yang ditandatangani oleh ustadz pembimbing tahfidz Al-Qur’an.
+
+Q: Apakah Beasiswa Tahfidz UNSIQ menanggung biaya asrama?  
+A: Tidak langsung, tapi penerima beasiswa mendapat potongan 50% biaya asrama Kampus 1 Kalibeber sebagai dukungan bagi mahasiswa tahfidz aktif.
+
+Q: Apakah penerima Beasiswa Tahfidz wajib ikut pembinaan?  
+A: Ya, mahasiswa tahfidz wajib mengikuti pembinaan rutin mingguan, setoran hafalan, dan kajian Qur’ani yang diselenggarakan oleh Lembaga Pengembangan Al-Qur’an UNSIQ.
+
+Q: Apakah hafalan bisa ditambah setelah diterima beasiswa?  
+A: Bisa. Jika mahasiswa menambah hafalan hingga mencapai kategori lebih tinggi (misal dari 10 ke 20 juz), maka potongan biaya bisa ditingkatkan pada semester berikutnya.
+
+Q: Apakah mahasiswa KIP-Kuliah boleh ikut Beasiswa Tahfidz?  
+A: Tidak bisa. Kedua beasiswa tidak dapat digabung, namun mahasiswa KIP yang hafidz tetap mendapat pembinaan khusus dari tim tahfidz kampus.
+
+Q: Apakah ada ujian ulang hafalan setiap semester?  
+A: Ada. Setiap semester dilakukan evaluasi hafalan minimal satu juz baru sebagai syarat perpanjangan status penerima Beasiswa Tahfidz UNSIQ.
+
+Q: Apakah Beasiswa Tahfidz UNSIQ berlaku sampai lulus kuliah?  
+A: Tidak. Beasiswa berlaku maksimal enam semester, namun mahasiswa tetap bisa mendapat pembinaan tahfidz hingga lulus tanpa biaya tambahan.
+
+Q: Bagaimana penilaian dalam tes hafalan UNSIQ?  
+A: Penilaian mencakup ketepatan bacaan, tajwid, kelancaran hafalan, serta adab membaca Qur’an. Hasil uji dinilai langsung oleh penguji dari LPQ UNSIQ.
+
+Q: Apakah peserta tes hafalan boleh online dari rumah?  
+A: Ya, untuk peserta luar daerah, UNSIQ menyediakan opsi tes hafalan daring melalui Zoom dengan jadwal yang ditentukan oleh panitia tahfidz kampus.
+
+Q: Apakah hafalan juz pilihan diterima?  
+A: Tidak. Hafalan harus berurutan dari juz pertama, atau sesuai metode tasmi’ standar UNSIQ, agar valid untuk perhitungan jumlah juz yang diakui.
+
+Q: Apakah ada pembimbing tahfidz di kampus UNSIQ?  
+A: Ada. Mahasiswa penerima beasiswa dibimbing langsung oleh ustadz dan ustadzah dari Lembaga Pengembangan Al-Qur’an yang menetap di kampus Kalibeber.
+
+Q: Apakah penerima Beasiswa Tahfidz wajib mengikuti PBAK?  
+A: Ya, seperti mahasiswa lain, penerima beasiswa wajib mengikuti Pengenalan Budaya Akademik dan Kemahasiswaan sebelum memulai kegiatan kuliah.
+
+Q: Apakah Beasiswa Tahfidz bisa dicabut?  
+A: Bisa, jika mahasiswa tidak aktif mengaji, tidak mengikuti pembinaan, atau tidak menambah hafalan sesuai target semester yang ditentukan kampus.
+
+Q: Apakah Beasiswa Tahfidz UNSIQ mencakup biaya wisuda?  
+A: Tidak, namun mahasiswa tahfidz yang hafalan 20 juz ke atas akan mendapat potongan biaya wisuda 50% sebagai bentuk penghargaan dari kampus.
+
+Q: Apakah hafalan 30 juz dapat beasiswa penuh?  
+A: Ya, penghafal 30 juz berhak atas pembebasan biaya kuliah penuh selama 8 semester dan mendapat piagam kehormatan langsung dari Rektor UNSIQ.
+
+Q: Bagaimana pengumuman hasil seleksi Beasiswa Tahfidz?  
+A: Hasil seleksi diumumkan secara resmi di portal pmb.unsiq.ac.id dan dikirim ke email masing-masing peserta setelah proses tes hafalan selesai diverifikasi.
+
+Q: Apakah Beasiswa Tahfidz bisa untuk mahasiswa luar Jawa?  
+A: Bisa. Calon mahasiswa dari seluruh Indonesia dapat mengikuti seleksi tahfidz, termasuk yang hafalan diverifikasi secara daring oleh tim LPQ UNSIQ.
+
+Q: Apakah mahasiswa tahfidz mendapat fasilitas tambahan?  
+A: Ya, penerima beasiswa mendapat akses ruang tahfidz khusus, pembinaan Qur’an intensif, dan kesempatan menjadi imam tetap Masjid Al-Qur’an UNSIQ.
+
+Q: Apakah Beasiswa Tahfidz hanya untuk laki-laki?  
+A: Tidak. Program ini terbuka untuk laki-laki dan perempuan, asalkan memenuhi syarat hafalan minimal dan lulus verifikasi oleh tim penguji tahfidz kampus.
+
+Q: Apakah mahasiswa tahfidz wajib mengikuti lomba MTQ kampus?  
+A: Tidak wajib, tetapi sangat dianjurkan karena UNSIQ sering mengirimkan perwakilan mahasiswa tahfidz ke lomba MTQ tingkat nasional setiap tahun.
+
+Q: Apakah mahasiswa tahfidz mendapat prioritas asrama?  
+A: Ya, mahasiswa penerima beasiswa tahfidz mendapat prioritas kamar di asrama dekat masjid agar mudah mengikuti setoran hafalan dan pembinaan rutin.
+
+Q: Bagaimana cara memperpanjang Beasiswa Tahfidz?  
+A: Lakukan evaluasi hafalan tiap semester, serahkan surat pembimbing tahfidz, dan pastikan hafalan bertambah sesuai target agar beasiswa tetap aktif.
